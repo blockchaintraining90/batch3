@@ -1,0 +1,1626 @@
+1. Healthcare
+2. Education
+3. Loyalty rewards
+4. Supply chain
+
+
+Sawtooth --> Intel, Linux, IBM, etc
+
+ Trusted Execution environments (TEE)  - Intel, smart contract ----> ISOlated TEE
+
+seth - sawtooth + eth ----> soliduty
+
+consensus - proof of elapsed time (POET) --- high txn procesing, parallel txn supports, increased throughput
+
+
+clinet: read balance button
+
+rest api: http://abc.com/getBalance
+
+blockchain: func getBalance (uint address, int balance)
+
+
+Application Binary Interface---- EVM/ETH
+
+Application Program Interface ---- enterprise solutions
+
+client ----> ABI ---> ----> Web3/js/ether.js frameworks ----> ethereum blockchain
+
+client ----> API calls ----> SDK(hyperledger, Corda) ---> enterprise Blockchain
+
+seth -- ABI ---- ETH
+
+
+Distubibuted apps:
+-----------------
+
+1. Linux commands
+2. Docker
+3. Docker compose
+4. Kubernetes
+
+to find out process id and kill the pid ---- 30303
+
+kill -9 pid
+
+netstat -tulpn | grep 30303
+
+1. 
+2. 
+3. 30303
+ 
+
+grep is a fileter command 
+
+
+docker containers:
+------------------
+
+1. Client
+2. Rest ai
+3. Validatir
+4. TPU
+5. P2P
+
+docker 
+docker compose
+
+
+Docker is all about containerizing applications:
+
+
+main.go:
+--------
+
+ func getbalance (address, balance)
+ { 
+ return balance
+}
+
+
+ func addbalance (address, balance)
+ { 
+ return balance
+}
+
+
+Golang code: go software, set some path for go binaries,
+
+go run main.go
+
+
+Containerized applications:
+---------------------------
+
+ Create/build a simple dockerfile
+
+ 1. IMPORT GO VERSION 1.19 from docker repository
+ 2. mkdir /home/bin/jag/blockchain/main.go
+ 3. go build
+ 4. go run
+
+ Container --- goSmartContract1 ----> upload on a registry ----> download and use the container
+
+creating simple light weight app --- docker
+
+
+go run client.go
+
+go run validator.go
+
+{
+
+ jnkl
+
+
+}
+
+
+
+
+read persm
+
+write permission
+
+execute permission
+
+chmod +x --- execute permission for file/app/appimage/deb
+
+
+
+1. Client
+2. Rest api 
+3. Validator
+4. p2p
+5. Txn processorr
+
+
+sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose
+
+sudo chmod +x /usr/bin/docker-compose
+
+
+import validator from ('validator')
+
+image:
+
+
+1. create pub n priv
+2. start the consesne
+3. dev/prod
+4. establish consessus at port1
+5. establishes tcp at port2
+6. establish network at port3
+
+
+Validator is a component which performs validation logic (pre built) and need not worry on the implementation part
+
+import validator from 'validator' --- npm module
+
+docker images are available over docker hub
+
+
+
+ 
+create some transactions (running it thru bash shell commands) (txnpayload: ggg)  -----> send to rest api ----> validator----> TPU(smart contract) [optional]
+
+Hyper Fabric---->
+
+
+
+client1 ----> peer1  ---- ordering ---[1,2,3,---10] , [lederr/follower elcion) ----300 txn -- [1,2,3,4----300]
+client2 ----> peer2  ---- ordering----300 txn -- [1,2,3,-----300]
+clien3 -----> peer3  ---- ordering----300 txn -- [1,23,....---300]
+ 
+
+
+{
+
+ in 1sec ----> 300 txn
+
+}
+
+
+18.00000
+
+
+asset      ---- demoasset
+domain     ---  demoid
+preceion   --   5
+
+
+
+sawtooth/iorha ---- are used only for track and trace for supply chain POC's----
+
+ assets--- name
+ locaion----- 
+
+
+
+
+ geth, ganache, metamask, ---imp
+
+ sawtooth/iroha --- concepts and architecrure part
+ 
+ 
+ Docker, Docker compose -----
+ Linux commands -----
+
+
+
+
+
+from nksingh413@gmail.com to All Participants:
+GM
+from nksingh413@gmail.com to All Participants:
+yes
+from pratikshukla378@gmail.com  to All Participants:
+Yes
+from ronakrrb@gmail.com to All Participants:
+good morning
+from nksingh413@gmail.com to Jagadeesh (Faculty) (privately):
+This is what coming when i run miner.start()...................> miner.start()
+INFO [10-09|03:16:47.422] Updated mining threads                   threads=4
+INFO [10-09|03:16:47.422] Transaction pool price threshold updated price=1000000000
+null
+> 
+> INFO [10-09|03:16:47.422] Commit new mining work                   number=1 sealhash="dfc7ca…673261" uncles=0 txs=0 gas=0 fees=0 elapsed="195.525µs"
+from prashant1611  to All Participants:
+Good Morning!
+from nksingh413@gmail.com to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+My balance was still 0 later
+from mrlingam087 to All Participants:
+good morning sir
+from joseph.kanish.bernard@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+voice is bit low. 
+from nksingh413@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from chethan.cs95@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from varnaag1999@gmail.com to All Participants:
+yes
+from pratikshukla378@gmail.com  to All Participants:
+Yes
+from davidmdenis to All Participants:
+yes sir
+from prashantbkhopkar to All Participants:
+Correct
+from prashant1611  to All Participants:
+what was the blockchain used? Polygon?
+from muppala.pratap@gmail.com to All Participants:
+like proof of work..proof of concept how it works ..can u expline littel 
+from vinuvishwa to All Participants:
+does it eliminate Regulatary bodies like SEBI ? 
+from prashantbkhopkar to All Participants:
+Can you please explain what is fungible and nft?
+from mrlingam087 to All Participants:
+ERC20 IS BROKERAGE ?
+from nksingh413@gmail.com to All Participants:
+All the token have same value they can be exchange with each other...
+from gyanadc to All Participants:
+1 token value
+from mrlingam087 to All Participants:
+TOKEN LIKE A SHARE VALE?
+from prashantbkhopkar to All Participants:
+Ok
+from davidmdenis to All Participants:
+good
+from pranabnayak21@gmail.com to All Participants:
+I have  a question
+from pranabnayak21@gmail.com to All Participants:
+Can tokens be updated? E.g., what if I sell some shares?
+from mrlingam087 to All Participants:
+OKAY SIR
+from kannan.varadharajan@gmail.com to All Participants:
+How does redeem work ?
+from davidmdenis to All Participants:
+saves lots of time and will reduce frauds
+from bala.rhapsodic@gmail.com to All Participants:
+I've.a question
+from muppala.pratap@gmail.com to All Participants:
+if we extend thse to as trade like share trade
+from muppala.pratap@gmail.com to All Participants:
+how can we achive..as we know bock chan is slow its kind of public..if usse this shares as trade
+from pranabnayak21@gmail.com to All Participants:
+So one token == one share
+from bala.rhapsodic@gmail.com to All Participants:
+if incase a person took loan will those token for a paricular user will be blocked because its a collateral ?
+from prashantbkhopkar to All Participants:
+apple share?
+from prashant1611  to All Participants:
+bitcoin is a fungible token with market value. Hence, it works as a currency too. correct understanding?
+from muppala.pratap@gmail.com to All Participants:
+any fianance use case please...like trading etc
+from nksingh413@gmail.com to All Participants:
+Yeah
+from bala.rhapsodic@gmail.com to All Participants:
+S
+from thoratbhakti289 to All Participants:
+OK
+from kannan.varadharajan@gmail.com to All Participants:
+How are the allocation algorithms implemented ?
+from davidmdenis to All Participants:
+nice idea
+from bala.rhapsodic@gmail.com to All Participants:
+if incase a person took loan will those token for a paricular user will be blocked because its a collateral ?
+from prashantbkhopkar to All Participants:
+ok
+from davidmdenis to All Participants:
+yes else one can take loan and then trade the tokens too 
+from meringes_11@hotmail.com to All Participants:
+could you repeat this slide
+from bala.rhapsodic@gmail.com to All Participants:
+could u pl come the decentrailzation point?
+from bala.rhapsodic@gmail.com to All Participants:
+again with the*
+from arjunlamba737 to All Participants:
+can you please give example of accountable ?
+from prashantbkhopkar to All Participants:
+How a legal body can get view - in case of disputes?
+from prashant1611  to All Participants:
+the network is permissioned but transaction data will be public. correct?
+from davidmdenis to All Participants:
+why these interesting names   ....
+from kannan.varadharajan@gmail.com to All Participants:
+Who can come up with the implementations of these ?
+from nksingh413@gmail.com to All Participants:
+Can we write smart contract using solidity in hyperledger flavours as well?
+from meringes_11@hotmail.com to All Participants:
+can't hear u
+from prashantbkhopkar to All Participants:
+push data and get reports?
+from prashantbkhopkar to All Participants:
+push and pull
+from prashantbkhopkar to All Participants:
+right
+from prashantbkhopkar to All Participants:
+microservices
+from kannan.varadharajan@gmail.com to All Participants:
+Can we add new APIs ?
+from pranabnayak21@gmail.com to All Participants:
+Sorry to interrupt. Is there concept of ABI in enterprise blokchain?
+from kannan.varadharajan@gmail.com to All Participants:
+can there be mulitple validator instances similar to miners ?
+from pranabnayak21@gmail.com to All Participants:
+Are ABIs applicable to enterprise blockchains?
+from meringes_11@hotmail.com to All Participants:
+what's ABI?
+from kannan.varadharajan@gmail.com to All Participants:
+so its not interoperable with eth?
+from pranabnayak21@gmail.com to All Participants:
+Thank you. my next question is can traditional REST APIs interact with ABIs?
+from soujanya.veerubhotla@gmail.com to All Participants:
+pls paste the four lines in the chat starting ABI
+from Jagadeesh (Faculty) to All Participants:
+Application Binary Interface---- EVM/ETH
+Application Program Interface ---- enterprise solutions
+client ----> ABI ---> ----> Web3/js/ether.js frameworks ----> blockchain
+client ----> API calls ----> SDK ---> Blockchain
+from vinuvishwa to All Participants:
+SDK -- Solidity ? 
+from gprabhu96@gmail.com to All Participants:
+how does seth (sawtooth + ethereum) function? Does it use ABI or API?
+from sabu.sumit@gmail.com to All Participants:
+we can import these SDKs into our project and then use them.. right?
+from ronakrrb@gmail.com to All Participants:
+Self Learning --> Session 2 --> Lesson 6 --> 6.10
+from nksingh413@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from prashant1611 to All Participants:
+2 mins pls
+from varnaag1999@gmail.com to All Participants:
+yes
+from prashant1611 to All Participants:
+it's still coming up
+from ronakrrb@gmail.com to All Participants:
+https://lms.simplilearn.com/user/project/download-attachment?file=1620898067_1sawtooth_network_andcreate_basic_transaction.docx
+from kushagras360 to All Participants:
+sir its taking a while
+from gprabhu96@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+Lab is running
+from thoratbhakti289 to All Participants:
+LAB IS RUNNING FOR ME
+from prashant1611 to All Participants:
+What's your way of remembering linux commands :) 
+from vinuvishwa to All Participants:
+am not familiar with Docker and Kubernetes 
+from prashantbkhopkar to All Participants:
+netstat was another
+from prashant1611 to All Participants:
+Thanks!
+from mrlingam087 to All Panelists:
+yes
+from prashant1611 to All Participants:
+can you pls define docker once more..
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get remove docker-compose
+from prashant1611 to All Participants:
+something like a windows folder ?
+from manbhakhonglah to All Participants:
+is it possible to move existing large scale enterprise systems, software, data and processes to the blockchain? 
+from sabu.sumit@gmail.com to All Participants:
+like a .batch file?
+from abho.sundaresan@gmail.com to All Participants:
+a docker Container can be created on the fly to deploy a particular application or env. All containers are run by a single operating sys kernel and are thus its way more lightweight than virtual machines.
+from arjunlamba737 to All Participants:
+rept plz
+from Jagadeesh (Faculty) to All Participants:
+docker --version
+from abho.sundaresan@gmail.com to All Participants:
+docker commands are very simple 
+from Jagadeesh (Faculty) to All Participants:
+docker-compose --version
+from sabu.sumit@gmail.com to All Participants:
+yes I have both
+from kannan.varadharajan@gmail.com to All Participants:
+which version to install ?
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get remove docker-compose
+from prashantbkhopkar to All Participants:
+I have both installed
+from pranabnayak21@gmail.com to All Participants:
+I see it's there in my case 
+from arjunlamba737 to All Participants:
+i have version 
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get remove --auto-remove docker-compose
+from abho.sundaresan@gmail.com to All Participants:
+done
+from thoratbhakti289 to All Participants:
+done
+from sabu.sumit@gmail.com to All Participants:
+even after removing ... it is showing version when I search again for version
+from pranabnayak21@gmail.com to All Participants:
+Right :)
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get remove --auto-remove docker-compose
+from thoratbhakti289 to All Participants:
+done
+from Jagadeesh (Faculty) to All Participants:
+sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose
+from Jagadeesh (Faculty) to All Participants:
+sudo chmod +x /usr/bin/docker-compose
+from sabu.sumit@gmail.com to All Participants:
+file previledges
+from nksingh413@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from Jagadeesh (Faculty) to All Participants:
+https://github.com/hyperledger/sawtooth-core/blob/main/docker/compose/sawtooth-default.yaml
+from prashantbkhopkar to All Participants:
+not able to install using curl command
+from prashantbkhopkar to All Participants:
+It says https is not supported
+from prashant1611 to All Participants:
+how can I check version of docker-composer 
+from Jagadeesh (Faculty) to All Participants:
+docker-compose --version
+from prashant1611 to All Participants:
+pls repeat the command
+from abho.sundaresan@gmail.com to All Participants:
+what should we save it as 
+from ronakrrb@gmail.com to All Panelists:
+Where to save the yaml file?
+from kannan.varadharajan@gmail.com to All Participants:
+-k for curl insecure
+from vinuvishwa to All Participants:
+can you share that again 
+from abho.sundaresan@gmail.com to All Participants:
+righo 
+from ronakrrb@gmail.com to All Panelists:
+Did we have to make any change in yaml file?
+from abho.sundaresan@gmail.com to All Participants:
+right*
+from nksingh413@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes
+from pkoratakar to All Participants:
+no
+from thoratbhakti289 to All Participants:
+yes
+from arjunlamba737 to All Participants:
+yes
+from ronakrrb@gmail.com to All Panelists:
+Okay
+from pkoratakar to All Participants:
+how to open and save
+from prashantbkhopkar to All Participants:
+Protocol "htts" not supported or disabled in libcurl
+from pranabnayak21@gmail.com to All Participants:
+it should be https
+from prashantbkhopkar to All Participants:
+please put the steps on notepad - I could not switch between your screen and my lab very easily
+from soujanya.veerubhotla@gmail.com to All Participants:
+5
+from prashantbkhopkar to All Participants:
+so dont know what steps to do to install the docker-compose which we removed
+from abho.sundaresan@gmail.com to All Participants:
+I use split screen for that reason 
+from prashant1611 to All Participants:
+@prashantb use the curl command, pls
+from Jagadeesh (Faculty) to All Participants:
+sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose
+sudo chmod +x /usr/bin/docker-compose
+from prashantbkhopkar to All Participants:
+That document is not correct - or else you were referring to some gui to install.
+from prashantbkhopkar to All Participants:
+Ok
+from pkoratakar to All Participants:
+unable to save
+from kannan.varadharajan@gmail.com to All Participants:
+does it create network as well ?
+from abho.sundaresan@gmail.com to All Participants:
+can you explain the access validator part 
+from abho.sundaresan@gmail.com to All Participants:
+ok the keygen sub is what generates a private key file and a public key file so that users can sign sawtooth transactions??
+from prashant1611 to All Participants:
+how is REST API service enabled..
+from kannan.varadharajan@gmail.com to All Participants:
+ where is transaction processor ? 
+from prashantbkhopkar to All Participants:
+shell + Swagger-ui
+from abho.sundaresan@gmail.com to All Participants:
+sure
+from prashantbkhopkar to All Participants:
+Docker-compose to be installed in terminal
+from prashantbkhopkar to All Participants:
+Its pending
+from ronakrrb@gmail.com to All Panelists:
+swagger UI is just a interface (webpage) for the APIs that will be created. For documentation purpose
+from ronakrrb@gmail.com to All Panelists:
+Its like developer documentation 
+from abho.sundaresan@gmail.com to All Participants:
+can changes be submitted to hyperledger consortium by any user?? or is it only by intel 
+from soujanya.veerubhotla@gmail.com to All Participants:
+How many minutes break
+from soujanya.veerubhotla@gmail.com to All Participants:
+20 min??
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from soujanya.veerubhotla@gmail.com to All Participants:
+ok 11.45 ok
+from kannan.varadharajan@gmail.com to All Participants:
+works
+from mrlingam087 to All Panelists:
+ok sir
+from pranabnayak21@gmail.com to All Participants:
+@prashant - Please use this command to install docker compose
+from pranabnayak21@gmail.com to All Participants:
+https://github.com/hyperledger/sawtooth-core/blob/main/docker/compose/sawtooth-default.yaml
+from prashantbkhopkar to All Participants:
+During break can we have the docker-compose installation fixed?
+from pranabnayak21@gmail.com to All Participants:
+sorry, this command - sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose
+from Jagadeesh (Faculty) to All Participants:
+sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose
+from Jagadeesh (Faculty) to All Participants:
+isn't this cmmand working @ Prashathbk ?
+from Jagadeesh (Faculty) to All Participants:
+sudo apt install curl
+from Jagadeesh (Faculty) to All Participants:
+sudo apt update
+sudo apt install curl
+from Jagadeesh (Faculty) to All Participants:
+curl
+from ronakrrb@gmail.com to All Panelists:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from write2arghyasaha@gmail.com  to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from mrlingam087 to All Panelists:
+yes
+from KONYALAABHISHEK to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from shruthi.lakshmi@gmail.com to All Panelists:
+Yes
+from gprabhu96@gmail.com to All Participants:
+yes
+from vk033397  to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+i think the docker-compose is already there as i had not executed the auto remove command.
+from prashantbkhopkar to All Participants:
+So we can proceed
+from prashantbkhopkar to All Participants:
+--version is showing me docker-compose version
+from Jagadeesh (Faculty) to All Participants:
+sudo service docker start
+from Jagadeesh (Faculty) to All Participants:
+sudo service docker status
+from Jagadeesh (Faculty) to All Participants:
+sudo docker-compose -f sawtooth-default.yaml up
+from prashantbkhopkar to All Participants:
+did we download the sawtooth file
+from Jagadeesh (Faculty) to All Participants:
+https://github.com/hyperledger/sawtooth-core/blob/main/docker/compose/sawtooth-default.yaml
+from pkoratakar to All Participants:
+unable to save sawtooth file
+from abho.sundaresan@gmail.com to All Participants:
+done 
+from Jagadeesh (Faculty) to All Participants:
+https://raw.githubusercontent.com/hyperledger/sawtooth-core/main/docker/compose/sawtooth-default.yaml
+from kannan.varadharajan@gmail.com to All Participants:
+https://raw.githubusercontent.com/hyperledger/sawtooth-core/main/docker/compose/sawtooth-default.yaml
+from Jagadeesh (Faculty) to All Participants:
+https://raw.githubusercontent.com/hyperledger/sawtooth-core/main/docker/compose/sawtooth-default.yaml
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from shruthi.lakshmi@gmail.com to All Panelists:
+Yes
+from nksingh413@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+please help - where to see these things
+from pkoratakar to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+I have to get the sawtooth.yaml 
+from abho.sundaresan@gmail.com to All Participants:
+if you use docker ps can you see the container ??
+from abho.sundaresan@gmail.com to All Participants:
+lol
+from Jagadeesh (Faculty) to All Participants:
+sudo docker ps
+from prashantbkhopkar to All Participants:
+NO Containers shown 
+from prashantbkhopkar to All Participants:
+?
+from Jagadeesh (Faculty) to All Participants:
+sudo docker-compose -f sawtooth-default.yaml up
+from abho.sundaresan@gmail.com to All Participants:
+hey Prashant , what do you need
+from pranabnayak21@gmail.com to All Participants:
+Prashant - open terminal in dowloads folder and execute this command
+from abho.sundaresan@gmail.com to All Participants:
+go to the location of the saved .yaml file , run the command 
+from prashantbkhopkar to All Participants:
+how to save this file?
+from abho.sundaresan@gmail.com to All Participants:
+right click , save as
+from Jagadeesh (Faculty) to All Participants:
+https://raw.githubusercontent.com/hyperledger/sawtooth-core/main/docker/compose/sawtooth-default.yaml
+from prashantbkhopkar to All Participants:
+save page as?
+from prashantbkhopkar to All Participants:
+I will copy and paste content in a file with name docker-deault.yaml
+from prashantbkhopkar to All Participants:
+that should be ok
+from mrlingam087 to All Panelists:
+done
+from abho.sundaresan@gmail.com to All Participants:
+you dont have to ctrl+A and save, just right click 
+from Jagadeesh (Faculty) to All Participants:
+sudo docker exec -it sawtooth-shell-default bash
+from abho.sundaresan@gmail.com to All Participants:
+so curl http://rest-api:8008/blocks??
+from Jagadeesh (Faculty) to All Participants:
+curl http://rest-api:8008/blocks
+from Jagadeesh (Faculty) to All Participants:
+intkey create_batch --count 10 --key-count 5
+from vinuvishwa to All Participants:
+can you explain% this command again 
+from Jagadeesh (Faculty) to All Participants:
+intkey load -f batches.intkey -U http://rest-api:8008
+from abho.sundaresan@gmail.com to All Participants:
+so intkey is used to prepare batches of transactions that set a few keys to random values and randomly increment and decrement those values??
+from prashantbkhopkar to All Participants:
+Wil u pls wait a while
+from prashantbkhopkar to All Participants:
+and help me save file ? i have it in the browser
+from prashantbkhopkar to All Participants:
+ok
+from bala.rhapsodic@gmail.com to All Panelists:
+what this load will do
+from muppala.pratap@gmail.com to All Participants:
+for me also copy not working
+from ronakrrb@gmail.com to All Panelists:
+Can you explain both the commands again please?
+from Jagadeesh (Faculty) to All Participants:
+sawtooth batch submit -f batches.intkey --url http://rest-api:8008
+from prashantbkhopkar to All Participants:
+Actually there a a couple of things that we must impove upon - switching between lab session and your screen also causes confusion. I am using a windows machine - not on mac.
+from kannan.varadharajan@gmail.com to All Participants:
+what is difference between intkey load and batch submit
+from prashant1611 to All Participants:
+So are we writing a block on blockchain with this command ?
+from ronakrrb@gmail.com to All Panelists:
+keycount 5 ?
+from ronakrrb@gmail.com to All Panelists:
+okay
+from abho.sundaresan@gmail.com to All Participants:
+batches created using the command intkey create_batch, can  be submitted to validator using the sawtooth command ??
+from Jagadeesh (Faculty) to All Participants:
+sawtooth block list --url http://rest-api:8008
+from Jagadeesh (Faculty) to All Participants:
+sawtooth block show --url http://rest-api:8008 paste the actual blockID
+from abho.sundaresan@gmail.com to All Participants:
+able to see it 
+from prashantbkhopkar to All Participants:
+we will not be able to see any details of the actual trx that is in the block
+from abho.sundaresan@gmail.com to All Participants:
+nope
+from nksingh413@gmail.com to All Participants:
+Done
+from abho.sundaresan@gmail.com to All Participants:
+you can see the logs using docker logs {ContainerName}
+from Jagadeesh (Faculty) to All Participants:
+sawtooth state list --url http://rest-api:8008
+from abho.sundaresan@gmail.com to All Participants:
+so ctrl+C will stop the containers right ??
+from shruthi.lakshmi@gmail.com to All Panelists:
+It's showing an error : Bad request..
+from meringes_11@hotmail.com to All Participants:
+What's the state address?
+from thoratbhakti289 to All Participants:
+today only we will cover Swatooth?
+from mrlingam087 to All Panelists:
+sir i cant see the block id
+from Jagadeesh (Faculty) to All Participants:
+sawtooth state show --url http://rest-api:8008 {STATE_ADDRESS}
+from abho.sundaresan@gmail.com to All Participants:
+how do you use the keygen commans ??
+from abho.sundaresan@gmail.com to All Participants:
+commands*
+from ronakrrb@gmail.com to All Panelists:
+yes
+from nksingh413@gmail.com to All Participants:
+Yes
+from sabu.sumit@gmail.com to All Participants:
+good
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+can you explain state once. 
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from prashant1611 to All Participants:
+pls explain state list command once
+from bala.rhapsodic@gmail.com to All Panelists:
+ what is state?
+from prashant1611 to All Participants:
+does state mean node here ?
+from abho.sundaresan@gmail.com to All Participants:
+are you going to cover keygen commands as well??
+from abho.sundaresan@gmail.com to All Participants:
+ok 
+from arjunlamba737 to All Participants:
+self learning class are not play after the live class cover any topic why ?
+from thoratbhakti289 to All Participants:
+yes i have also tried once
+from abho.sundaresan@gmail.com to All Participants:
+is it like role based access control???
+from kannan.varadharajan@gmail.com to All Participants:
+is the ordering service centralized ?
+from abho.sundaresan@gmail.com to All Participants:
+understood 
+from abho.sundaresan@gmail.com to All Participants:
+ so hyperledger Iroha clients need interaction with any one of the peers and that peer will proceed other operations with other peers
+from pkoratakar to All Participants:
+centralized or decentralized??
+from kannan.varadharajan@gmail.com to All Participants:
+also why is simulator required ?
+from Jagadeesh (Faculty) to All Participants:
+sudo docker system prune 
+from mrlingam087 to All Panelists:
+what is prune sir
+from soujanya.veerubhotla@gmail.com to All Participants:
+1.3, 1.4,1.5 migght be needed
+from abho.sundaresan@gmail.com to All Participants:
+done
+from lakshay to All Participants:
+do we need to stop the container first?
+from abho.sundaresan@gmail.com to All Participants:
+can't we use docker kill <container id>
+from ronakrrb@gmail.com to All Panelists:
+in the other terminal I did ctrl+c and it stopped 
+from lakshay to All Participants:
+and then prune 
+from kannan.varadharajan@gmail.com to All Participants:
+I think you need to stop the service from other terminal ctrl + c
+from prashant1611 to All Participants:
+I used ^C and it gracefully closed
+from abho.sundaresan@gmail.com to All Participants:
+sudo docker stop <container id>
+from Jagadeesh (Faculty) to All Participants:
+sudo docker stop <>
+from pranabnayak21@gmail.com to All Participants:
+This workd
+from Jagadeesh (Faculty) to All Participants:
+sudo docker network create srcmake-iroha-network
+from Jagadeesh (Faculty) to All Participants:
+sudo docker run --name some-postgres -e POSTGRES_USER=postgres   -e POSTGRES_PASSWORD=mysecretpassword -p 5432:5432 --network=srcmake-iroha-network -d postgres:9.5
+from pranabnayak21@gmail.com to All Participants:
+good so far
+from abho.sundaresan@gmail.com to All Participants:
+done
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get install git
+from Jagadeesh (Faculty) to All Participants:
+git clone https://github.com/hyperledger/iroha --depth=1
+from Jagadeesh (Faculty) to All Participants:
+sudo docker pull hyperledger/iroha:develop 
+from abho.sundaresan@gmail.com to All Participants:
+yup done 
+from Jagadeesh (Faculty) to All Participants:
+sudo docker run --name iroha -d -p 50051:50051 -v $(pwd)/iroha/example:/opt/iroha_data -v blockstore:/tmp/block_store --network=srcmake-iroha-network  -e KEY='node0' hyperledger/iroha:latest
+from Jagadeesh (Faculty) to All Participants:
+sudo docker ps
+from Jagadeesh (Faculty) to All Participants:
+sudo docker exec -it iroha /bin/bash
+from abho.sundaresan@gmail.com to All Participants:
+to remove any setup incase its not working you can use sudo bash teardown.sh
+from pranabnayak21@gmail.com to All Participants:
+command in chat please
+from Jagadeesh (Faculty) to All Participants:
+iroha-cli -account_name admin@test
+from Jagadeesh (Faculty) to All Participants:
+10
+from Jagadeesh (Faculty) to All Participants:
+domain id is  demoid
+from Jagadeesh (Faculty) to All Participants:
+rol nme is demo
+from pranabnayak21@gmail.com to All Participants:
+asset precision?
+from abho.sundaresan@gmail.com to All Participants:
+done 
+from kannan.varadharajan@gmail.com to All Participants:
+what is domain ?
+from mrlingam087 to All Panelists:
+sir how to do transaction 2 or other node with some value of ammount
+from prashantbkhopkar to All Participants:
+ok
+from abho.sundaresan@gmail.com to All Participants:
+can we also run this as a flask web application with localhost??
+from mrlingam087 to All Panelists:
+okay sir
+from ronakrrb@gmail.com to All Panelists:
+can you explain precision again please?
+from prashantbkhopkar to All Participants:
+I would do them in my free time today. After solving the issues that I have faced.
+from abho.sundaresan@gmail.com to All Participants:
+so basically these scripts will pull latest Iroha and Postgres images and creates the required network and persistent volume store and runs both the containers
+from abho.sundaresan@gmail.com to All Participants:
+right ??
+from davidmdenis to Jagadeesh (Faculty) (privately):
+sir which options are to be used for getting recording
+from prashantbkhopkar to All Participants:
+Recordings will help.. and also if the documents are updated (in the LSM interface)
+from abho.sundaresan@gmail.com to All Participants:
+sure
+from mrlingam087 to All Panelists:
+sawthoo and iroha using for monitoring purpose  only?
+from prashantbkhopkar to All Participants:
+Certainly - thanks
+from Jagadeesh (Faculty) to All Participants:
+https://sawtooth.hyperledger.org/docs/1.2/
+from Jagadeesh (Faculty) to All Participants:
+https://iroha.readthedocs.io/en/develop/
+
+
+
+from nksingh413@gmail.com to All Participants:
+GM
+from nksingh413@gmail.com to All Participants:
+yes
+from pratikshukla378@gmail.com  to All Participants:
+Yes
+from ronakrrb@gmail.com to All Participants:
+good morning
+from nksingh413@gmail.com to Jagadeesh (Faculty) (privately):
+This is what coming when i run miner.start()...................> miner.start()
+INFO [10-09|03:16:47.422] Updated mining threads                   threads=4
+INFO [10-09|03:16:47.422] Transaction pool price threshold updated price=1000000000
+null
+> 
+> INFO [10-09|03:16:47.422] Commit new mining work                   number=1 sealhash="dfc7ca…673261" uncles=0 txs=0 gas=0 fees=0 elapsed="195.525µs"
+from prashant1611  to All Participants:
+Good Morning!
+from nksingh413@gmail.com to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+My balance was still 0 later
+from mrlingam087 to All Participants:
+good morning sir
+from joseph.kanish.bernard@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+voice is bit low. 
+from nksingh413@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from chethan.cs95@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from varnaag1999@gmail.com to All Participants:
+yes
+from pratikshukla378@gmail.com  to All Participants:
+Yes
+from davidmdenis to All Participants:
+yes sir
+from prashantbkhopkar to All Participants:
+Correct
+from prashant1611  to All Participants:
+what was the blockchain used? Polygon?
+from muppala.pratap@gmail.com to All Participants:
+like proof of work..proof of concept how it works ..can u expline littel 
+from vinuvishwa to All Participants:
+does it eliminate Regulatary bodies like SEBI ? 
+from prashantbkhopkar to All Participants:
+Can you please explain what is fungible and nft?
+from mrlingam087 to All Participants:
+ERC20 IS BROKERAGE ?
+from nksingh413@gmail.com to All Participants:
+All the token have same value they can be exchange with each other...
+from gyanadc to All Participants:
+1 token value
+from mrlingam087 to All Participants:
+TOKEN LIKE A SHARE VALE?
+from prashantbkhopkar to All Participants:
+Ok
+from davidmdenis to All Participants:
+good
+from pranabnayak21@gmail.com to All Participants:
+I have  a question
+from pranabnayak21@gmail.com to All Participants:
+Can tokens be updated? E.g., what if I sell some shares?
+from mrlingam087 to All Participants:
+OKAY SIR
+from kannan.varadharajan@gmail.com to All Participants:
+How does redeem work ?
+from davidmdenis to All Participants:
+saves lots of time and will reduce frauds
+from bala.rhapsodic@gmail.com to All Participants:
+I've.a question
+from muppala.pratap@gmail.com to All Participants:
+if we extend thse to as trade like share trade
+from muppala.pratap@gmail.com to All Participants:
+how can we achive..as we know bock chan is slow its kind of public..if usse this shares as trade
+from pranabnayak21@gmail.com to All Participants:
+So one token == one share
+from bala.rhapsodic@gmail.com to All Participants:
+if incase a person took loan will those token for a paricular user will be blocked because its a collateral ?
+from prashantbkhopkar to All Participants:
+apple share?
+from prashant1611  to All Participants:
+bitcoin is a fungible token with market value. Hence, it works as a currency too. correct understanding?
+from muppala.pratap@gmail.com to All Participants:
+any fianance use case please...like trading etc
+from nksingh413@gmail.com to All Participants:
+Yeah
+from bala.rhapsodic@gmail.com to All Participants:
+S
+from thoratbhakti289 to All Participants:
+OK
+from kannan.varadharajan@gmail.com to All Participants:
+How are the allocation algorithms implemented ?
+from davidmdenis to All Participants:
+nice idea
+from bala.rhapsodic@gmail.com to All Participants:
+if incase a person took loan will those token for a paricular user will be blocked because its a collateral ?
+from prashantbkhopkar to All Participants:
+ok
+from davidmdenis to All Participants:
+yes else one can take loan and then trade the tokens too 
+from meringes_11@hotmail.com to All Participants:
+could you repeat this slide
+from bala.rhapsodic@gmail.com to All Participants:
+could u pl come the decentrailzation point?
+from bala.rhapsodic@gmail.com to All Participants:
+again with the*
+from arjunlamba737 to All Participants:
+can you please give example of accountable ?
+from prashantbkhopkar to All Participants:
+How a legal body can get view - in case of disputes?
+from prashant1611  to All Participants:
+the network is permissioned but transaction data will be public. correct?
+from davidmdenis to All Participants:
+why these interesting names   ....
+from kannan.varadharajan@gmail.com to All Participants:
+Who can come up with the implementations of these ?
+from nksingh413@gmail.com to All Participants:
+Can we write smart contract using solidity in hyperledger flavours as well?
+from meringes_11@hotmail.com to All Participants:
+can't hear u
+from prashantbkhopkar to All Participants:
+push data and get reports?
+from prashantbkhopkar to All Participants:
+push and pull
+from prashantbkhopkar to All Participants:
+right
+from prashantbkhopkar to All Participants:
+microservices
+from kannan.varadharajan@gmail.com to All Participants:
+Can we add new APIs ?
+from pranabnayak21@gmail.com to All Participants:
+Sorry to interrupt. Is there concept of ABI in enterprise blokchain?
+from kannan.varadharajan@gmail.com to All Participants:
+can there be mulitple validator instances similar to miners ?
+from pranabnayak21@gmail.com to All Participants:
+Are ABIs applicable to enterprise blockchains?
+from meringes_11@hotmail.com to All Participants:
+what's ABI?
+from kannan.varadharajan@gmail.com to All Participants:
+so its not interoperable with eth?
+from pranabnayak21@gmail.com to All Participants:
+Thank you. my next question is can traditional REST APIs interact with ABIs?
+from soujanya.veerubhotla@gmail.com to All Participants:
+pls paste the four lines in the chat starting ABI
+from Jagadeesh (Faculty) to All Participants:
+Application Binary Interface---- EVM/ETH
+Application Program Interface ---- enterprise solutions
+client ----> ABI ---> ----> Web3/js/ether.js frameworks ----> blockchain
+client ----> API calls ----> SDK ---> Blockchain
+from vinuvishwa to All Participants:
+SDK -- Solidity ? 
+from gprabhu96@gmail.com to All Participants:
+how does seth (sawtooth + ethereum) function? Does it use ABI or API?
+from sabu.sumit@gmail.com to All Participants:
+we can import these SDKs into our project and then use them.. right?
+from ronakrrb@gmail.com to All Participants:
+Self Learning --> Session 2 --> Lesson 6 --> 6.10
+from nksingh413@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from prashant1611 to All Participants:
+2 mins pls
+from varnaag1999@gmail.com to All Participants:
+yes
+from prashant1611 to All Participants:
+it's still coming up
+from ronakrrb@gmail.com to All Participants:
+https://lms.simplilearn.com/user/project/download-attachment?file=1620898067_1sawtooth_network_andcreate_basic_transaction.docx
+from kushagras360 to All Participants:
+sir its taking a while
+from gprabhu96@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+Lab is running
+from thoratbhakti289 to All Participants:
+LAB IS RUNNING FOR ME
+from prashant1611 to All Participants:
+What's your way of remembering linux commands :) 
+from vinuvishwa to All Participants:
+am not familiar with Docker and Kubernetes 
+from prashantbkhopkar to All Participants:
+netstat was another
+from prashant1611 to All Participants:
+Thanks!
+from mrlingam087 to All Panelists:
+yes
+from prashant1611 to All Participants:
+can you pls define docker once more..
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get remove docker-compose
+from prashant1611 to All Participants:
+something like a windows folder ?
+from manbhakhonglah to All Participants:
+is it possible to move existing large scale enterprise systems, software, data and processes to the blockchain? 
+from sabu.sumit@gmail.com to All Participants:
+like a .batch file?
+from abho.sundaresan@gmail.com to All Participants:
+a docker Container can be created on the fly to deploy a particular application or env. All containers are run by a single operating sys kernel and are thus its way more lightweight than virtual machines.
+from arjunlamba737 to All Participants:
+rept plz
+from Jagadeesh (Faculty) to All Participants:
+docker --version
+from abho.sundaresan@gmail.com to All Participants:
+docker commands are very simple 
+from Jagadeesh (Faculty) to All Participants:
+docker-compose --version
+from sabu.sumit@gmail.com to All Participants:
+yes I have both
+from kannan.varadharajan@gmail.com to All Participants:
+which version to install ?
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get remove docker-compose
+from prashantbkhopkar to All Participants:
+I have both installed
+from pranabnayak21@gmail.com to All Participants:
+I see it's there in my case 
+from arjunlamba737 to All Participants:
+i have version 
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get remove --auto-remove docker-compose
+from abho.sundaresan@gmail.com to All Participants:
+done
+from thoratbhakti289 to All Participants:
+done
+from sabu.sumit@gmail.com to All Participants:
+even after removing ... it is showing version when I search again for version
+from pranabnayak21@gmail.com to All Participants:
+Right :)
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get remove --auto-remove docker-compose
+from thoratbhakti289 to All Participants:
+done
+from Jagadeesh (Faculty) to All Participants:
+sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose
+from Jagadeesh (Faculty) to All Participants:
+sudo chmod +x /usr/bin/docker-compose
+from sabu.sumit@gmail.com to All Participants:
+file previledges
+from nksingh413@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from Jagadeesh (Faculty) to All Participants:
+https://github.com/hyperledger/sawtooth-core/blob/main/docker/compose/sawtooth-default.yaml
+from prashantbkhopkar to All Participants:
+not able to install using curl command
+from prashantbkhopkar to All Participants:
+It says https is not supported
+from prashant1611 to All Participants:
+how can I check version of docker-composer 
+from Jagadeesh (Faculty) to All Participants:
+docker-compose --version
+from prashant1611 to All Participants:
+pls repeat the command
+from abho.sundaresan@gmail.com to All Participants:
+what should we save it as 
+from ronakrrb@gmail.com to All Panelists:
+Where to save the yaml file?
+from kannan.varadharajan@gmail.com to All Participants:
+-k for curl insecure
+from vinuvishwa to All Participants:
+can you share that again 
+from abho.sundaresan@gmail.com to All Participants:
+righo 
+from ronakrrb@gmail.com to All Panelists:
+Did we have to make any change in yaml file?
+from abho.sundaresan@gmail.com to All Participants:
+right*
+from nksingh413@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes
+from pkoratakar to All Participants:
+no
+from thoratbhakti289 to All Participants:
+yes
+from arjunlamba737 to All Participants:
+yes
+from ronakrrb@gmail.com to All Panelists:
+Okay
+from pkoratakar to All Participants:
+how to open and save
+from prashantbkhopkar to All Participants:
+Protocol "htts" not supported or disabled in libcurl
+from pranabnayak21@gmail.com to All Participants:
+it should be https
+from prashantbkhopkar to All Participants:
+please put the steps on notepad - I could not switch between your screen and my lab very easily
+from soujanya.veerubhotla@gmail.com to All Participants:
+5
+from prashantbkhopkar to All Participants:
+so dont know what steps to do to install the docker-compose which we removed
+from abho.sundaresan@gmail.com to All Participants:
+I use split screen for that reason 
+from prashant1611 to All Participants:
+@prashantb use the curl command, pls
+from Jagadeesh (Faculty) to All Participants:
+sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose
+sudo chmod +x /usr/bin/docker-compose
+from prashantbkhopkar to All Participants:
+That document is not correct - or else you were referring to some gui to install.
+from prashantbkhopkar to All Participants:
+Ok
+from pkoratakar to All Participants:
+unable to save
+from kannan.varadharajan@gmail.com to All Participants:
+does it create network as well ?
+from abho.sundaresan@gmail.com to All Participants:
+can you explain the access validator part 
+from abho.sundaresan@gmail.com to All Participants:
+ok the keygen sub is what generates a private key file and a public key file so that users can sign sawtooth transactions??
+from prashant1611 to All Participants:
+how is REST API service enabled..
+from kannan.varadharajan@gmail.com to All Participants:
+ where is transaction processor ? 
+from prashantbkhopkar to All Participants:
+shell + Swagger-ui
+from abho.sundaresan@gmail.com to All Participants:
+sure
+from prashantbkhopkar to All Participants:
+Docker-compose to be installed in terminal
+from prashantbkhopkar to All Participants:
+Its pending
+from ronakrrb@gmail.com to All Panelists:
+swagger UI is just a interface (webpage) for the APIs that will be created. For documentation purpose
+from ronakrrb@gmail.com to All Panelists:
+Its like developer documentation 
+from abho.sundaresan@gmail.com to All Participants:
+can changes be submitted to hyperledger consortium by any user?? or is it only by intel 
+from soujanya.veerubhotla@gmail.com to All Participants:
+How many minutes break
+from soujanya.veerubhotla@gmail.com to All Participants:
+20 min??
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from soujanya.veerubhotla@gmail.com to All Participants:
+ok 11.45 ok
+from kannan.varadharajan@gmail.com to All Participants:
+works
+from mrlingam087 to All Panelists:
+ok sir
+from pranabnayak21@gmail.com to All Participants:
+@prashant - Please use this command to install docker compose
+from pranabnayak21@gmail.com to All Participants:
+https://github.com/hyperledger/sawtooth-core/blob/main/docker/compose/sawtooth-default.yaml
+from prashantbkhopkar to All Participants:
+During break can we have the docker-compose installation fixed?
+from pranabnayak21@gmail.com to All Participants:
+sorry, this command - sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose
+from Jagadeesh (Faculty) to All Participants:
+sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose
+from Jagadeesh (Faculty) to All Participants:
+isn't this cmmand working @ Prashathbk ?
+from Jagadeesh (Faculty) to All Participants:
+sudo apt install curl
+from Jagadeesh (Faculty) to All Participants:
+sudo apt update
+sudo apt install curl
+from Jagadeesh (Faculty) to All Participants:
+curl
+from ronakrrb@gmail.com to All Panelists:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from write2arghyasaha@gmail.com  to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from mrlingam087 to All Panelists:
+yes
+from KONYALAABHISHEK to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from shruthi.lakshmi@gmail.com to All Panelists:
+Yes
+from gprabhu96@gmail.com to All Participants:
+yes
+from vk033397  to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+i think the docker-compose is already there as i had not executed the auto remove command.
+from prashantbkhopkar to All Participants:
+So we can proceed
+from prashantbkhopkar to All Participants:
+--version is showing me docker-compose version
+from Jagadeesh (Faculty) to All Participants:
+sudo service docker start
+from Jagadeesh (Faculty) to All Participants:
+sudo service docker status
+from Jagadeesh (Faculty) to All Participants:
+sudo docker-compose -f sawtooth-default.yaml up
+from prashantbkhopkar to All Participants:
+did we download the sawtooth file
+from Jagadeesh (Faculty) to All Participants:
+https://github.com/hyperledger/sawtooth-core/blob/main/docker/compose/sawtooth-default.yaml
+from pkoratakar to All Participants:
+unable to save sawtooth file
+from abho.sundaresan@gmail.com to All Participants:
+done 
+from Jagadeesh (Faculty) to All Participants:
+https://raw.githubusercontent.com/hyperledger/sawtooth-core/main/docker/compose/sawtooth-default.yaml
+from kannan.varadharajan@gmail.com to All Participants:
+https://raw.githubusercontent.com/hyperledger/sawtooth-core/main/docker/compose/sawtooth-default.yaml
+from Jagadeesh (Faculty) to All Participants:
+https://raw.githubusercontent.com/hyperledger/sawtooth-core/main/docker/compose/sawtooth-default.yaml
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from shruthi.lakshmi@gmail.com to All Panelists:
+Yes
+from nksingh413@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+please help - where to see these things
+from pkoratakar to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+I have to get the sawtooth.yaml 
+from abho.sundaresan@gmail.com to All Participants:
+if you use docker ps can you see the container ??
+from abho.sundaresan@gmail.com to All Participants:
+lol
+from Jagadeesh (Faculty) to All Participants:
+sudo docker ps
+from prashantbkhopkar to All Participants:
+NO Containers shown 
+from prashantbkhopkar to All Participants:
+?
+from Jagadeesh (Faculty) to All Participants:
+sudo docker-compose -f sawtooth-default.yaml up
+from abho.sundaresan@gmail.com to All Participants:
+hey Prashant , what do you need
+from pranabnayak21@gmail.com to All Participants:
+Prashant - open terminal in dowloads folder and execute this command
+from abho.sundaresan@gmail.com to All Participants:
+go to the location of the saved .yaml file , run the command 
+from prashantbkhopkar to All Participants:
+how to save this file?
+from abho.sundaresan@gmail.com to All Participants:
+right click , save as
+from Jagadeesh (Faculty) to All Participants:
+https://raw.githubusercontent.com/hyperledger/sawtooth-core/main/docker/compose/sawtooth-default.yaml
+from prashantbkhopkar to All Participants:
+save page as?
+from prashantbkhopkar to All Participants:
+I will copy and paste content in a file with name docker-deault.yaml
+from prashantbkhopkar to All Participants:
+that should be ok
+from mrlingam087 to All Panelists:
+done
+from abho.sundaresan@gmail.com to All Participants:
+you dont have to ctrl+A and save, just right click 
+from Jagadeesh (Faculty) to All Participants:
+sudo docker exec -it sawtooth-shell-default bash
+from abho.sundaresan@gmail.com to All Participants:
+so curl http://rest-api:8008/blocks??
+from Jagadeesh (Faculty) to All Participants:
+curl http://rest-api:8008/blocks
+from Jagadeesh (Faculty) to All Participants:
+intkey create_batch --count 10 --key-count 5
+from vinuvishwa to All Participants:
+can you explain% this command again 
+from Jagadeesh (Faculty) to All Participants:
+intkey load -f batches.intkey -U http://rest-api:8008
+from abho.sundaresan@gmail.com to All Participants:
+so intkey is used to prepare batches of transactions that set a few keys to random values and randomly increment and decrement those values??
+from prashantbkhopkar to All Participants:
+Wil u pls wait a while
+from prashantbkhopkar to All Participants:
+and help me save file ? i have it in the browser
+from prashantbkhopkar to All Participants:
+ok
+from bala.rhapsodic@gmail.com to All Panelists:
+what this load will do
+from muppala.pratap@gmail.com to All Participants:
+for me also copy not working
+from ronakrrb@gmail.com to All Panelists:
+Can you explain both the commands again please?
+from Jagadeesh (Faculty) to All Participants:
+sawtooth batch submit -f batches.intkey --url http://rest-api:8008
+from prashantbkhopkar to All Participants:
+Actually there a a couple of things that we must impove upon - switching between lab session and your screen also causes confusion. I am using a windows machine - not on mac.
+from kannan.varadharajan@gmail.com to All Participants:
+what is difference between intkey load and batch submit
+from prashant1611 to All Participants:
+So are we writing a block on blockchain with this command ?
+from ronakrrb@gmail.com to All Panelists:
+keycount 5 ?
+from ronakrrb@gmail.com to All Panelists:
+okay
+from abho.sundaresan@gmail.com to All Participants:
+batches created using the command intkey create_batch, can  be submitted to validator using the sawtooth command ??
+from Jagadeesh (Faculty) to All Participants:
+sawtooth block list --url http://rest-api:8008
+from Jagadeesh (Faculty) to All Participants:
+sawtooth block show --url http://rest-api:8008 paste the actual blockID
+from abho.sundaresan@gmail.com to All Participants:
+able to see it 
+from prashantbkhopkar to All Participants:
+we will not be able to see any details of the actual trx that is in the block
+from abho.sundaresan@gmail.com to All Participants:
+nope
+from nksingh413@gmail.com to All Participants:
+Done
+from abho.sundaresan@gmail.com to All Participants:
+you can see the logs using docker logs {ContainerName}
+from Jagadeesh (Faculty) to All Participants:
+sawtooth state list --url http://rest-api:8008
+from abho.sundaresan@gmail.com to All Participants:
+so ctrl+C will stop the containers right ??
+from shruthi.lakshmi@gmail.com to All Panelists:
+It's showing an error : Bad request..
+from meringes_11@hotmail.com to All Participants:
+What's the state address?
+from thoratbhakti289 to All Participants:
+today only we will cover Swatooth?
+from mrlingam087 to All Panelists:
+sir i cant see the block id
+from Jagadeesh (Faculty) to All Participants:
+sawtooth state show --url http://rest-api:8008 {STATE_ADDRESS}
+from abho.sundaresan@gmail.com to All Participants:
+how do you use the keygen commans ??
+from abho.sundaresan@gmail.com to All Participants:
+commands*
+from ronakrrb@gmail.com to All Panelists:
+yes
+from nksingh413@gmail.com to All Participants:
+Yes
+from sabu.sumit@gmail.com to All Participants:
+good
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+can you explain state once. 
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from prashant1611 to All Participants:
+pls explain state list command once
+from bala.rhapsodic@gmail.com to All Panelists:
+ what is state?
+from prashant1611 to All Participants:
+does state mean node here ?
+from abho.sundaresan@gmail.com to All Participants:
+are you going to cover keygen commands as well??
+from abho.sundaresan@gmail.com to All Participants:
+ok 
+from arjunlamba737 to All Participants:
+self learning class are not play after the live class cover any topic why ?
+from thoratbhakti289 to All Participants:
+yes i have also tried once
+from abho.sundaresan@gmail.com to All Participants:
+is it like role based access control???
+from kannan.varadharajan@gmail.com to All Participants:
+is the ordering service centralized ?
+from abho.sundaresan@gmail.com to All Participants:
+understood 
+from abho.sundaresan@gmail.com to All Participants:
+ so hyperledger Iroha clients need interaction with any one of the peers and that peer will proceed other operations with other peers
+from pkoratakar to All Participants:
+centralized or decentralized??
+from kannan.varadharajan@gmail.com to All Participants:
+also why is simulator required ?
+from Jagadeesh (Faculty) to All Participants:
+sudo docker system prune 
+from mrlingam087 to All Panelists:
+what is prune sir
+from soujanya.veerubhotla@gmail.com to All Participants:
+1.3, 1.4,1.5 migght be needed
+from abho.sundaresan@gmail.com to All Participants:
+done
+from lakshay to All Participants:
+do we need to stop the container first?
+from abho.sundaresan@gmail.com to All Participants:
+can't we use docker kill <container id>
+from ronakrrb@gmail.com to All Panelists:
+in the other terminal I did ctrl+c and it stopped 
+from lakshay to All Participants:
+and then prune 
+from kannan.varadharajan@gmail.com to All Participants:
+I think you need to stop the service from other terminal ctrl + c
+from prashant1611 to All Participants:
+I used ^C and it gracefully closed
+from abho.sundaresan@gmail.com to All Participants:
+sudo docker stop <container id>
+from Jagadeesh (Faculty) to All Participants:
+sudo docker stop <>
+from pranabnayak21@gmail.com to All Participants:
+This workd
+from Jagadeesh (Faculty) to All Participants:
+sudo docker network create srcmake-iroha-network
+from Jagadeesh (Faculty) to All Participants:
+sudo docker run --name some-postgres -e POSTGRES_USER=postgres   -e POSTGRES_PASSWORD=mysecretpassword -p 5432:5432 --network=srcmake-iroha-network -d postgres:9.5
+from pranabnayak21@gmail.com to All Participants:
+good so far
+from abho.sundaresan@gmail.com to All Participants:
+done
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get install git
+from Jagadeesh (Faculty) to All Participants:
+git clone https://github.com/hyperledger/iroha --depth=1
+from Jagadeesh (Faculty) to All Participants:
+sudo docker pull hyperledger/iroha:develop 
+from abho.sundaresan@gmail.com to All Participants:
+yup done 
+from Jagadeesh (Faculty) to All Participants:
+sudo docker run --name iroha -d -p 50051:50051 -v $(pwd)/iroha/example:/opt/iroha_data -v blockstore:/tmp/block_store --network=srcmake-iroha-network  -e KEY='node0' hyperledger/iroha:latest
+from Jagadeesh (Faculty) to All Participants:
+sudo docker ps
+from Jagadeesh (Faculty) to All Participants:
+sudo docker exec -it iroha /bin/bash
+from abho.sundaresan@gmail.com to All Participants:
+to remove any setup incase its not working you can use sudo bash teardown.sh
+from pranabnayak21@gmail.com to All Participants:
+command in chat please
+from Jagadeesh (Faculty) to All Participants:
+iroha-cli -account_name admin@test
+from Jagadeesh (Faculty) to All Participants:
+10
+from Jagadeesh (Faculty) to All Participants:
+domain id is  demoid
+from Jagadeesh (Faculty) to All Participants:
+rol nme is demo
+from pranabnayak21@gmail.com to All Participants:
+asset precision?
+from abho.sundaresan@gmail.com to All Participants:
+done 
+from kannan.varadharajan@gmail.com to All Participants:
+what is domain ?
+from mrlingam087 to All Panelists:
+sir how to do transaction 2 or other node with some value of ammount
+from prashantbkhopkar to All Participants:
+ok
+from abho.sundaresan@gmail.com to All Participants:
+can we also run this as a flask web application with localhost??
+from mrlingam087 to All Panelists:
+okay sir
+from ronakrrb@gmail.com to All Panelists:
+can you explain precision again please?
+from prashantbkhopkar to All Participants:
+I would do them in my free time today. After solving the issues that I have faced.
+from abho.sundaresan@gmail.com to All Participants:
+so basically these scripts will pull latest Iroha and Postgres images and creates the required network and persistent volume store and runs both the containers
+from abho.sundaresan@gmail.com to All Participants:
+right ??
+from davidmdenis to Jagadeesh (Faculty) (privately):
+sir which options are to be used for getting recording
+from prashantbkhopkar to All Participants:
+Recordings will help.. and also if the documents are updated (in the LSM interface)
+from abho.sundaresan@gmail.com to All Participants:
+sure
+from mrlingam087 to All Panelists:
+sawthoo and iroha using for monitoring purpose  only?
+from prashantbkhopkar to All Participants:
+Certainly - thanks
+from Jagadeesh (Faculty) to All Participants:
+https://sawtooth.hyperledger.org/docs/1.2/
+from Jagadeesh (Faculty) to All Participants:
+https://iroha.readthedocs.io/en/develop/
+from nksingh413@gmail.com to Jagadeesh (Faculty) (privately):
+you were supposed to form a group of 10 people for project...
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from pranabnayak21@gmail.com to All Participants:
+Will LMS corrdinator create the groups?
+from prashantbkhopkar to All Participants:
+I would like to be part of group for healthcare
+from meringes_11@hotmail.com to All Participants:
+I can do healthcare too
+from prashantbkhopkar to All Participants:
+how will we discuss? here on chat?
+from santsp@gmail.com to All Participants:
+I can also for healthcare.
+from abho.sundaresan@gmail.com to All Participants:
+need a poll 
+from ronakrrb@gmail.com to All Panelists:
+I can work on loyalty reward program
+from arjunlamba737 to All Participants:
+i can also
+from nksingh413@gmail.com to All Participants:
+Education
+from davidmdenis to All Participants:
+education group .. pls add me
+from mrlingam087 to All Panelists:
+healthcare
+from abho.sundaresan@gmail.com to All Participants:
+education here too 
+from shruthi.lakshmi@gmail.com to All Panelists:
+I'll go in for supply chain
+from prashantbkhopkar to All Participants:
+I can be part of FINANCE if that is then use-case
+from prashantbkhopkar to All Participants:
+ok
+from abho.sundaresan@gmail.com to All Participants:
+sure
+from vinuvishwa to All Participants:
+same here, i prefer Finance 
+from santsp@gmail.com to All Participants:
+ok
+from santsp@gmail.com to All Participants:
+I am not be able to copy-paste anything from my local or from chat link to lab area.
+from abho.sundaresan@gmail.com to All Participants:
+can you post the feedback link 
+from Learner Success Manager to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from prashantbkhopkar to All Participants:
+Yes - that really stops me..
+from Jagadeesh (Faculty) to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from kannan.varadharajan@gmail.com to All Participants:
+same here. I keep typing the command.
+from prashantbkhopkar to All Participants:
+ok
+from muppala.pratap@gmail.com to All Participants:
+for me also copy and past not working
+from arjunlamba737 to All Participants:
+i am also healtcare
+from abho.sundaresan@gmail.com to All Participants:
+Thank you sir , have a nice weekend
+
+
+

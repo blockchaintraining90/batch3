@@ -1,0 +1,1398 @@
+from thoratbhakti289 to All Participants:
+Hello GM
+from gyanadc to All Participants:
+hi
+from gyanadc to All Participants:
+gm
+from gyanadc to All Participants:
+hello
+from gyanadc to All Participants:
+no one is not there 
+from Jagadeesh (Faculty) to All Participants:
+Hello Good Morning
+from Jagadeesh (Faculty) to All Participants:
+Yes even I'm wondering, why so less crows today
+from thoratbhakti289 to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+Yes
+from gyanadc to All Participants:
+good
+from sudhanvatilgul007@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes
+from bala.rhapsodic@gmail.com to All Participants:
+Good Morning everyone
+from joseph.kanish.bernard@gmail.com to All Participants:
+Its audible
+from arjunlamba737  to All Participants:
+yes
+from thoratbhakti289 to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+GM
+from gyanadc to All Participants:
+gm
+from pranabnayak21@gmail.com to All Participants:
+Good morning
+from joseph.kanish.bernard@gmail.com to All Participants:
+Hi Jagdish, I have some doubts regarding previous session.
+from nksingh413@gmail.com to All Participants:
+Yes
+from gyanadc to All Participants:
+good
+from thoratbhakti289 to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+Yes
+from chethan.cs95@gmail.com to All Participants:
+audible
+from sathyamoorthy P to All Participants:
+yes clear
+from KONYALAABHISHEK to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+Ok
+from davidmdenis to All Participants:
+audio???
+from nksingh413@gmail.com to All Participants:
+yes
+from gyanadc to All Participants:
+clear
+from mrlingam087 to All Participants:
+goodmorning sir
+from davidmdenis to All Participants:
+sir no audio 
+from mailtwosatheesh@gmail.com to All Participants:
+Pls explain fault tolrenace ?
+from vinuvishwa  to All Participants:
+can you explain again how nodes in a public block chain are made discoverable
+from mailtwosatheesh@gmail.com to All Participants:
+doubts in fault tolerance ?
+from mailtwosatheesh@gmail.com to All Participants:
+ok!
+from vinuvishwa  to All Participants:
+i missed last class, will you share the slides / woking code for the tasks ?
+from nksingh413@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from KONYALAABHISHEK to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+yes
+from Jagadeesh (Faculty) to All Participants:
+https://stackoverflow.com/questions/62664761/probability-of-hash-collision#:~:text=With%20a%20512%2Dbit%20hash,protons%20in%20the%20known%20universe.&text=1%20%2D%202n!%20%2F%20(,kn%20(2n%20%2D%20k)!)&text=%3D%202103.5.,chance%20of%20getting%20a%20collision.
+from abho.sundaresan@gmail.com to All Participants:
+I was the one who asked the question, thank you 
+from nksingh413@gmail.com to All Participants:
+Bitcoin cash
+from nksingh413@gmail.com to All Participants:
+so hardforking creats two blockchain of same network?
+from kannan.varadharajan@gmail.com to Host, Presenter & Panelists:
+Hi Jagadeesh, I had a technical issue and took time to fix. What has been covered so far and what is being covered just for me to catchup ?
+from muppala.pratap@gmail.com to All Participants:
+2
+from gprabhu96@gmail.com to All Participants:
+2
+from prashant1611 to All Participants:
+22
+from write2arghyasaha@gmail.com  to All Participants:
+2
+from prashantbkhopkar to All Participants:
+2
+from mrlingam087 to All Participants:
+2
+from abho.sundaresan@gmail.com to All Participants:
+3(2) + 1
+from prashant1611 to All Participants:
+3(2) + 1 = 7
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from prashant1611 to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes 
+from shruthi.lakshmi@gmail.com to All Participants:
+Yes
+from prashantbkhopkar to All Participants:
+Yes
+from santsp@gmail.com to All Participants:
+yes
+from karthikp@wharfstreetstrategies.com to All Participants:
+yes
+from muppala.pratap@gmail.com to All Participants:
+ok
+from mrlingam087 to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+yes
+from gyanadc to All Participants:
+ok
+from pavan Kumar gm to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+HI I had a technical isue. what has been covered so far ? 
+from singhalshivek24@gmail.com to All Participants:
+yes
+from rameshvelan@gmail.com to All Participants:
+yes
+from mailtwosatheesh@gmail.com to All Participants:
+i have few doubts ?
+from kannan.varadharajan@gmail.com to All Participants:
+ok thanks.
+from bala.rhapsodic@gmail.com to All Participants:
+could u pl repeat the Digital key
+from muppala.pratap@gmail.com to All Participants:
+in 1 block approx how many trsactions
+from mrlingam087 to All Participants:
+could you explain the structure of progam creation
+from meringes_11@hotmail.com to All Participants:
+are these wallets secure enough to store private keys?
+from nksingh413@gmail.com to All Participants:
+All these wallets are decentralized?
+from meringes_11@hotmail.com to All Participants:
+How so I get these assited lab practices?
+from vinuvishwa  to All Participants:
+I did not attend last week's class , can you share as to how i can get an access to the lab ?
+from mrlingam087 to All Participants:
+could share the doc
+from saumyapareek1 to All Participants:
+even i want the same 
+from prashant1611 to All Participants:
+should we press on Launch Lab ?
+from saumyapareek1 to All Participants:
+is it downloadable?
+from kannan.varadharajan@gmail.com to All Participants:
+sorry can you show again ?
+from kannan.varadharajan@gmail.com to All Participants:
+where to get it
+from ronakrrb@gmail.com to All Participants:
+Self learning ---> Lesson 4 --> scroll down ---> Install software
+from prashantbkhopkar to All Participants:
+some practice is required for how to use lab simultaneously with on-line class - may be a different browser is to be utilised.
+from sabu.sumit@gmail.com to All Participants:
+sir, there is nothing in self learning
+from prashantbkhopkar to All Participants:
+iam usin edge browser
+from pranabnayak21@gmail.com to All Participants:
+I believe this is the file name - 1620894521_1install_a_software_wallet
+from ronakrrb@gmail.com to All Participants:
+Jagdeesh, you can click on lesson 3 in your machine
+from prashantbkhopkar to All Participants:
+ok - will check with chrome
+from ronakrrb@gmail.com to All Participants:
+in our machine LEsson 4 -> 4.11
+from sairakanwar26 to All Participants:
+i only have lesson 1 visible
+from abho.sundaresan@gmail.com to All Participants:
+its 4.11 assisted practice 
+from abho.sundaresan@gmail.com to All Participants:
+Install a software wallet
+from ronakrrb@gmail.com to All Participants:
+Self learning ---> Section 2 ---> Lesson 4 ---> 4.11
+from abho.sundaresan@gmail.com to All Participants:
+Done 
+from vinuvishwa  to All Participants:
+I don't know how to access labs
+from muppala.pratap@gmail.com to All Participants:
+not abl eto find
+from muppala.pratap@gmail.com to All Participants:
+plese help me
+from vinuvishwa  to All Participants:
+can you share a link with steps ?
+from chethan.cs95@gmail.com to All Participants:
+its loading 
+from muppala.pratap@gmail.com to All Participants:
+lesson 4 not able find it
+from sudhanvatilgul007@gmail.com to All Participants:
+not able to connect to remote desk
+from ronakrrb@gmail.com to All Participants:
+You will find lesson 4 in section 2
+from abho.sundaresan@gmail.com to All Participants:
+I am able to access my tab and terminal 
+from sudhanvatilgul007@gmail.com to All Participants:
+I have only one interface to connect
+from vinuvishwa  to All Participants:
+I am unable to see lessons under self learning
+from kannan.varadharajan@gmail.com to All Participants:
+start instance is taking lot fo time
+from chethan.cs95@gmail.com to All Participants:
+done
+from thoratbhakti289 to All Participants:
+it is taking time 
+from abho.sundaresan@gmail.com to All Participants:
+first time takes a lot of time 
+from nksingh413@gmail.com to All Participants:
+Before starting the session we should launch the lab...
+from prashant1611 to All Participants:
+it says connected...what should we do next
+from abho.sundaresan@gmail.com to All Participants:
+10 mins before the class should be fine
+from sudhanvatilgul007@gmail.com to All Participants:
+we just have blockchain lab new
+from sudhanvatilgul007@gmail.com to All Participants:
+Not node 1 and node 2
+from shruthi.lakshmi@gmail.com to All Participants:
+I don't see Node 1 and 2.. It just says BlockChain-V2-1
+from ronakrrb@gmail.com to All Participants:
+We just have one node one. We can connect in that
+from prashant1611 to All Participants:
+what should we do next after connecting?
+from prashantbkhopkar to All Participants:
+just write in notepad the steps to access document
+from prashantbkhopkar to All Participants:
+I am able to get to labs now..
+from prashant1611 to All Participants:
+can you pls unmute us
+from thoratbhakti289 to All Participants:
+same with be i can see blockchain V2-1
+from Jagadeesh (Faculty) to All Participants:
+Lesson 4 Demo 1
+Install a Software Wallet
+Objective: To install the Exodus software wallet
+Tools required: Ubuntu, Web browser
+Prerequisites: None
+Steps to be followed:
+1.    Downloading and installing the Exodus software wallet
+Step 1: Downloading and installing the Exodus software wallet
+1.1    Open the web browser and navigate to https://www.exodus.io/
+1.2    Click on the Download button to download Exodus software wallet
+ 
+1.3    Click the Exodus Download button under the Desktop section and select the Download Linux App option to start the download
+ 
+1.4    Right click on the downloaded file and select Show in Folder
+ 
+1.5    Copy the path of the downloaded file 
+ 
+1.6    Open the Terminal and enter the following command: 
+sudo dpkg -i ABSOLUTE_PATH/exodus_21.4.23_amd64.deb
+Note: Replace the ABSOLUTE_PATH with the copied path from step 1.5
+    sudo apt-get install -f
+ 
+1.7    Open the Application Finder and search for Exodus 
+1.8    Select the Exodus icon and click Launch to 
+from prashantbkhopkar to All Participants:
+But ineed to then keep this document available and install wallet first before going to lab
+from ronakrrb@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+Yes
+from pavan Kumar gm to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes till this step
+from vinuvishwa  to All Participants:
+no
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from KONYALAABHISHEK to All Participants:
+yes
+from gprabhu96@gmail.com to All Participants:
+yes
+from rameshvelan@gmail.com to All Participants:
+Yes
+from abho.sundaresan@gmail.com to All Participants:
+es
+from karthikp@wharfstreetstrategies.com to All Participants:
+yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from vinuvishwa  to All Participants:
+yes
+from KONYALAABHISHEK to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+LAB Is just starting - taking time
+from sudhanvatilgul007@gmail.com to All Participants:
+not able to access lab
+from vinuvishwa  to All Participants:
+it's still starting
+from sdevang2 to All Participants:
+Sir, I am at Authentice Screen. It says use one of the following users to perform the action 
+from sdevang2 to All Participants:
+Zabbix or Ubuntu and then asking for password
+from abho.sundaresan@gmail.com to All Participants:
+it was autofilled for me 
+from prashant1611 to All Participants:
+how to go to browser ?
+from prashant1611 to All Participants:
+can I show my screen ?
+from prashant1611 to All Participants:
+those options don't appear
+from mrlingam087 to All Participants:
+no
+from gprabhu96@gmail.com to All Participants:
+me too
+from prashantbkhopkar to All Participants:
+I have accessed the exodus.io
+from prashantbkhopkar to All Participants:
+What do I download?
+from rameshvelan@gmail.com to All Participants:
+no idea on how to execute the command
+from pranabnayak21@gmail.com to All Participants:
+1620894521_1install_a_software_wallet
+from abho.sundaresan@gmail.com to All Participants:
+type the sudo command 
+from Jagadeesh (Faculty) to All Participants:
+sudo dpkg -i exodus-linux-x64-22.9.28.deb
+from abho.sundaresan@gmail.com to All Participants:
+then hit tab 
+from vinuvishwa to All Participants:
+where does the exodus install reside ? 
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get install -f
+from prashant1611 to All Participants:
+Can you pls go back to RDP access and navigate till browser?
+from gyanadc to All Participants:
+in this plz starting on words
+from gyanadc to All Participants:
+explaing
+from Learner Success Manager to Jagadeesh (Faculty) (privately):
+At 11 am please conduct polling without fail sir.
+from prashant1611 to All Participants:
+Hey login where
+from prashant1611 to All Participants:
+we are loosing more time ...
+from prashantbkhopkar to All Participants:
+I have a linux zip that I have downloaded from exodus.
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get install -f
+from prashant1611 to All Participants:
+after selecting RDP access, it doesn't show me any other options..
+from prashantbkhopkar to All Participants:
+.dab?
+from prashantbkhopkar to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+im able to go to terminal too
+from ronakrrb@gmail.com to All Participants:
+@prashantbkhopkar  .deb
+from prashant1611 to All Participants:
+but it says instance is running..
+from prashantbkhopkar to All Participants:
+thanks
+from prashant1611 to All Participants:
+all I need to know is why browser option doesn't show up..
+from prashantbkhopkar to All Participants:
+downloaded .deb
+from nksingh413@gmail.com to All Participants:
+Done
+from kannan.varadharajan@gmail.com to All Participants:
+done
+from prashant1611 to All Participants:
+Can you pls go to Practise Labs tab at leftmost top tab?
+from rameshvelan@gmail.com to All Participants:
+pls. share the command for installing the dependancies
+from pranabnayak21@gmail.com to All Participants:
+Please releate the last two steps
+from pranabnayak21@gmail.com to All Participants:
+repeat
+from ronakrrb@gmail.com to All Participants:
+@rameshvelan sudo apt-get install -f
+from Jagadeesh (Faculty) to All Participants:
+sudo dpkg -i exodus-linux-x64-22.9.28.deb
+from shruthi.lakshmi@gmail.com to All Participants:
+It's asking for a password to autheticate Exodus
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get install -f
+from prashantbkhopkar to All Participants:
+keep this screen as it is
+from pranabnayak21@gmail.com to All Participants:
+The application finder again please
+from prashantbkhopkar to All Participants:
+can you paste 2 commands here in chat?
+from nksingh413@gmail.com to All Participants:
+Done
+from write2arghyasaha@gmail.com  to All Participants:
+Done
+from sudhanvatilgul007@gmail.com to All Participants:
+anyone else still facing issue with logging to remote server?
+from sabu.sumit@gmail.com to All Participants:
+done with all the steps 
+from prashantbkhopkar to All Participants:
+copying from chat will be easier.
+from rameshvelan@gmail.com to All Participants:
+i have executed both commands
+from vinuvishwa to All Participants:
+can you paste the sudo command again pls 
+from shruthi.lakshmi@gmail.com to All Participants:
+Is there a password to autheticate Exodus...
+from Jagadeesh (Faculty) to All Participants:
+sudo dpkg -i exodus-linux-x64-22.9.28.deb
+sudo apt-get install -f
+
+from gprabhu96@gmail.com to All Participants:
+done
+from abho.sundaresan@gmail.com to All Participants:
+All done from my end 
+from prashant1611 to All Participants:
+very disappointed today..simple queries are being ignored..
+from shruthi.lakshmi@gmail.com to Host, Presenter & Panelists:
+Is there a password to autheticate Exodus...?
+from vinuvishwa to All Participants:
+got it finally , 
+from prashant1611 to All Participants:
+how ?
+from prashant1611 to All Participants:
+am on mute
+from sudhanvatilgul007@gmail.com to All Participants:
+I am still getting connection error
+from sudhanvatilgul007@gmail.com to All Participants:
+For remote server
+from prashantbkhopkar to All Participants:
+switching screens is casuing problem
+from prashantbkhopkar to All Participants:
+WIll get over in a while
+from sudhanvatilgul007@gmail.com to All Participants:
+okay,let me check
+from prashant1611 to All Participants:
+Can you go to practise lab tab ?
+from shruthi.lakshmi@gmail.com to Host, Presenter & Panelists:
+Is there a password to autheticate Exodus...? 
+from prashant1611 to All Participants:
+and stay there ..
+from prashant1611 to All Participants:
+good..
+from vinuvishwa to All Participants:
+after this step -- sudo apt-get install -f .. what should be done ? 
+from prashantbkhopkar to All Participants:
+Oh - you were talking to diff prashant
+from abho.sundaresan@gmail.com to All Participants:
+Sure
+from thoratbhakti289 to All Participants:
+not able to do it
+from mrlingam087 to All Participants:
+yes
+from singhalshivek24@gmail.com to All Participants:
+showing absolute path is not regular file
+from ronakrrb@gmail.com to All Participants:
+@vinuvishwa Open the Application Finder and search for Exodus 
+from abho.sundaresan@gmail.com to All Participants:
+anyone want my help??
+from vinuvishwa to All Participants:
+ok 
+from ronakrrb@gmail.com to All Participants:
+After that select the Exodus icon and click Launch to open the Exodus wallet
+from prashant1611 to All Participants:
+yes, it works
+from pranabnayak21@gmail.com to All Participants:
+Practice lab -> RDP access -> Click on the open lab
+from shruthi.lakshmi@gmail.com to Host, Presenter & Panelists:
+Sir, I have been asking questions for the last 3 sesssions. But my questioons always go unanswered while others' questions are picked up. 
+from pranabnayak21@gmail.com to All Participants:
+Open browser, at the bottom
+from pranabnayak21@gmail.com to All Participants:
+put exodus.com in the adress browser
+from abho.sundaresan@gmail.com to All Participants:
+https://www.exodus.io/
+from vinuvishwa to All Participants:
+ronakrrb@gmail.com - opened the app 
+from pranabnayak21@gmail.com to All Participants:
+Go to desktop wallet -> download exodus.deb
+from vinuvishwa to All Participants:
+thsank you 
+from Jagadeesh (Faculty) to All Participants:
+https://www.exodus.io/
+from thoratbhakti289 to All Participants:
+done
+from prashant1611 to All Participants:
+yes, good till here
+from anukeerthi71@gmail.com to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+download icon , on top left 
+from abho.sundaresan@gmail.com to All Participants:
+desktop -> select download linux(.deb)
+from gyanadc to All Participants:
+ok
+from abho.sundaresan@gmail.com to All Participants:
+right click on the download -> go to file location 
+from gyanadc to All Participants:
+yes
+from mrlingam087 to All Participants:
+i got it
+from KONYALAABHISHEK to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+im getting an error
+from vinuvishwa to All Participants:
+yes , i have opened the exodus app wallet 
+from prashantbkhopkar to All Participants:
+in terminal when i execute the sudo command
+from shruthi.lakshmi@gmail.com to Host, Presenter & Panelists:
+It's still asking for a Password to authenticate Exodus
+from prashantbkhopkar to All Participants:
+dpkg: error: cannot access archive 'exodus-linux-x64-22,9.28.deb': No such file or directory
+from shruthi.lakshmi@gmail.com to Host, Presenter & Panelists:
+I tried that but it's not working
+from abho.sundaresan@gmail.com to All Participants:
+when you enter sudo , enter tab to view all the commands 
+from prashant1611 to All Participants:
+not able to get the console..
+from abho.sundaresan@gmail.com to All Participants:
+"press" tab 
+from prashant1611 to All Participants:
+right click option
+from gyanadc to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+ususally in unix and linux we get the esc key for command completion 
+from prashantbkhopkar to All Participants:
+that is not available in this interface 
+from gyanadc to All Participants:
+opened terminal
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+it is showing me files in the dir
+from prashantbkhopkar to All Participants:
+ok
+from kannan.varadharajan@gmail.com to All Participants:
+tab works for auto complete in the terminal. 
+from prashant1611 to All Participants:
+yes, that works
+from prashantbkhopkar to All Participants:
+works 
+from Jagadeesh (Faculty) to All Participants:
+cd Downloads/
+from prashantbkhopkar to All Participants:
+i could run sudo 
+from muppala.pratap@gmail.com to Presenter (privately):
+please take it otherway.. its my point of view.. first show lab how todo and allocate specif time to end of the calss or at4 breatime to practice...so that we can do ourself ..more please have one assitant tohelp help its tough to handel 40 people at a time..
+from muppala.pratap@gmail.com to Presenter (privately):
+thank you so much
+from gyanadc to All Participants:
+no its coming
+from prashantbkhopkar to All Participants:
+I have executed the 1st sudo command successfully
+from gyanadc to All Participants:
+not coming
+from ronakrrb@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+what is the 2nd command
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get install -f
+from abho.sundaresan@gmail.com to All Participants:
+in mondays master class , our names showed up in chat and not our gmail ids.
+from ronakrrb@gmail.com to All Participants:
+@gyanadc what is the last successful step you achieved?
+from mrlingam087 to All Participants:
+these wallets are access free?
+from prashant1611 to All Participants:
+fine
+from prashant1611 to All Participants:
+yes, unable to extract .deb file
+from prashant1611 to All Participants:
+sorry, I meant able to :)
+from prashant1611 to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+Done
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get install -f
+from chethan.cs95@gmail.com to All Participants:
+is Ctrl+V is the short key for pating in linux ? its not working
+from abho.sundaresan@gmail.com to All Participants:
+check spacing when typing commands 
+from chethan.cs95@gmail.com to All Participants:
+ok
+from Jagadeesh (Faculty) to All Participants:
+shift+ctrl+c
+from prashantbkhopkar to All Participants:
+Now how to access the wallet?
+from Jagadeesh (Faculty) to All Participants:
+shift+ctrl+v 
+from prashantbkhopkar to All Participants:
+Yes
+from prashant1611 to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+its better to use autocomplete if you know the prefix 
+from kannan.varadharajan@gmail.com to All Participants:
+is the keypair already setup ? 
+from anukeerthi71@gmail.com to All Participants:
+done
+from meringes_11@hotmail.com to All Participants:
+yes
+from gprabhu96@gmail.com to All Participants:
+@sdevang2 - i was facing that issue when i tried to click on install button. Cancel it. Follow the sudo commands on the terminal. That worked for me
+from abho.sundaresan@gmail.com to All Participants:
+done 
+from mrlingam087 to All Participants:
+what is mean intall -f you did gave file name
+from prashantbkhopkar to All Participants:
+yes = i can now get the EXODUS Interface
+from mrlingam087 to All Participants:
+ok
+from sairakanwar26 to All Participants:
+yes
+from phnair@gmail.com  to All Participants:
+Hi sir, where can I find the commands to be copied ..after sudo
+from abho.sundaresan@gmail.com to All Participants:
+Hi Jagadeesh, there is a huge green bar blocking a part of your screen when presenting 
+from thoratbhakti289 to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+ok 
+from thoratbhakti289 to All Participants:
+not able to find exodus 
+from meringes_11@hotmail.com to All Participants:
+I'm stuck on the exchange crypto screen
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from sdevang2 to Jagadeesh (Faculty) (privately):
+When Stuck at Ubuntu password step which hasnt come autofilled, there is not fix to it right.. 
+from meringes_11@hotmail.com to All Participants:
+I haven't been able to come out 
+from thoratbhakti289 to All Participants:
+can show you my screen
+from prashant1611 to All Participants:
+So next - we try to transact ?
+from prashantbkhopkar to All Participants:
+Well this is working
+from sabu.sumit@gmail.com to All Participants:
+any one who is stuck at exchange crypto screen.... just click "click for more" dancing arrow
+from sabu.sumit@gmail.com to All Participants:
+skip button 
+from pranabnayak21@gmail.com to All Participants:
+Can we buy some cryptos? :)
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+real money needed for that 
+from thoratbhakti289 to All Participants:
+will try it later 
+from thoratbhakti289 to All Participants:
+you can proceed 
+from prashantbkhopkar to All Participants:
+yes we can proceed
+from gyanadc to All Participants:
+ls
+from vinuvishwa to All Participants:
+ok 
+from varnaag1999@gmail.com to All Participants:
+yes 
+from prashantbkhopkar to All Participants:
+This was easy
+from prashant1611 to All Participants:
+good to break!
+from kannan.varadharajan@gmail.com to All Participants:
+break would help. 
+from pranabnayak21@gmail.com to All Participants:
+how many mins break?
+from gyanadc to All Participants:
+plz show your termianal
+from abho.sundaresan@gmail.com to All Participants:
+how long is the break??
+from pranabnayak21@gmail.com to All Participants:
+25
+from sabu.sumit@gmail.com to All Participants:
+20
+from vinuvishwa to All Participants:
+10
+from gyanadc to All Participants:
+30
+from thoratbhakti289 to All Participants:
+25
+from anukeerthi71@gmail.com to All Participants:
+30
+from karthikp@wharfstreetstrategies.com to All Participants:
+20
+from prashantbkhopkar to All Participants:
+20
+from nksingh413@gmail.com to All Participants:
+Please let us know is this wallet decentralized?
+from KONYALAABHISHEK to All Participants:
+ok
+from gyanadc to All Participants:
+30
+from abho.sundaresan@gmail.com to All Participants:
+25 is fine 
+from mrlingam087 to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+That is ok
+from singhalshivek24@gmail.com to All Participants:
+okay
+from gyanadc to All Participants:
+plz show terminal
+from vinuvishwa to All Participants:
+thank you 
+from santsp@gmail.com to All Participants:
+20 minutes
+from gyanadc to All Participants:
+ok
+from gyanadc to All Participants:
+got
+from gyanadc to All Participants:
+it
+from gyanadc to All Participants:
+after that
+from Jagadeesh (Faculty) to All Participants:
+sudo dpkg -i 
+from gyanadc to All Participants:
+ok
+from mrlingam087 to All Participants:
+ok
+from gyanadc to All Participants:
+yes
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get install -f
+from sdevang2 to All Participants:
+Sir, can you help me as well please 
+from gyanadc to All Participants:
+after that
+from sdevang2 to All Participants:
+sdevang2icloud@ip-172-31-30-249:~/Downloads$ sudo dpkg -i exodus-linux-x64-22.9.28
+dpkg: error: cannot access archive 'exodus-linux-x64-22.9.28': No such file or directory
+
+from gyanadc to All Participants:
+ok 
+from sdevang2 to All Participants:
+Yeah I see 3 .. seems i downloaded multiple times. But i do have exodus-linux-x64-22.9.28.deb
+from phnair@gmail.com to All Participants:
+dpkg: error: --install needs at least one package archive file argument
+from phnair@gmail.com to All Participants:
+i am getting this error
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get install -f
+from sdevang2 to All Participants:
+I am good now, step 1 done. 
+from phnair@gmail.com to All Participants:
+ok done 
+from phnair@gmail.com to All Participants:
+after install f ?
+from sdevang2 to All Participants:
+What was the 2nd command, can you type here 
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get install -f
+from phnair@gmail.com to All Participants:
+where do we see the excodus app on application finder ?
+from phnair@gmail.com to All Participants:
+thanks Sir 
+from phnair@gmail.com to All Participants:
+dons dee exodus on app finder
+from phnair@gmail.com to All Participants:
+dont See
+from sdevang2 to All Participants:
+1 min
+from sdevang2 to All Participants:
+0 upgraded, 0 newly installed, 0 to remove and 433 not upgraded.
+from sdevang2 to All Participants:
+THis is the output i got. 
+from sdevang2 to All Participants:
+Ok .. done then with Step 2 
+from phnair@gmail.com to All Participants:
+i think i missed a step Sudo -i
+from phnair@gmail.com to All Participants:
+can you please provide the command 
+from Jagadeesh (Faculty) to All Participants:
+sudo dpkg -i exodus-linux-x64-22.9.28
+from sdevang2 to All Participants:
+Ok Exodus Launched now. 
+from phnair@gmail.com to All Participants:
+phnairgmail@ip-172-31-24-3:~/Downloads$ sudo dpkg -i exodus-linux-x64-22.9.28
+dpkg: error: cannot access archive 'exodus-linux-x64-22.9.28': No such file or directory
+
+from phnair@gmail.com to All Participants:
+yes
+from phnair@gmail.com to All Participants:
+ok
+from thoratbhakti289 to All Participants:
+ok
+from thoratbhakti289 to All Participants:
+there is some error for me
+from thoratbhakti289 to All Participants:
+we will do later
+from muppala.pratap@gmail.com to Presenter (privately):
+could you please share your conatct like email or whatsappor mobile..just wnat to talk for couple of minutes reagrding fiancial trasactions usecse paltforms to implement .. at your avalible time ..Please
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+could you please share your conatct like email or whatsappor mobile..just wnat to talk for couple of minutes reagrding fiancial trasactions usecse paltforms to implement .. at your avalible time ..Please
+from phnair@gmail.com to All Participants:
+can you please share the notepad with all instructions step by step again 
+from phnair@gmail.com to All Participants:
+will try 
+from phnair@gmail.com to All Participants:
+in the "downloads tab" -- do we need to click on exodus install ?  
+from phnair@gmail.com to All Participants:
+select on ubuntu ? then what will be the password 
+from Jagadeesh (Faculty) to All Participants:
+Lesson 4 Demo 1
+Install a Software Wallet
+Objective: To install the Exodus software wallet
+Tools required: Ubuntu, Web browser
+Prerequisites: None
+Steps to be followed:
+1.    Downloading and installing the Exodus software wallet
+Step 1: Downloading and installing the Exodus software wallet
+1.1    Open the web browser and navigate to https://www.exodus.io/
+1.2    Click on the Download button to download Exodus software wallet
+ 
+1.3    Click the Exodus Download button under the Desktop section and select the Download Linux App option to start the download
+ 
+1.4    Right click on the downloaded file and select Show in Folder
+ 
+1.5    Copy the path of the downloaded file 
+ 
+1.6    Open the Terminal and enter the following command: 
+sudo dpkg -i ABSOLUTE_PATH/exodus_21.4.23_amd64.deb
+Note: Replace the ABSOLUTE_PATH with the copied path from step 1.5
+    sudo apt-get install -f
+ 
+1.7    Open the Application Finder and search for Exodus 
+1.8    Select the Exodus icon and click Launch to 
+from prashantbkhopkar to All Participants:
+yes
+from KONYALAABHISHEK to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+yes
+from sudhanvatilgul007@gmail.com to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from gyanadc to All Participants:
+yes
+from chethan.cs95@gmail.com to All Participants:
+yes
+from pavan Kumar gm to All Panelists:
+yes
+from gprabhu96@gmail.com to All Participants:
+yes
+from rameshvelan@gmail.com to All Participants:
+yes
+from sdevang2 to All Participants:
+Yes, back 
+from singhalshivek24@gmail.com to All Participants:
+yes
+from gyanadc to All Participants:
+yes
+from write2arghyasaha@gmail.com  to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+lab is active
+from Jagadeesh (Faculty) to All Participants:
+Lesson 4 Demo 2
+Generate a Paper Wallet
+Objective: To generate a Paper wallet
+Tools required: Ubuntu, web browser
+Prerequisites: None
+Steps to be followed:
+1.    Generating a Single Wallet and Paper wallet
+Step 1: Generating a Single Wallet and a Paper wallet
+1.1    Visit https://www.bitaddress.org/
+ 
+1.2    Generate a Bitcoin Address by moving the mouse around to add some additional randomness
+ 
+ 
+Note: Notice that the randomness percentage keeps on increasing. Keep moving the mouse until the randomness percentage reaches 100%.
+1.3    Click on Single Wallet to generate a Single wallet
+ 
+1.4    Click on Paper Wallet to generate a Paper wallet
+ 
+1.5    Navigate back to Single Wallet tab and copy the Private Key 
+1.6    Click on Wallet Details tab, paste the copied Private Key, and click on the View Details button
+ 
+ 
+
+from gyanadc to All Participants:
+plz send link
+from Jagadeesh (Faculty) to All Participants:
+https://www.bitaddress.org/
+from gyanadc to All Participants:
+yes
+from pavan Kumar gm to Jagadeesh (Faculty) (privately):
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+Yes How do we get these QR codes?
+from vinuvishwa to All Participants:
+when the mouse moves, the link for single wallet is not showing up 
+from vinuvishwa to All Participants:
+i am seeing %'s where single , paper wallet options are seen 
+from ronakrrb@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+done
+from prashantbkhopkar to All Participants:
+yep
+from rameshvelan@gmail.com to All Participants:
+inpaper wallet where can i see the private and public keys
+from sabu.sumit@gmail.com to All Participants:
+done
+from mrlingam087 to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+yes
+from bala.rhapsodic@gmail.com to All Participants:
+from the PPT we can see that keys are genrated using sha&RIPEMD where is the RSA algorithm used?
+from prashantbkhopkar to All Participants:
+yes
+from rameshvelan@gmail.com to All Participants:
+oh ok thanks
+from prashantbkhopkar to All Participants:
+one sec - from the tracking dots screen how to get the paper wallet screen?
+from mrlingam087 to All Participants:
+all clear where it use and could you explain purpose of this
+from Jagadeesh (Faculty) to All Participants:
+https://jaxx.io/
+from vinuvishwa to All Participants:
+what do we have to do with paper wallet ?
+from vinuvishwa to All Participants:
+save images ?
+from prashantbkhopkar to All Participants:
+from the tracking dots screen how to get the paper wallet screen?
+from sdevang2 to All Participants:
+Who owns this site and what is the level of secrecy of these codes. 
+from prashantbkhopkar to Presenter (privately):
+from the tracking dots screen how to get to the paper wallet screen?
+from prashantbkhopkar to All Participants:
+ok
+from sabu.sumit@gmail.com to All Participants:
+no popup ... just scrolll down... there are options
+from nksingh413@gmail.com to All Participants:
+we should go directly in chrome web store and can from there
+from nksingh413@gmail.com to All Participants:
+add
+from nksingh413@gmail.com to All Participants:
+Like metamask
+from bala.rhapsodic@gmail.com to All Participants:
+could u plz repeat
+from bala.rhapsodic@gmail.com to All Participants:
+no
+from nksingh413@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+no
+from ronakrrb@gmail.com to All Participants:
+it takes a while to popup
+from sudhanvatilgul007@gmail.com to All Participants:
+jaxx to be downloaded in the remote server or our local?
+from prashantbkhopkar to All Participants:
+we have to install the extension on chrome
+from prashantbkhopkar to All Participants:
+Ok
+from thoratbhakti289 to All Participants:
+which one is good for trading in Bitcoin
+from sabu.sumit@gmail.com to All Participants:
+done with all the steps
+from nksingh413@gmail.com to All Participants:
+We should never use these type of centralize wallet ?
+from meringes_11@hotmail.com to All Participants:
+I have the terms but the I agree option doesn't seem to be there
+from prashantbkhopkar to All Participants:
+will do this one later - chrome is taking time in the lab
+from prashantbkhopkar to All Participants:
+Outside of lab this will work on the desktop 
+from nksingh413@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+will try out in windows 10 direct - in lab it is taking longer to respond.
+from prashantbkhopkar to All Participants:
+Jaxx wallet part is pending for me.
+from nksingh413@gmail.com to All Participants:
+Good to go
+from prashantbkhopkar to All Participants:
+Yes
+from kannan.varadharajan@gmail.com to All Participants:
+what is use of magic number ?
+from bala.rhapsodic@gmail.com to All Participants:
+what is version
+from Jagadeesh (Faculty) to All Participants:
+https://www.blockchain.com/explorer
+from prashantbkhopkar to All Participants:
+yes
+from vinuvishwa to All Participants:
+Nonce is created by the miner or auto generated ?
+from ronakrrb@gmail.com to All Participants:
+Will those half empty blocks accomodate more transactions or its locked now? and if locked, why locked at halfway stage?
+from vinuvishwa to All Participants:
+ok 
+from bala.rhapsodic@gmail.com to All Participants:
+what is Total spent
+from kannan.varadharajan@gmail.com to All Participants:
+is it spent or sent
+from nksingh413@gmail.com to All Participants:
+they distribute values in themselves
+from nksingh413@gmail.com to All Participants:
+There are lots of manupulation in this pool
+from ronakrrb@gmail.com to All Participants:
+Will those half empty blocks accomodate more transactions or its locked now? and if locked, why locked at halfway stage?
+from nksingh413@gmail.com to All Participants:
+6
+from ronakrrb@gmail.com to All Participants:
+okay 👍 
+from prashantbkhopkar to All Participants:
+How typically we should navigate on this page to explore the blocks? Is there a specific patterm?
+from vinuvishwa to All Participants:
+what does distance mean ? 
+from pkoratakar to All Participants:
+how its not wastage of space
+from bala.rhapsodic@gmail.com to All Participants:
+could u plz repeat the depth?
+from bala.rhapsodic@gmail.com to All Participants:
+but we disucssed 7 here its just 1 ryt?
+from nksingh413@gmail.com to All Participants:
+longest chain will be considered
+from prashantbkhopkar to All Participants:
+What is the denomination of BTCs?
+from pkoratakar to All Participants:
+half filled blok is wastage of space
+from prashantbkhopkar to All Participants:
+I think they are showing Kb kWU
+from pranabnayak21@gmail.com to All Participants:
+Does depth 1 mean this block is not added to the network?
+from prashantbkhopkar to All Participants:
+Wei is smallest denomination it seems
+from prashantbkhopkar to All Participants:
+we can see Fees Kb, Fees kWU 
+from santsp@gmail.com to All Participants:
+What is Block Version?
+from prashantbkhopkar to All Participants:
+The unit Kb 
+from prashantbkhopkar to All Participants:
+or kWU
+from pkoratakar to All Participants:
+means greater number greater difficulty how
+from prashantbkhopkar to All Participants:
+What is meant by Coinbase?
+from bala.rhapsodic@gmail.com to All Participants:
+the diffculty is the number of zeros added to the merkel root  value isn't it?
+from vinuvishwa to All Participants:
+what is the difference between fees and reward 
+from prashantbkhopkar to All Participants:
+ok
+from gprabhu96@gmail.com to All Participants:
+could you please repeat the confirmations part?
+from nksingh413@gmail.com to All Participants:
+Txn fees are gas fee?
+from vinuvishwa to All Participants:
+so when 21MM is reached, no more reward will be generated ? 
+from bala.rhapsodic@gmail.com to All Participants:
+the diffculty is the number of zeros added to the merkel root  value isn't it?
+from nksingh413@gmail.com to All Participants:
+yeah sorry
+from bala.rhapsodic@gmail.com to All Participants:
+the diffculty is the number of zeros added to the merkel root  value isn't it?
+from prashantbkhopkar to All Participants:
+how the nonce is computed? can you touch base on this?
+from ronakrrb@gmail.com to All Participants:
+@vinuvishwa yes. no more reward. only transaction fee post 21M
+from singhalshivek24@gmail.com to All Participants:
+how many btc can be minted in a block ?
+from pkoratakar to All Participants:
+means greater number greater difficulty how
+from bala.rhapsodic@gmail.com to All Participants:
+whether the difficulty add to all tnx hash or only to the merkel hash
+from bala.rhapsodic@gmail.com to All Participants:
+tnq
+from nksingh413@gmail.com to All Participants:
+Can It be possible to increase supply of BTC?
+from pkoratakar to All Participants:
+as reward reduce to 0 then 
+from pranabnayak21@gmail.com to All Participants:
+Question - the example block you showed has depth 1. Does it mean it's not added to a network? Because still 6 confirmations are needed
+from nksingh413@gmail.com to All Participants:
+that's why decreasing reward?
+from sdevang2 to All Participants:
+So who is controlling at what pace remaining Bitcoins should be mined
+from sdevang2 to All Participants:
+So why cant it be mined sooner / faster 
+from nksingh413@gmail.com to All Participants:
+This is the protocol and when protocol was deployed supply was fixed can it not be possibl using proxy contract to increase the supply?
+from sdevang2 to All Participants:
+Do we know the average time it takes to mine 1 Bitcoin
+from nksingh413@gmail.com to All Participants:
+10 min
+from sdevang2 to All Participants:
+Yeah 1 block.. 
+from prashantbkhopkar to All Participants:
+My system got re-booted.. re-joined.
+from gyanadc to All Participants:
+ok
+from nksingh413@gmail.com to All Participants:
+to get valid confirmations it takes 1 hr but to mine 1 block it takes 10 min
+from pkoratakar to All Participants:
+what is scenerio after all supply finished
+from prashantbkhopkar to All Participants:
+what is a diff - between originat btc and smart-contract.
+from sdevang2 to All Participants:
+Is the mining concept same across all different cyptos 
+from pkoratakar to All Participants:
+only transaction
+from prashant1611 to All Participants:
+Transaction Fee will exist
+from bala.rhapsodic@gmail.com to All Participants:
+So as miner i mine 1 block which has 100 tnx approved and added to the chain now i get 6.25 btc which just value and not the blocks .. am i ryt?
+from abho.sundaresan@gmail.com to All Participants:
+Hi , I had a major power outage so couldn't join. Was there any lab done during this time ??
+from sdevang2 to All Participants:
+What is the minimum unit for a Bitcoin Transaction.. 0.15 .. 0.05 etc? till what decimal can it go. 
+from meringes_11@hotmail.com to All Participants:
+Could you repeatthe user A not spent transactions
+from ronakrrb@gmail.com to All Participants:
+How does the system figure out which transaction in the blocks to refer to figure out that this is the UTXO, considering the same user might have multiple UTXOs? Is it based on timestamp?
+from nksingh413@gmail.com to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes clear
+from vinuvishwa to All Participants:
+whats the advantage of this compared to the traditional accounting model 
+from prashant1611 to All Participants:
+UTXO is attached to Wallet ID - 1:1 mapping ....correct?
+from ronakrrb@gmail.com to All Participants:
+tansaction value close to it? meaning?
+from bala.rhapsodic@gmail.com to All Participants:
+yes, if 12 btc be transfered in the sense will consider both 10&5 isn't
+from bala.rhapsodic@gmail.com to All Participants:
+yes tnx
+from prashantbkhopkar to All Participants:
+This is single entry system
+from prashantbkhopkar to All Participants:
+This how a small shop-keeper keeps his records
+from abho.sundaresan@gmail.com to All Participants:
+so its like a weekly/monthy stock ledger kept by store fronts 
+from prashant1611 to All Participants:
+Can you repeat that once more, pls
+from meringes_11@hotmail.com to All Participants:
+But the 0.3 is getting deleted right?
+from meringes_11@hotmail.com to All Participants:
+Ok
+from prashant1611 to All Participants:
+Thanks!
+from abho.sundaresan@gmail.com to All Participants:
+sp unspent transaction outputs are part of the distributed database technology compared to conventional update db models 
+from chethan.cs95@gmail.com to All Participants:
+who will be bearing the trasaction fee ?sender or reciver
+from vinuvishwa to All Participants:
+seeing this pending transactions, does the miner pool start using this to divide work ? 
+from prashant1611 to All Participants:
+shouldn't we say bitcoin reward is kind of in-built smart contract ?
+from prashantbkhopkar to All Participants:
+Why were smartcontracts invented?
+from prashantbkhopkar to All Participants:
+ok - ETH is framework
+from abho.sundaresan@gmail.com to All Participants:
+for permissioned blockchain networks 
+from prashantbkhopkar to All Participants:
+Thanks!
+from prashantbkhopkar to All Participants:
+Ok
+from abho.sundaresan@gmail.com to All Participants:
+ok 
+from singhalshivek24@gmail.com to All Participants:
+how are test btc minted because ther is no reward ?
+from ronakrrb@gmail.com to All Participants:
+When are light node used?
+from abho.sundaresan@gmail.com to All Participants:
+so heavy nodes contains full blockchain database, and network routing capabilities and light nodes maintain only a subset of the blockchain
+from abho.sundaresan@gmail.com to All Participants:
+??
+from bala.rhapsodic@gmail.com to All Participants:
+here routing in refers to?
+from nksingh413@gmail.com to All Participants:
+Light nodes contain latest data and if they require any old data they can retrive from full odes..
+from ronakrrb@gmail.com to All Participants:
+okay 👍 
+from abho.sundaresan@gmail.com to All Participants:
+so basically light nodes verify transactions by providing partial views of relevant parts of the blockchain on demand. To reduce load. 
+from abho.sundaresan@gmail.com to All Participants:
+ok 
+from meringes_11@hotmail.com to All Participants:
+what is a seed node?
+from rameshvelan@gmail.com to All Participants:
+how a node will approch seed node
+from vk033397  to All Participants:
+seed node is first Councated node
+from prashantbkhopkar to All Participants:
+How is recovery if the network crashes?
+from prashantbkhopkar to All Participants:
+Ok
+from abho.sundaresan@gmail.com to All Participants:
+so seed nodes are a completely different entity compared to mining nodes
+from abho.sundaresan@gmail.com to All Participants:
+they only relay 
+from sudhanvatilgul007@gmail.com to All Participants:
+seed nodes give the address to the new node?
+from sudhanvatilgul007@gmail.com to All Participants:
+As to where its to be connected?
+from sudhanvatilgul007@gmail.com to All Participants:
+okay thank you
+from sabu.sumit@gmail.com to Presenter (privately):
+sir, please unmute me for Q&A session
+from prashantbkhopkar to All Participants:
+Today's session was very fluent.
+from Learner Success Manager to Jagadeesh (Faculty) (privately):
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from vinuvishwa to All Participants:
+Thank you 
+from Learner Success Manager to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from singhalshivek24@gmail.com to All Participants:
+does all these nodes have to be supercomputer ?
+from vinuvishwa to All Participants:
+where can we find the session slides ? 
+from ronakrrb@gmail.com to All Participants:
+Not audible.
+from thoratbhakti289 to All Participants:
+thank you
+from thoratbhakti289 to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+Audible now
+from rameshvelan@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+YES
+from sabu.sumit@gmail.com to Presenter (privately):
+yes you are audible
+from mrlingam087 to All Participants:
+yes
+from KONYALAABHISHEK to All Participants:
+ok 
+from thoratbhakti289 to All Participants:
+lab guide is what we pactices it today 
+from ronakrrb@gmail.com to All Participants:
+Hi. I have question to ask today on unmute.
+from abho.sundaresan@gmail.com to All Participants:
+so mining nodes basically perform mining function without the full copy of the blockchain. Also can you explain the Stratum protocol ??
+from thoratbhakti289 to All Participants:
+and we can use the lap any time 
+from thoratbhakti289 to All Participants:
+?
+from thoratbhakti289 to All Participants:
+LAB
+from abho.sundaresan@gmail.com to All Participants:
+I asked this before, and yes we will have lab access whenever 
+from prashantbkhopkar to All Participants:
+docker and docker compost?
+from prashantbkhopkar to All Participants:
+Ops teams - Yes
+from ronakrrb@gmail.com to All Participants:
+instead of java, javascript is also good enough, right? Either one or Java is mandatory for hyper ledger
+from bala.rhapsodic@gmail.com to All Participants:
+plz unmute me
+from ronakrrb@gmail.com to All Participants:
+Hi. I have question to ask today on unmute.
+from prashantbkhopkar to All Participants:
+Is writing smartcontract also is possible in Julia?
+from prashantbkhopkar to Presenter (privately):
+Is writing smartcontract also possible in Julia language?
+from abho.sundaresan@gmail.com to All Participants:
+I am used to go because of the json.marshal() struct. Very easy to define,maintain and deploy smart  contacts 
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+please share me few material or links for finance block chain use case like shares , dividenst etc to my conatc muppala.pratap@gmail.com or +971528788466 whats app..i wnat to know feasiblity of bulk trasactions and finace appp like FINTECH product..where we cna build like ..solanium etc ..i would like to talk with u for couple miniutes share me cinact so that i can call u or text me at ur avlaible time on whatsapp i will call you..please do the needful
+from phnair@gmail.com to All Participants:
+Sir, after the questions,  could you please  spare some time  in assisting with the installalation of exodus/linux  in lab
+from ronakrrb@gmail.com to All Participants:
+My turn please 🙏 
+from bala.rhapsodic@gmail.com to All Participants:
+could u plz unmute eme
+from prashantbkhopkar to All Participants:
+Could you please take my question posted in Q&A
+from prashantbkhopkar to All Participants:
+Please unmute me.
+from abho.sundaresan@gmail.com to All Participants:
+can you unmute me if time permits 
+from Jagadeesh (Faculty) to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+Technical questions can be taken up in next session
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+can u hear me
+from ronakrrb@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from bala.rhapsodic@gmail.com to All Participants:
+Sure!!!
+from chethan.cs95@gmail.com to All Participants:
+ok
+from sudhanvatilgul007@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+Thank you 
+from vinuvishwa to All Participants:
+yes
+from KONYALAABHISHEK to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+yes. thank you
+from abho.sundaresan@gmail.com to All Participants:
+I'll ask my questions tom
+from kannan.varadharajan@gmail.com to All Participants:
+Thanks!
+from phnair@gmail.com to All Participants:
+can i get some help on the lab 
+from prashantbkhopkar to All Participants:
+Thank you
+from bala.rhapsodic@gmail.com to All Participants:
+Tnq so much for the session!!!
+from shruthi.lakshmi@gmail.com to Host, Presenter & Panelists:
+No. I'll keep it for tomoorow. Thank you! 
+from mrlingam087 to All Participants:
+thank you 
+from prashantbkhopkar to All Participants:
+ok by
+from phnair@gmail.com to All Participants:
+hi sir
+from nksingh413@gmail.com to Host & Presenter:
+You forgot to let us know Sybil Attack
+from abho.sundaresan@gmail.com to All Participants:
+Intelligent track and trace
+from prashantbkhopkar to All Participants:
+Are we breaking for the day?
+from ronakrrb@gmail.com to All Participants:
+Can the rest of us drop?
+from ronakrrb@gmail.com to All Participants:
+Sure.
+from ronakrrb@gmail.com to All Participants:
+Thank you
+from Jagadeesh (Faculty) to All Participants:
+we can call t for today
+from phnair@gmail.com to All Participants:
+thanks sir 
+from ronakrrb@gmail.com to All Participants:
+See you tomorrow
+from nksingh413@gmail.com to Host & Presenter:
+Thanks Jagdish
+from sudhanvatilgul007@gmail.com to All Participants:
+thank you
+from phnair@gmail.com to All Participants:
+my name is Pramod 
+from Jagadeesh (Faculty) to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c

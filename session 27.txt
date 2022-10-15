@@ -1,0 +1,1022 @@
+sudo apt-get install curl
+
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash
+
+version 1.1, 1.2, 1.3, 1.4
+
+version - 2.2, 2.3 2.4
+
+by default test network in fabric comes with 2 orgs with 1 peer, ordering service
+
+run the network with basic --- not passing channel, not passing CA
+
+./network.sh up
+
+
+curl ---> .deb 
+
+docker ---> 
+
+
+from KONYALAABHISHEK to All Participants:
+goodmorning 
+from nksingh413@gmail.com to All Participants:
+GM everyone
+from Jagadeesh (Faculty) to All Participants:
+Good Morning everyone
+from kannan.varadharajan@gmail.com to All Participants:
+GM
+from ronakrrb@gmail.com to All Participants:
+Good morning
+from Jagadeesh (Faculty) to Learner Success Manager (privately):
+Hi
+from Jagadeesh (Faculty) to Learner Success Manager (privately):
+can u pls unmute me
+from nksingh413@gmail.com to All Participants:
+Yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from thoratbhakti289 to All Participants:
+Good morning
+from prashant1611  to All Participants:
+gm
+from nksingh413@gmail.com to All Participants:
+GM
+from nksingh413@gmail.com to All Participants:
+yes
+from thoratbhakti289 to All Participants:
+yes
+from gprabhu96@gmail.com to All Participants:
+yes
+from priyabratajena12 to All Participants:
+no
+from prashantbkhopkar to All Participants:
+Not really
+from thoratbhakti289 to All Participants:
+no
+from prashantbkhopkar to All Participants:
+How about the other blockchains - can they not create identities?
+from kannan.varadharajan@gmail.com to All Participants:
+what is difference with address ? Is it more personal id ?
+from Jagadeesh (Faculty) to Learner Success Manager (privately):
+https://hyperledger-indy.readthedocs.io/en/latest/
+from abho.sundaresan@gmail.com to All Participants:
+Sure
+from meringes_11@hotmail.com to All Participants:
+with decentralized ids your details can never be seen by anyone?
+from prashantbkhopkar to All Participants:
+Have you shared URL?
+from prashantbkhopkar to All Participants:
+Not seen here..
+from ronakrrb@gmail.com to All Participants:
+I guess you shared in private chat
+from abho.sundaresan@gmail.com to All Participants:
+Hyperledger Burrow is mainly a type of Distributed ledger,which is capable of executing smart contracts using EVM 
+from Learner Success Manager to All Participants:
+https://hyperledger-indy.readthedocs.io/en/latest/
+from ronakrrb@gmail.com to All Participants:
+Can you please repeat gateway ?
+from meringes_11@hotmail.com to All Participants:
+difference between all the hyperledger?
+from abho.sundaresan@gmail.com to All Participants:
+Is burrow only used for enterprise networks??
+from ronakrrb@gmail.com to All Participants:
+got it
+from nksingh413@gmail.com to All Participants:
+no audio
+from gprabhu96@gmail.com to All Participants:
+which hyperledgers are widely used/implemented in the industry from a prob-solving POV?
+from Jagadeesh (Faculty) to Learner Success Manager (privately):
+https://www.hyperledger.org/
+from Learner Success Manager to All Participants:
+https://www.hyperledger.org/
+from ronakrrb@gmail.com to All Participants:
+Can you elaborate on the drawback?
+from pkoratakar to All Participants:
+plese share these notepad so easy to recall afterwards
+from mrlingam087 to All Participants:
+simple mail transfer 
+from prashantbkhopkar to All Participants:
+Hotmail was the first popular email
+from meringes_11@hotmail.com to All Participants:
+what's a fungible and non-fungible token?
+from nksingh413@gmail.com to All Participants:
+Semi fungible
+from mrlingam087 to All Participants:
+fungible like pysical money?
+from abho.sundaresan@gmail.com to All Participants:
+coin has the same value as any other fungible is like if every coin of the same type at any given moment has the same value 
+from abho.sundaresan@gmail.com to All Participants:
+so basically to bridge our tokens from one blockchain to another, its like a cross chain swap protocol.
+from Jagadeesh (Faculty) to Learner Success Manager (privately):
+https://chain.link/cross-chain
+from ronakrrb@gmail.com to All Participants:
+Jagadeesh. I gues you are sharing the URLs in a private chat
+from santsp@gmail.com to All Participants:
+Can we also use Cosmos here for interoperatibility?
+from nksingh413@gmail.com to All Participants:
+Yes
+from prashantbkhopkar to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from priyabratajena12 to All Participants:
+yah
+from Jagadeesh (Faculty) to All Attendees:
+https://chain.link/cross-chain
+from ronakrrb@gmail.com to All Participants:
+We have the other two which you shared earlier
+from davidmdenis to All Participants:
+sir can u pls share the notepad screen for a moment 
+from Jagadeesh (Faculty) to All Attendees:
+https://hyperledger-indy.readthedocs.io/en/latest/
+from Jagadeesh (Faculty) to All Attendees:
+https://www.hyperledger.org/
+from ronakrrb@gmail.com to All Participants:
+Thanks
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from davidmdenis to All Participants:
+than 
+from davidmdenis to All Participants:
+thanks
+from prashantbkhopkar to All Participants:
+YES
+from prashantbkhopkar to All Participants:
+Indy - Fabric - Etherium
+from thoratbhakti289 to All Participants:
+thanks
+from kannan.varadharajan@gmail.com to All Participants:
+How does it solve perf & scalability ?
+from prashantbkhopkar to All Participants:
+Does it also support Julia and python?
+from abho.sundaresan@gmail.com to All Participants:
+Does it use container technology to implement application logic 
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from santsp@gmail.com to All Participants:
+It supports C#?
+from abho.sundaresan@gmail.com to All Participants:
+is this all done by the MSP using a certificate authority???
+from abho.sundaresan@gmail.com to All Participants:
+is this world state ??
+from kannan.varadharajan@gmail.com to All Participants:
+is chaincode same as smart contract ?
+from abho.sundaresan@gmail.com to All Participants:
+a chaincode can contain multiple smart contracts 
+from abho.sundaresan@gmail.com to All Participants:
+so only the members of the channel are involved in consensus, while other members of the network do not see the transactions on the channel but are part of the systemwide network. 
+from vinuvishwa to All Participants:
+can you touch upon dlt part 
+from davidmdenis to All Participants:
+then why should others know?
+from davidmdenis to All Participants:
+ok
+from vinuvishwa to All Participants:
+can you give an example where it is actually used ? 
+from thoratbhakti289 to All Participants:
+any Example in any industry which are using  Fabric 
+from davidmdenis to All Participants:
+th
+from davidmdenis to All Participants:
+had this been implemented we would have kept vijay mallaya in control???
+from abho.sundaresan@gmail.com to All Participants:
+each bank has their own msp right 
+from abho.sundaresan@gmail.com to All Participants:
+basically it will use and reference a business object in the world DB , instead of reinitating the entire process. 
+from abho.sundaresan@gmail.com to All Participants:
+endorsing , committing , anchor and leader if I remember 
+from vinuvishwa to All Participants:
+is the role attached to the node .. or is it  dynamic ? 
+from abho.sundaresan@gmail.com to All Participants:
+should all the peers align to one of these roles or is it flexible and can be updated on the fly as per the use case??
+from mrlingam087 to All Participants:
+sir could you explain about ldap on access list
+from prashantbkhopkar to All Participants:
+Who created Fabric ? 
+from prashantbkhopkar to All Participants:
+Who OWNS Fabric.. ?
+from prashantbkhopkar to All Participants:
+Ok
+from abho.sundaresan@gmail.com to All Participants:
+so they own the entire umbrella
+from prashantbkhopkar to All Participants:
+Linux Foundation licenses the Hyperledger Fabric.
+from meringes_11@hotmail.com to All Participants:
+What is level and couch db?
+from prashantbkhopkar to All Participants:
+So level DB is a dictionary (as in py)
+from vinuvishwa to All Participants:
+why does the client end up doing these .. shouldn't these complexities be hidden from the client ? 
+from ronakrrb@gmail.com to All Participants:
+So Commiting peers are just record keepers,they do not perform any validation, right?
+from Jagadeesh (Faculty) to All Attendees:
+https://hyperledger-fabric.readthedocs.io/en/release-2.2/txflow.html
+from ronakrrb@gmail.com to All Participants:
+ok
+from abho.sundaresan@gmail.com to All Participants:
+got it
+from abho.sundaresan@gmail.com to All Participants:
+Bible 
+from prashantbkhopkar to All Participants:
+Bible
+from abho.sundaresan@gmail.com to All Participants:
+touche 
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from ronakrrb@gmail.com to All Participants:
+So endorsers do MSP, what other validations are done after ordering?
+from abho.sundaresan@gmail.com to All Participants:
+30 mins??
+from prashantbkhopkar to All Participants:
+Yes 
+from ronakrrb@gmail.com to All Participants:
+okay
+from kannan.varadharajan@gmail.com to All Participants:
+how to choose statedb ?
+from anukeerthi71@gmail.com to All Participants:
+yes
+from rameshvelan@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+Hi
+from ronakrrb@gmail.com to All Participants:
+yes
+from write2arghyasaha@gmail.com  to All Participants:
+yes
+from chethan.cs95@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from KONYALAABHISHEK to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from thoratbhakti289 to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+ok
+from mrlingam087 to All Participants:
+okay sir thank you for respon to me
+from ronakrrb@gmail.com to All Participants:
+okay
+from mrlingam087 to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+done 
+from nksingh413@gmail.com to All Participants:
+Done
+from gyanadc to All Participants:
+yes pending
+from mrlingam087 to All Participants:
+done sir
+from gyanadc to All Participants:
+its loading
+from thoratbhakti289 to All Participants:
+done
+from ronakrrb@gmail.com to All Participants:
+Its loading for me and not opening. Gives an error. Will follow your screen today and practice later.
+from prashantbkhopkar to All Participants:
+Pls tell this document location
+from ronakrrb@gmail.com to All Participants:
+Will help
+from prashantbkhopkar to All Participants:
+It is in Lesson  6.3 ?
+from prashantbkhopkar to All Participants:
+ok
+from abho.sundaresan@gmail.com to All Participants:
+6.38 to be specific 
+from ronakrrb@gmail.com to All Participants:
+https://lms.simplilearn.com/user/project/download-attachment?file=1620898249_3set_up_hyperledger_fabric_prerequisites.docx
+from mrlingam087 to All Participants:
+https://lms.simplilearn.com/courses/4190/PG-BC-Fundamentals-of-Blockchain/syllabus
+from Jagadeesh (Faculty) to All Attendees:
+sudo apt-get install curl
+from pkoratakar to All Participants:
+after running curl it asking me do u want to continueY/N
+from prashantbkhopkar to All Participants:
+restart setvices?
+from ronakrrb@gmail.com to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+my version is 7.85
+from Jagadeesh (Faculty) to All Attendees:
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash
+from meringes_11@hotmail.com to All Participants:
+error executing command,exiting
+from abho.sundaresan@gmail.com to All Participants:
+done
+from gprabhu96@gmail.com to All Participants:
+Restart services during package upgrades without asking?  
+from rameshvelan@gmail.com to All Participants:
+it says unable to fetch some archives
+from thoratbhakti289 to All Participants:
+sudo apt-get install curl
+from prashant1611 to All Participants:
+we can try nodejs --version
+from prashantbkhopkar to All Participants:
+Done
+from prashant1611 to All Participants:
+to check status & version
+from prashant1611 to All Participants:
+v14.4.0
+from abho.sundaresan@gmail.com to All Participants:
+it says " Some index files failed to download. They have been ignored, or old ones used instead.
+Error executing command, exiting
+"
+from prashantbkhopkar to All Participants:
+v14.4.0
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from rameshvelan@gmail.com to All Participants:
+oh ok
+from thoratbhakti289 to All Participants:
+v14.4.0
+
+from mrlingam087 to All Participants:
+git version 2.38.0
+
+from nksingh413@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+2.31.1.
+from prashantbkhopkar to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+2.7.12
+from thoratbhakti289 to All Participants:
+2.31.1
+from Jagadeesh (Faculty) to All Attendees:
+sudo apt-get install libltdl-dev
+from rameshvelan@gmail.com to All Participants:
+alraedy installed
+from prashantbkhopkar to All Participants:
+it is now installed on my system
+from prashantbkhopkar to All Participants:
+2.4.6.2
+from prashantbkhopkar to All Participants:
+19.03.11
+from rameshvelan@gmail.com to All Participants:
+19.03.11
+from prashantbkhopkar to All Participants:
+1.26.0
+from prashantbkhopkar to All Participants:
+should we do this
+from prashantbkhopkar to All Participants:
+or 1.26 is ok
+from bala.rhapsodic@gmail.com to All Participants:
+plz paste in the chat 
+from ronakrrb@gmail.com to All Participants:
+can you paste the url here
+from bala.rhapsodic@gmail.com to All Participants:
+mine is also 1.24
+from Jagadeesh (Faculty) to All Attendees:
+https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04
+from bala.rhapsodic@gmail.com to All Participants:
+done tnq
+from abho.sundaresan@gmail.com to All Participants:
+done 
+from nksingh413@gmail.com to All Participants:
+Done
+from varnaag1999@gmail.com to All Participants:
+yes
+from muppala.pratap@gmail.com to All Participants:
+i am not able toinsatll sudo curl -L https://github.com/docker/compose/releases/download/1.29.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+from prashantbkhopkar to All Participants:
+this last link you hv shared is for upgrading the docker-compose right?
+from prashantbkhopkar to All Participants:
+I have not done that 
+from prashantbkhopkar to All Participants:
+ok
+from muppala.pratap@gmail.com to All Participants:
+ok
+from Jagadeesh (Faculty) to All Attendees:
+docker-compose --version
+from prashant1611 to All Participants:
+Docker version 19.03.11
+from prashantbkhopkar to All Participants:
+The CUT and PASTE issue has been FIXED it seems
+from prashantbkhopkar to All Participants:
+That makes life simple 
+from muppala.pratap@gmail.com to All Participants:
+ok i have docker-compose version 1.24.1, build 4667896b
+
+from vinuvishwa to All Participants:
+what about python pip3 ?
+from vinuvishwa to All Participants:
+ok 
+from pranabnayak21@gmail.com to All Participants:
+For people foe who install curl is not working, please use this command first: sudo dpkg --configure -a
+from pranabnayak21@gmail.com to All Participants:
+*for
+from muppala.pratap@gmail.com to All Participants:
+curl command not working
+from muppala.pratap@gmail.com to All Participants:
+can you plse help me
+from muppala.pratap@gmail.com to All Participants:
+for docker composer
+from ronakrrb@gmail.com to All Participants:
+Setup Hyperledger Fabric: https://lms.simplilearn.com/user/project/download-attachment?file=1620899121_4set_up_hyperledger_fabric.docx
+from prashantbkhopkar to All Participants:
+Docker CE?
+from Jagadeesh (Faculty) to All Attendees:
+sudo curl -sSL https://bit.ly/2ysbOFE | bash -s -- 2.2.2 1.4.9
+from sabu.sumit@gmail.com to All Participants:
+permission denied
+from meringes_11@hotmail.com to All Participants:
+Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get http://%2Fvar%2Frun%2Fdocker.sock/v1.40/images/json: dial unix /var/run/docker.sock: connect: permission denied
+
+from abho.sundaresan@gmail.com to All Participants:
+got Got permission denied while trying to connect to the Docker daemon socket
+from meringes_11@hotmail.com to All Participants:
+permission denied
+from prashantbkhopkar to All Participants:
+yes it gives permission denied
+from prashantbkhopkar to All Participants:
+what about Docker CE?
+from prashantbkhopkar to All Participants:
+There was a step in the doc
+from kannan.varadharajan@gmail.com to All Participants:
+yeah second step
+from prashantbkhopkar to All Participants:
+No we did not install Docker CE
+from kannan.varadharajan@gmail.com to All Participants:
+Pls check step 1.2
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+not abl et oinstall curl --help me when u get time
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+muppalapratapgm@ip-172-31-17-232:~$ sudo apt-get install curl
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+You might want to run 'apt-get -f install' to correct these:
+The following packages have unmet dependencies:
+ curl : Depends: libcurl4 (= 7.85.0-1~16.04.sav0) but it is not going to be installed
+ docker-ce-cli : Breaks: docker-ce (< 5:0) but 17.06.2~ce-0~ubuntu is to be installed
+E: Unmet dependencies. Try 'apt-get -f install' with no packages (or specify a solution).
+muppalapratapgm@ip-172-31-17-232:~$ 
+
+from abho.sundaresan@gmail.com to All Participants:
+chmod 777 will allow all actions for all users while chmod 666 will allow all users to read and write but cannot execute the file
+from prashantbkhopkar to All Participants:
+Please paste the previous command
+from pranabnayak21@gmail.com to All Participants:
+can you please share the docker restart command
+from sabu.sumit@gmail.com to All Participants:
+can you please paste 666 command here
+from Jagadeesh (Faculty) to All Attendees:
+sudo chmod 666 /var/run/docker.sock
+from bala.rhapsodic@gmail.com to All Participants:
+Failed to restart docker.service: Unit docker.service is masked
+from abho.sundaresan@gmail.com to All Participants:
+sudo chmod 777/666/var/run/docker.sock
+from bala.rhapsodic@gmail.com to All Participants:
+getting this msg will docker restart?
+from bala.rhapsodic@gmail.com to All Participants:
+Failed to restart docker.service: Unit docker.service is masked
+from Jagadeesh (Faculty) to All Attendees:
+sudo systemctl restart docker
+from sabu.sumit@gmail.com to All Participants:
+it worked
+from bala.rhapsodic@gmail.com to All Participants:
+sudo systemctl restart docker
+from bala.rhapsodic@gmail.com to All Participants:
+balarhapsodicgm@ip-172-31-20-34:~$ sudo systemctl restart docker
+Failed to restart docker.service: Unit docker.service is masked.
+balarhapsodicgm@ip-172-31-20-34:~$ 
+from Jagadeesh (Faculty) to All Attendees:
+sudo systemctl unmask docker
+sudo systemctl start docker
+from abho.sundaresan@gmail.com to All Participants:
+I am still getting permission denied even after restarting and running the chmod command 
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+yes
+from rameshvelan@gmail.com to All Participants:
+i am also facing
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+for me curl not ata ll instllled
+from prashantbkhopkar to All Participants:
+after chmod 666 - what is the next step?
+from nksingh413@gmail.com to All Participants:
+Done
+from abho.sundaresan@gmail.com to All Participants:
+I did 
+from Jagadeesh (Faculty) to All Attendees:
+sudo apt-get install curl
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+its giving me error
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+i tried
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+even i tried
+from Jagadeesh (Faculty) to All Attendees:
+sudo apt-get update
+from vinuvishwa to All Participants:
+Job for docker.service failed because the control process exited with error code. See "systemctl status docker.service" and "journalctl -xe" for details.
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+error message
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+muppalapratapgm@ip-172-31-17-232:~$ sudo app-get install curl
+sudo: app-get: command not found
+muppalapratapgm@ip-172-31-17-232:~$ sudo apt-get install curl
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+You might want to run 'apt-get -f install' to correct these:
+The following packages have unmet dependencies:
+ curl : Depends: libcurl4 (= 7.85.0-1~16.04.sav0) but it is not going to be installed
+ docker-ce-cli : Breaks: docker-ce (< 5:0) but 17.06.2~ce-0~ubuntu is to be installed
+E: Unmet dependencies. Try 'apt-get -f install' with no packages (or specify a solution).
+
+from prashantbkhopkar to All Participants:
+OK
+from rameshvelan@gmail.com to All Participants:
+sudo systemctl start docker
+from prashantbkhopkar to All Participants:
+DOWNLOAD Complete
+from rameshvelan@gmail.com to All Participants:
+unmashk service not found
+from abho.sundaresan@gmail.com to All Participants:
+ok worked after I refreshed the instance and retstarted all services 
+from prashant1611 to All Participants:
+Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+from Jagadeesh (Faculty) to All Attendees:
+curl --version
+from pranabnayak21@gmail.com to All Participants:
+Where cn we see fabric-samples.. please repeat
+from prashant1611 to All Participants:
+am getting this error -
+from prashant1611 to All Participants:
+Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+not there
+from Jagadeesh (Faculty) to All Attendees:
+sudo chmod 666 /var/run/docker.sock
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+muppalapratapgm@ip-172-31-17-232:~$ curl --version
+The program 'curl' is currently not installed. To run 'curl' please ask your administrator to install the package 'curl'
+muppalapratapgm@ip-172-31-17-232:~$ 
+
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+error message
+from Jagadeesh (Faculty) to All Attendees:
+sudo chmod 666 /var/run/docker.sock
+from prashantbkhopkar to All Participants:
+for me it has worked...
+from abho.sundaresan@gmail.com to All Participants:
+try 777 as well
+from abho.sundaresan@gmail.com to All Participants:
+chmod 777 will allow all actions for all users
+from Jagadeesh (Faculty) to All Attendees:
+sudo apt update
+from Jagadeesh (Faculty) to All Attendees:
+sudo apt install curl
+from prashantbkhopkar to All Participants:
+666 worked
+from vinuvishwa to All Participants:
+docker sock is still not working 
+from prashantbkhopkar to All Participants:
+is unmask docker required?
+from vinuvishwa to All Participants:
+tried 777 also 
+from Jagadeesh (Faculty) to All Attendees:
+sudo chmod 777 /var/run/docker.sock
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+muppalapratapgm@ip-172-31-17-232:~$ sudo apt install curl
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+You might want to run 'apt-get -f install' to correct these:
+The following packages have unmet dependencies:
+ curl : Depends: libcurl4 (= 7.85.0-1~16.04.sav0) but it is not going to be installed
+ docker-ce-cli : Breaks: docker-ce (< 5:0) but 17.06.2~ce-0~ubuntu is to be installed
+E: Unmet dependencies. Try 'apt-get -f install' with no packages (or specify a solution).
+muppalapratapgm@ip-172-31-17-232:~$ 
+ even sudo apt update after sudo apt install curl not woking..help me when u get time
+from prashantbkhopkar to All Participants:
+which document to open ?
+from prashantbkhopkar to All Participants:
+Link did not work
+from abho.sundaresan@gmail.com to All Participants:
+hit ctrl+alt+Esc and resfresh your ubuntu 
+from prashantbkhopkar to All Participants:
+ok
+from vinuvishwa to All Participants:
+Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+from nksingh413@gmail.com to Jagadeesh (Faculty) (privately):
+First restaart the docker then use command chmod 666 then go for fabric download
+from abho.sundaresan@gmail.com to All Participants:
+reinitiate terminal using : source ~/.bashrc
+from abho.sundaresan@gmail.com to All Participants:
+worked for me 
+from gprabhu96@gmail.com to All Participants:
+next step after docker.sock?
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+please help me curl..this is basic one 
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+and i am not able to do any further steps 
+from prashant1611 to All Participants:
+This is still showing up - 
+from Jagadeesh (Faculty) to All Attendees:
+sudo curl -sSL https://bit.ly/2ysbOFE | bash -s -- 2.2.2 1.4.9
+from prashant1611 to All Participants:
+Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+from bala.rhapsodic@gmail.com to All Participants:
+balarhapsodicgm@ip-172-31-20-34:~$ sudo systemctl status docker
+● docker.service - LSB: Create lightweight, portable, self-sufficient containers.
+   Loaded: loaded (/etc/init.d/docker; bad; vendor preset: enabled)
+   Active: failed (Result: exit-code) since Sat 2022-10-15 06:50:11 UTC; 10s ago
+     Docs: man:systemd-sysv-generator(8)
+  Process: 18030 ExecStart=/etc/init.d/docker start (code=exited, status=1/FAILURE)
+ Main PID: 1547 (code=exited, status=0/SUCCESS)
+Oct 15 06:50:11 ip-172-31-20-34 systemd[1]: Starting LSB: Create lightweight, portable, self-sufficient containers....
+Oct 15 06:50:11 ip-172-31-20-34 docker[18030]:  * /usr/bin/dockerd not present or not executable
+Oct 15 06:50:11 ip-172-31-20-34 systemd[1]: docker.service: Control process exited, code=exited status=1
+Oct 15 06:50:11 ip-172-31-20-34 systemd[1]: Failed to start LSB: Create lightweight, portable, self-sufficient containers..
+Oct 15 06:50:11 ip-172-31-20-34 systemd[1]: docker.service: Unit entered failed state.
+from bala.rhapsodic@gmail.com to All Participants:
+No its failed
+from prashantbkhopkar to All Participants:
+Got the document.. link was ok
+from abho.sundaresan@gmail.com to All Participants:
+type reset on your terminal to reinitiate it 
+from vinuvishwa to All Participants:
+unable to start docker .. that is the issue .. rest the terminal a few times 
+from pranabnayak21@gmail.com to All Participants:
+For me also curl was not getting installed. Then I used this command:sudo dpkg --configure -a
+
+from pranabnayak21@gmail.com to All Participants:
+Then, I sected option 'Yes'
+from anukeerthi71@gmail.com to All Participants:
+for me also curl not able to get installed
+from pkoratakar to All Participants:
+if i close terminal and reopen then i have to start from start or not
+from pranabnayak21@gmail.com to All Participants:
+then I used the istall command - sudo apt-get install curl
+
+from pkoratakar to All Participants:
+ok
+from rameshvelan@gmail.com to All Participants:
+i ma facing poblem with docker sock
+from abho.sundaresan@gmail.com to All Participants:
+sometimes a terminal can also bug out if you try to read a binary file, 
+from prashantbkhopkar to All Participants:
+I CAN SEE faric-samples folder from my file manager
+from pkoratakar to All Participants:
+permission denied comming for sudo curl -sSL https://bit.ly/2ysbOFE | bash -s -- 2.2.2 1.4.9
+from bala.rhapsodic@gmail.com to All Participants:
+Stil having issue with docker start :(
+from vinuvishwa to All Participants:
+am trying to install pip3 and then try 
+from Jagadeesh (Faculty) to All Attendees:
+sudo chmod 777 /var/run/docker.sock
+from bala.rhapsodic@gmail.com to All Participants:
+tnq
+from abho.sundaresan@gmail.com to All Participants:
+These issues are highlighed in 6.39 doc 
+from ronakrrb@gmail.com to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+Setup Hyperledger Fabric https://lms.simplilearn.com/user/project/download-attachment?file=1620899121_4set_up_hyperledger_fabric.docx
+from ronakrrb@gmail.com to All Participants:
+Set up Hyperledger Test Network: https://lms.simplilearn.com/user/project/download-attachment?file=1620900104_5set_up_hyperledger_test_network.docx
+from mrlingam087 to All Participants:
+https://lms.simplilearn.com/courses/4190/PG-BC-Fundamentals-of-Blockchain/syllabus
+from bala.rhapsodic@gmail.com to All Participants:
+Failed to start LSB: Create lightweight, portable, self-sufficient containers..
+from bala.rhapsodic@gmail.com to All Participants:
+this is the error 
+from bala.rhapsodic@gmail.com to All Participants:
+used command
+from ronakrrb@gmail.com to All Participants:
+Self learning --> Session 2 -->  Lesson 6 --> 6.39 and 6.45
+from bala.rhapsodic@gmail.com to All Participants:
+sudo systemctl status docker
+from Jagadeesh (Faculty) to All Attendees:
+sudo systemctl restart docker
+from bala.rhapsodic@gmail.com to All Participants:
+$ sudo systemctl restart docker
+Job for docker.service failed because the control process exited with error code. See "systemctl status docker.service" and "journalctl -xe" for details.
+balarhapsodicgm@ip-172-31-20-34:~$
+from rameshvelan@gmail.com to All Participants:
+i can see fabric sample folders does that mean download is complete
+from mrlingam087 to All Participants:
+Local fabric binaries and docker images are out of  sync. This may cause problems.
+ERROR: The Compose file './docker/docker-compose-test-net.yaml' is invalid because:
+
+from bala.rhapsodic@gmail.com to All Participants:
+restart fails and ask to check status when checking status getting the LSB errir which i pasted already 
+from abho.sundaresan@gmail.com to All Participants:
+able to verify the docker images running the peers in our test network 
+from bala.rhapsodic@gmail.com to All Participants:
+how to do that
+from Jagadeesh (Faculty) to All Attendees:
+sudo apt remove docker && sudo apt install docker docker-ce and then run wget -qO- https://get.docker.com/ | sh
+from mrlingam087 to All Participants:
+okay sir
+from Jagadeesh (Faculty) to All Attendees:
+https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04
+from prashant1611 to All Participants:
+how to bring up the testnet ?
+from prashantbkhopkar to All Participants:
+ERROR: The Compose file './docker/docker-compose-test-net.yaml' is invalid because:
+networks.test value Additional properties are not allowed ('name' was unexpected)
+
+from abho.sundaresan@gmail.com to All Participants:
+My channel is created, should I turn off the network 
+from prashant1611 to All Participants:
+Thanks!
+from abho.sundaresan@gmail.com to All Participants:
+1.29 works 
+from Jagadeesh (Faculty) to All Attendees:
+https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04
+from abho.sundaresan@gmail.com to All Participants:
+testchannel is up 
+from sabu.sumit@gmail.com to Jagadeesh (Faculty) (privately):
+done with all the commands mentioned in Documents
+from sabu.sumit@gmail.com to Jagadeesh (Faculty) (privately):
+ok I will help 
+from nksingh413@gmail.com to All Participants:
+getting error while starting test network...even docker version is 1.29.2
+from prashant1611 to All Participants:
+sudo ./network.sh up
+
+from rameshvelan@gmail.com to All Participants:
+inside test network there are multiple folders
+from prashantbkhopkar to All Participants:
+how to remove docker?
+from prashant1611 to All Participants:
+Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+from rameshvelan@gmail.com to All Participants:
+oh ok
+from prashant1611 to All Participants:
+it's not working ...777 command
+from prashant1611 to All Participants:
+tried multiple times
+from prashant1611 to All Participants:
+yes
+from prashant1611 to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+How to remove docker? I have to update it to 1.29 version now
+from Jagadeesh (Faculty) to All Attendees:
+sudo systemctl restart docker
+from rameshvelan@gmail.com to All Participants:
+HOw to check the docker is installed?
+from abho.sundaresan@gmail.com to All Participants:
+you can try sudo chown root:docker /var/run/docker.sock
+from prashantbkhopkar to All Participants:
+OK
+from Jagadeesh (Faculty) to All Attendees:
+sudo chown root:docker /var/run/docker.sock
+from vinuvishwa to All Participants:
+am unable to retart docker 
+from vinuvishwa to All Participants:
+Job for docker.service failed because the control process exited with error code. See "systemctl status docker.service" and "journalctl -xe" for details.
+from prashantbkhopkar to All Participants:
+YES - started network
+from nksingh413@gmail.com to Jagadeesh (Faculty) (privately):
+ manifest for hyperledger/fabric-orderer:latest not found: manifest unknown: manifest unknow......Error while starting test network
+from prashantbkhopkar to All Participants:
+After this point - what should be done?
+from abho.sundaresan@gmail.com to All Participants:
+create a channel 
+from prashantbkhopkar to All Participants:
+How to create channel?
+from bala.rhapsodic@gmail.com to All Participants:
+I tried all of them nothing worked even after docker remove am able to see the docker version output , now going for the restart of my VM instance .. let u know the status
+from prashantbkhopkar to All Participants:
+ok
+from abho.sundaresan@gmail.com to All Participants:
+all steps highlighted in practice 6.45 
+from pkoratakar to All Participants:
+in test nw we see container id ,image,name,commands created timethen nstatus and port what actually it is in real time pls explain
+from abho.sundaresan@gmail.com to All Participants:
+testchannel, testchannel with CAs and couch DB 
+from prashantbkhopkar to All Participants:
+I could start network.. please help me with what is the next step? should be done by following thru doc?
+from thoratbhakti289 to All Participants:
+may be we will try later
+from abho.sundaresan@gmail.com to All Participants:
+yes doc 6.45 
+from pkoratakar to All Participants:
+pls sir in test nw we see container id ,image,name,commands created timethen nstatus and port what actually it is in real time pls explain
+from prashantbkhopkar to All Participants:
+Yes installed that v1,29 and then everything worked.
+from abho.sundaresan@gmail.com to All Participants:
+sudo ./network.sh createChannel -c testchannel 
+from prashant1611 to All Participants:
+Local fabric binaries and docker images are out of  sync. This may cause problems.
+
+from abho.sundaresan@gmail.com to All Participants:
+understood 
+from Jagadeesh (Faculty) to All Attendees:
+docker exec peer0.org1.example.com peer channel list
+from abho.sundaresan@gmail.com to All Participants:
+I finished all the steps mentioned. Trying to go through each now. 
+from prashantbkhopkar to All Participants:
+i created a channel 
+from prashantbkhopkar to All Participants:
+testchannel
+from abho.sundaresan@gmail.com to All Participants:
+understood 
+from Jagadeesh (Faculty) to All Attendees:
+sudo ./network.sh createChannel -c testchannel
+from Jagadeesh (Faculty) to All Attendees:
+sudo ./network.sh down 
+from abho.sundaresan@gmail.com to All Participants:
+when we create channel with CA , will it create all the endorsement policies as well at chaincode level ??
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+Start N/wlk - what is the command?
+from prashantbkhopkar to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+can you just show couchdb command?
+from prashantbkhopkar to All Participants:
+by pressing up arrow
+from Jagadeesh (Faculty) to All Attendees:
+sudo ./network.sh up -ca -s couchdb
+from pkoratakar to All Participants:
+are we performing transaction or what in this 
+from abho.sundaresan@gmail.com to All Participants:
+hyperledger need not be only trans driven. It can be part of multiple domain applications. 
+from prashantbkhopkar to All Participants:
+where to find this documnt?
+from prashantbkhopkar to All Participants:
+Ok
+from Jagadeesh (Faculty) to All Attendees:
+https://github.com/hyperledger/fabric-samples/blob/main/token-erc-20/README.md
+from abho.sundaresan@gmail.com to All Participants:
+ok I'll bookmark this and try this stuff out 
+from prashantbkhopkar to All Participants:
+WE need to go through this document first - or else we may not follow..
+from prashantbkhopkar to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+We are good today - right speed !!
+from prashantbkhopkar to All Participants:
+HEALTH is good.
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from santsp@gmail.com to All Participants:
+Health is good
+from abho.sundaresan@gmail.com to All Participants:
+health is fine. 
+from prashantbkhopkar to All Participants:
+EDUCATION also good.
+from prashant1611 to All Participants:
+Loyalty Rewards
+from prashantbkhopkar to All Participants:
+can you send these docs by zipping and sending over email?
+from prashantbkhopkar to All Participants:
+Lesson 6 or earlier?
+from prashantbkhopkar to All Participants:
+Ok
+from mrlingam087 to All Participants:
+sir could to you explian yaml file
+from mrlingam087 to All Participants:
+okay sir
+from Jagadeesh (Faculty) to All Attendees:
+https://hyperledger-fabric.readthedocs.io/_/downloads/en/release-2.0/pdf/
+from abho.sundaresan@gmail.com to All Participants:
+Thank you for the wonderful class again sir!  
+from vinuvishwa to All Participants:
+am having issues 
+from prashant1611 to All Participants:
+docker issue pls
+from bala.rhapsodic@gmail.com to All Participants:
+Still facing issue with docker
+from vinuvishwa to All Participants:
+same here , docker issue 
+from Learner Success Manager to All Participants:
+REMINDER:
+No Live Classes on 22 & 23 October
+Please note, on account of the festival of Diwali, there will be no live classes scheduled on 22 & 23 October 2022. Kindly refer to your LMS for your upcoming class schedule
+from rameshvelan@gmail.com to All Participants:
+i am facing problem with docker
+from prashantbkhopkar to All Participants:
+Pls can I drop now?
+from davidmdenis to Jagadeesh (Faculty) (privately):
+sir are we allowed to call u personally regarding discussion on business issues other than what is taught in class
+from Learner Success Manager to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from abho.sundaresan@gmail.com to All Participants:
+Thank you. Have a nice day. I need to drop too. 
+from mrlingam087 to All Participants:
+sir i have again this error Local fabric binaries and docker images are out of  sync. This may cause problems.
+Pulling orderer.example.com (hyperledger/fabric-orderer:latest)...
+ERROR: manifest for hyperledger/fabric-orderer:latest not found
+
+from prashant1611 to All Participants:
+Can we take 2 weekend break, pls
+from prashantbkhopkar to All Participants:
+ok
+from prashant1611 to All Participants:
+22-23, 29-30
+from santsp@gmail.com to All Participants:
+ok thanks
+from mrlingam087 to All Participants:
+what i do sir
+from pranabnayak21@gmail.com to All Participants:
+Thank you. Happy Diwali to you all in advance
+from arjunlamba737  to All Participants:
+ok thanks
+from abho.sundaresan@gmail.com to All Participants:
+Happy Diwali 
+from bala.rhapsodic@gmail.com to All Participants:
+Unable to start docker
+from mrlingam087 to All Participants:
+okay thank you sir
+from rameshvelan@gmail.com to All Participants:
+how to check now whether the docker is installed or not
+from anukeerthi71@gmail.com to All Participants:
+curl issue not resolved pls
+from abho.sundaresan@gmail.com to All Participants:
+Thanks sir. Have a nice day all of you. 
+from prashantbkhopkar to All Participants:
+Thanks Sir - G'bye
+from rameshvelan@gmail.com to All Participants:
+how to check docker is installed or not
+from Jagadeesh (Faculty) to All Attendees:
+docker --version
+from bala.rhapsodic@gmail.com to All Participants:
+u want me to paste the docker error again?
+from prashant1611 to All Participants:
+Unable to find image 'hyperledger/fabric-tools:latest' locally
+docker: Error response from daemon: manifest for hyperledger/fabric-tools:latest not found.
+See 'docker run --help'.
+LOCAL_VERSION=2.2.2
+DOCKER_IMAGE_VERSION=
+Local fabric binaries and docker images are out of  sync. This may cause problems.
+ERROR: The Compose file './docker/docker-compose-test-net.yaml' is invalid because:
+networks.test value Additional properties are not allowed ('name' was unexpected)
+
+from anukeerthi71@gmail.com to All Participants:
+ok
+from rameshvelan@gmail.com to All Participants:
+Docker version 19.03.11, build 42e35e61f3
+from vinuvishwa to All Participants:
+vinuvishwagmail@ip-172-31-30-122:/usr/local/bin$ docker --version
+Docker version 19.03.11, build 42e35e61f3
+vinuvishwagmail@ip-172-31-30-122:/usr/local/bin$ sudo systemctl start docker
+Job for docker.service failed because the control process exited with error code. See "systemctl status docker.service" and "journalctl -xe" for details.
+
+from rameshvelan@gmail.com to All Participants:
+oh oGreat
+from prashant1611 to All Participants:
+pls suggest me way forward
+from prashant1611 to All Participants:
+can I show my screen?
+from mrlingam087 to All Participants:
+Docker version 19.03.11, build 42e35e61f3
+ ihave this version
+from rameshvelan@gmail.com to All Participants:
+ok dropping. Thanks
+from Jagadeesh (Faculty) to All Attendees:
+https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04
+from bala.rhapsodic@gmail.com to All Participants:
+me to journel issue only
+from prashant1611 to All Participants:
+ok, am trying that now..
+from mrlingam087 to All Participants:
+sir i cant see information on  sudo docker ps
+
+from prashantbkhopkar to All Participants:
+Leaving now ~ Thanks Jagdish
+from gprabhu96@gmail.com to All Participants:
+Thanks
+from vinuvishwa to All Participants:
+vinuvishwagmail@ip-172-31-30-122:/usr/local/bin$ docker-compose --version
+docker-compose version 1.29.2, build 5becea4c
+vinuvishwagmail@ip-172-31-30-122:/usr/local/bin$ sudo systemctl start docker
+Job for docker.service failed because the control process exited with error code. See "systemctl status docker.service" and "journalctl -xe" for details.
+vinuvishwagmail@ip-172-31-30-122:/usr/local/bin$ 
+
+from prashant1611 to All Participants:
+I reinstalled docker compose
+from prashant1611 to All Participants:
+shall I try to restart the testnet
+from bala.rhapsodic@gmail.com to All Participants:
+Exact error
+from bala.rhapsodic@gmail.com to All Participants:
+$ sudo systemctl start docker
+Job for docker.service failed because the control process exited with error code. See "systemctl status docker.service" and "journalctl -xe" for details.
+
+from prashant1611 to All Participants:
+ok 
+from bala.rhapsodic@gmail.com to All Participants:
+Failed to start LSB: Create lightweight, portable, self-sufficient containers..
+Oct 15 07:43:18 ip-172-31-20-34 systemd[1]: docker.service: Unit entered failed state.
+
+
+

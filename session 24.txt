@@ -1,0 +1,1757 @@
+https://geth.ethereum.org/
+
+Assignment:
+
+1. create two accounts in geth (personal.newAccount)
+2. set one of the account as ether base
+3. start mining
+4. stop mining
+5. connect to geth console
+6. verify balance of account1 , lets 100 eth
+7. transfer 10 eth to accont2 from etherbase account(accoount1)
+8. verify the balance for account1 nd account2
+
+https://medium.com/taipei-ethereum-meetup/beginners-guide-to-ethereum-3-explain-the-genesis-file-and-use-it-to-customize-your-blockchain-552eb6265145
+
+https://medium.com/singapore-blockchain-dapps/explanation-of-genesis-file-583774a5f523#:~:text=The%20nonce%20is%20the%20cryptographically,(Yellowpager%2C%2011.5.
+
+https://besu.hyperledger.org/en/stable/public-networks/concepts/network-and-chain-id/
+
+
+localhost:8545
+127.0.0.1:8545
+
+
+101.21.24.67:8545
+
+
+
+
+
+
+Steps t install ethereum client:
+--------------------------------
+1. sudo apt-get install software-properties-common
+2. sudo add-apt-repository -y ppa:ethereum/ethereum
+3. sudo apt-get update
+4. sudo apt-get install ethereum
+5. geth verison
+
+Steps to configure ethereum blockchain using GETH:
+--------------------------------------------------
+
+1. accounts --- to connect to blockchain--- global account eth blockchain
+2. genesis file --- to read and store some config data to connect to network (production/test/private)
+
+
+a. geth --datadir ethdata account new
+   
+   prompts for password , give it as password
+    
+   0x074D10C36aD137Ed5cc7B5CCB051e2f10614ceE9
+
+b. nano genesis.json
+
+{
+"nonce": "0x0000000000000042", ---- it helps in validating some computation is done for the miner to validate the blocks
+"timestamp": "0x00", --- unix time diff in creating successive new blocks
+"parentHash":"0x0000000000000000000000000000000000000000000000000000000000000000", --- merkle root hash
+"extraData": "0x00", --- not really refered
+"gasLimit": "0x8000000", --- 35000  --- 
+"difficulty": "0x0400",  --- 320000 ---
+"mixhash":"0x0000000000000000000000000000000000000000000000000000000000000000", --- this along with nonce will help other miners to validate block details for miner propsing block
+"coinbase": "0x3333333333333333333333333333333333333333", --- address of the geth node
+"alloc": {
+},
+"config": {
+"chainId": 786,
+"homesteadBlock": 0,
+"eip150Block": 0,
+"eip155Block": 0,
+"eip158Block": 0
+}
+}
+
+
+0xDd9F9B5140ecA700a9E6e04e1ecFd1D3B4F31CFC
+
+EIP - Ethereum Improvement Proposal -----> chnage in eth protocal ---> EIPxxx
+
+eip150 - berlin harfork
+eip155 - london hardfork
+eip158 - latest hardfork
+
+kill -9 $(lsof -t -i:30303)
+
+
+
+
+
+
+
+ CTRL + X ---> to exit file
+ hit 'Y' ---> to save file and exit
+
+
+
+
+
+    
+
+
+
+      client establishes a RPC connection is required - (eth blockchain is running at some specified node)
+
+
+
+
+
+from nksingh413@gmail.com to All Participants:
+Hello everyone
+from KONYALAABHISHEK to All Participants:
+goodmorning
+from KONYALAABHISHEK to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+yes
+from bala.rhapsodic@gmail.com to All Participants:
+S
+from prashant1611  to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+No audio
+from kannan.varadharajan@gmail.com to All Participants:
+GM!
+from kannan.varadharajan@gmail.com to All Participants:
+good
+from KONYALAABHISHEK to All Participants:
+clear
+from chethan.cs95@gmail.com to All Participants:
+yes
+from prashant1611  to All Participants:
+good
+from joseph.kanish.bernard@gmail.com to All Participants:
+clear
+from kannan.varadharajan@gmail.com to All Participants:
+ok
+from soujanya.veerubhotla@gmail.com to All Participants:
+Is your screen shared?
+from prashantbkhopkar to All Participants:
+Joined just now,, did I miss something?
+from prashantbkhopkar to All Participants:
+Yes I can see
+from sabu.sumit@gmail.com to All Participants:
+yes screen is visible
+from gprabhu96@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+visible
+from vinuvishwa to All Participants:
+yes 
+from sdevang2 to All Participants:
+Good Morning
+from mrlingam087 to All Participants:
+good moring sir
+from soujanya.veerubhotla@gmail.com to All Participants:
+RDP Access or Web CConsole??
+from nksingh413@gmail.com to All Participants:
+Yes
+from pranabnayak21@gmail.com to All Participants:
+Yes
+from kannan.varadharajan@gmail.com to All Participants:
+did not find details on merge / fork in material. Can you quickly cover that as well ?
+from prashantbkhopkar to All Participants:
+Not done the Electrum wallet txns
+from prashantbkhopkar to All Participants:
+Will do it today.. 
+from prashantbkhopkar to All Participants:
+Yes
+from prashantbkhopkar to All Participants:
+exchange rate between GAS and ETH
+from vk033397  to All Participants:
+features of DAO
+from abho.sundaresan@gmail.com to All Participants:
+yup 
+from nksingh413@gmail.com to All Participants:
+Yes
+from pranabnayak21@gmail.com to All Participants:
+Yes
+from abho.sundaresan@gmail.com to All Participants:
+which bumber is the practice anyone ??
+from abho.sundaresan@gmail.com to All Participants:
+number*
+from nksingh413@gmail.com to All Participants:
+Lesson-
+from kannan.varadharajan@gmail.com to All Participants:
+Lesson 5 Demo 7
+from abho.sundaresan@gmail.com to All Participants:
+5.30
+from prashantbkhopkar to All Participants:
+Lesson content is NOT visible.
+from prashantbkhopkar to All Participants:
+It shows as follows: This topic is covered in our Live Virtual Class.
+from sdevang2 to All Participants:
+Same here.. 
+from prashantbkhopkar to All Participants:
+Click on the Live Class Tab on the left panel to check the live class schedule, and register at your convenience.
+from ronakrrb@gmail.com to All Participants:
+It is 5.30 and not 5.7
+from bala.rhapsodic@gmail.com to All Participants:
+mist is already install in the lab
+from sdevang2 to All Participants:
+Can you paste the URL here 
+from bala.rhapsodic@gmail.com to All Participants:
+https://github.com/ethereum/mist/releases
+from abho.sundaresan@gmail.com to All Participants:
+its live virtual classes -> lesson 5 -> 5.30 Assisted practice 
+from prashantbkhopkar to All Participants:
+Please arrange to give access to the lesson contents - so that we can practice whenever time permits - more often.
+from ronakrrb@gmail.com to All Participants:
+https://lms.simplilearn.com/user/project/download-attachment?file=1620897794_7install_and_explore_the_mist_wallet.docx
+from abho.sundaresan@gmail.com to All Participants:
+we already have mist installed 
+from soujanya.veerubhotla@gmail.com to All Participants:
+ethereum or mist??
+from Jagadeesh (Faculty) to All Participants:
+Ethereum-Wallet-linux64-0-11-1.deb
+
+from nksingh413@gmail.com to All Participants:
+mis linux  is available in installer
+from nksingh413@gmail.com to All Participants:
+32
+from sdevang2 to All Participants:
+Unlock Keyring.. I seem to have forgotten the passoword, is there a way to reset this.. Cant see a forgot password button or link.
+from sdevang2 to All Participants:
+Is there a way to fix this.. ?? 
+from mrlingam087 to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+No.. downloading
+from Jagadeesh (Faculty) to All Participants:
+sudo dpkg --install Mist-linux64-0-11-1.deb
+from nksingh413@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+Not done
+from vk033397 to All Participants:
+not done
+from write2arghyasaha@gmail.com  to All Participants:
+done
+from pranshumishra73@gmail.com to All Participants:
+installed
+from kannan.varadharajan@gmail.com to All Participants:
+done
+from vinuvishwa to All Participants:
+yes 
+from mrlingam087 to All Participants:
+done
+from sabu.sumit@gmail.com to All Participants:
+done
+from vinuvishwa to All Participants:
+mine is taking time 
+from chethan.cs95@gmail.com to All Participants:
+done
+from anukeerthi71@gmail.com to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+done
+from pkoratakar to All Participants:
+mist file
+from sdevang2 to All Participants:
+I am blocked at Unlock keyring.. so will just listen to day and do it later when the issue is fixed. 
+from abho.sundaresan@gmail.com to All Participants:
+lol
+from thoratbhakti289 to All Participants:
+can we try later
+from thoratbhakti289 to All Participants:
+after the session
+from abho.sundaresan@gmail.com to All Participants:
+yup
+from abho.sundaresan@gmail.com to All Participants:
+sure
+from priyabratajena12 to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+Can you share this document with us.. LESSON 5 may not show content until that is corrected by LSM
+from abho.sundaresan@gmail.com to All Participants:
+done 
+from vinuvishwa to All Participants:
+how to connect with the test network ? 
+from nksingh413@gmail.com to All Participants:
+Done
+from prashantbkhopkar to All Participants:
+Who uses the "Start mining" option in that same menu?
+from prashantbkhopkar to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+Yes
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+Clear now - will practice
+from bala.rhapsodic@gmail.com to All Participants:
+here also we need to go for the test faucet to get the test ether isn't it
+from prashantbkhopkar to All Participants:
+Please check if we have the access to the LESSON 5 content with all participants.. or else raise a ticket for same
+from abho.sundaresan@gmail.com to All Participants:
+understood 
+from abho.sundaresan@gmail.com to All Participants:
+Do Users interact with the blockchain through a client’s interface, and code libraries do the same through its JSON API ???
+from kannan.varadharajan@gmail.com to All Participants:
+geth vs metamask - when to use geth ?
+from prashantbkhopkar to All Participants:
+Why is Kovan excluded in Geth?
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+Why is Kovan excluded in Geth?
+from bala.rhapsodic@gmail.com to All Participants:
+no it is mentioned in the PPT that we can't conenct to Kovan
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+The slide showed that Kovan was excluded..
+from ronakrrb@gmail.com to All Participants:
+Self Learning --> Session 2 --> Lesson 5 --> 5.36 Practice Project
+from ronakrrb@gmail.com to All Participants:
+https://lms.simplilearn.com/user/project/download-attachment?file=1620897897_8install_geth_client.docx
+from abho.sundaresan@gmail.com to All Participants:
+https://geth.ethereum.org/downloads/
+from abho.sundaresan@gmail.com to All Participants:
+done
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get install software-properties-common
+from Jagadeesh (Faculty) to All Participants:
+sudo add-apt-repository -y ppa:ethereum/ethereum
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get update
+from Jagadeesh (Faculty) to All Participants:
+sudo apt-get install ethereum
+from abho.sundaresan@gmail.com to All Participants:
+says unable to locate package Etherium 
+from abho.sundaresan@gmail.com to All Participants:
+I did 
+from nksingh413@gmail.com to All Participants:
+Done
+from bala.rhapsodic@gmail.com to All Participants:
+what is install ehtereum will do, does it add us to the ehtereum n/w.. like other peer nodes which are conenct to the ethereum n/w?
+from vinuvishwa to All Participants:
+i am getting the same issue 
+from sabu.sumit@gmail.com to All Participants:
+Done
+from pranshumishra73@gmail.com to All Participants:
+working for me
+from vinuvishwa to All Participants:
+yes 
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes it done
+from prashantbkhopkar to All Participants:
+Switching between lab and session is difficult - I think today your pace is fast.
+from bala.rhapsodic@gmail.com to All Participants:
+what is install ehtereum will do, does it add us to the ehtereum n/w.. like other peer nodes which are connect to the ethereum n/w?
+from abho.sundaresan@gmail.com to All Participants:
+getting the same error even after that 
+from vinuvishwa to All Participants:
+same here 
+from prashantbkhopkar to All Participants:
+YES - that will be great
+from abho.sundaresan@gmail.com to All Participants:
+sudo apt-get install software-properties-common
+sudo add-apt-repository -y ppa:ethereum/ethereum
+sudo apt-get update
+sudo apt-get install Ethereum
+from prashantbkhopkar to All Participants:
+ok
+from Jagadeesh (Faculty) to All Participants:
+1. sudo apt-get install software-properties-common
+2. sudo add-apt-repository -y ppa:ethereum/ethereum
+3. sudo apt-get update
+4. sudo apt-get install ethereum
+5. geth verison
+from thoratbhakti289 to All Participants:
+i m geting below messgae
+from thoratbhakti289 to All Participants:
+The lab environment is currently in Stopped state, so the access is suspended. Cannot connect to the lab environment until it is started. Please click on Start Instance to wake up the environment.
+from abho.sundaresan@gmail.com to All Participants:
+it works till the update portion for me. When installing I get E: Unable to locate package Etherium 
+from soujanya.veerubhotla@gmail.com to All Participants:
+spelliing is wrong
+from abho.sundaresan@gmail.com to All Participants:
+no I copied it 
+from abho.sundaresan@gmail.com to All Participants:
+I spelled it wrong when explaining 
+from shruthi.lakshmi@gmail.com to All Participants:
+How to paste the command in the terminal? I'm unable to do that..
+from sabu.sumit@gmail.com to All Participants:
+Etherium  this spelling is wrong
+from nksingh413@gmail.com to All Participants:
+Done
+from muppala.pratap@gmail.com to All Participants:
+even pastimg not working for me
+from nksingh413@gmail.com to All Participants:
+Shift+ctrl+v
+from pranshumishra73@gmail.com to All Participants:
+ctrl+shift+v
+from pranabnayak21@gmail.com to All Participants:
+Just coying the commands from chat and pasting in terminal works
+from Jagadeesh (Faculty) to All Participants:
+ctlt+shift+V
+from Jagadeesh (Faculty) to All Participants:
+ctrl+shift+C
+from prashantbkhopkar to All Participants:
+Which directory we should execute these commands from?
+from prashantbkhopkar to All Participants:
+Ok
+from kannan.varadharajan@gmail.com to All Participants:
+No UI ?
+from pkoratakar to All Participants:
+firversionst need to download geth 
+from shruthi.lakshmi@gmail.com to All Participants:
+Works now. Thank you.
+from abho.sundaresan@gmail.com to All Participants:
+ok worked now. I restarted the whole process. 
+from kannan.varadharajan@gmail.com to All Participants:
+sorry meant Geth has UI ?
+from vinuvishwa to All Participants:
+worked now 
+from prashantbkhopkar to All Participants:
+Hi
+from thoratbhakti289 to All Participants:
+i m restarting the lab 
+from prashantbkhopkar to All Participants:
+restarted
+from thoratbhakti289 to All Participants:
+its bit slow
+from sabu.sumit@gmail.com to All Participants:
+Go language is also fully non-GUI?
+from abho.sundaresan@gmail.com to All Participants:
+Sould we create a separate folder to store the ethereum network data
+from abho.sundaresan@gmail.com to All Participants:
+??
+from prashant1611 to All Participants:
+Geth Version 1.9.15 - stable
+from sabu.sumit@gmail.com to All Participants:
+ok thanks
+from abho.sundaresan@gmail.com to All Participants:
+Can we create multi-node private blockchain network using geth too??
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from vk033397 to All Participants:
+how to use lab 
+from prashantbkhopkar to All Participants:
+ERROR: '~ethareum' user or team does not exist
+from bala.rhapsodic@gmail.com to All Participants:
+what is install ehtereum will do, does it add us to the ehtereum n/w.. like other peer nodes which are conenct to the ethereum n/w?
+from vk033397 to All Participants:
+my lab is not working
+from thoratbhakti289 to All Participants:
+not yet there is some problem in my lab
+from prashant1611 to All Participants:
+Suppose I want to these steps outside Lab. Do I need to purchase AWS cloud installation first ?
+from davidmdenis to All Participants:
+sir can this ppt be shared...
+from bala.rhapsodic@gmail.com to All Participants:
+Ok tnq
+from prashantbkhopkar to All Participants:
+previous command was successful
+from thoratbhakti289 to All Participants:
+can we use the lab after the live session 
+from prashantbkhopkar to All Participants:
+ok
+from thoratbhakti289 to All Participants:
+ok
+from prashant1611 to All Participants:
+Thanks!
+from thoratbhakti289 to All Participants:
+thanks
+from thoratbhakti289 to All Participants:
+ok
+from abho.sundaresan@gmail.com to All Participants:
+I'll create a partition and install it later
+from prashantbkhopkar to All Participants:
+It works now - there was a spelling error
+from ronakrrb@gmail.com to All Participants:
+Self Learning --> Session 2 --> Lesson 5 --> 5.37
+from ronakrrb@gmail.com to All Participants:
+https://lms.simplilearn.com/user/project/download-attachment?file=1620897968_9set_up_a_private_blockchain_node_using_geth.docx
+from ronakrrb@gmail.com to All Participants:
+Yeah sharing that as well
+from ronakrrb@gmail.com to All Participants:
+Self Learning --> Course Resources --> E-books
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from abho.sundaresan@gmail.com to All Participants:
+sure
+from kannan.varadharajan@gmail.com to All Participants:
+is the account local ? where does account get created ?
+from abho.sundaresan@gmail.com to All Participants:
+so I guess we can also connect main Ethereum network and try to download the blocks
+from pranabnayak21@gmail.com to All Participants:
+Can you please put in chat also
+from Jagadeesh (Faculty) to All Participants:
+geth --datadir ethdata account new
+from abho.sundaresan@gmail.com to All Participants:
+done
+from vinuvishwa to All Participants:
+done
+from vinuvishwa to All Participants:
+\
+from mrlingam087 to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+done
+from vinuvishwa to All Participants:
+done
+from abho.sundaresan@gmail.com to All Participants:
+done
+from anukeerthi71@gmail.com to All Participants:
+done
+from prashantbkhopkar to All Participants:
+done
+from shruthi.lakshmi@gmail.com to All Participants:
+Done
+from mrlingam087 to All Participants:
+done
+from Jagadeesh (Faculty) to All Participants:
+nano genesis.json
+from Jagadeesh (Faculty) to All Participants:
+{
+"nonce": "0x0000000000000042",
+"timestamp": "0x00",
+"parentHash":"0x0000000000000000000000000000000000000000000000000000000000000000",
+"extraData": "0x00",
+"gasLimit": "0x8000000",
+"difficulty": "0x0400",
+"mixhash":"0x0000000000000000000000000000000000000000000000000000000000000000",
+"coinbase": "0x3333333333333333333333333333333333333333",
+"alloc": {
+},
+"config": {
+"chainId": 786,
+"homesteadBlock": 0,
+"eip150Block": 0,
+"eip155Block": 0,
+"eip158Block": 0
+}
+}
+from kannan.varadharajan@gmail.com to All Participants:
+copy paste not working to remote
+from prashant1611 to All Participants:
+it's asking for a password
+from prashant1611 to All Participants:
+geth --datadir ethdata account new
+after this command
+from bala.rhapsodic@gmail.com to All Participants:
+how to save this file?
+from meringes_11@hotmail.com to All Participants:
+pls repeat from nano command
+from prashant1611 to All Participants:
+actually am not able set passowrd
+from sudhanvatilgul007@gmail.com to All Participants:
+How to exit the file?
+from prashantbkhopkar to All Participants:
+Created - how to verify?
+from pranabnayak21@gmail.com to All Participants:
+ctrl+x to save, then hit y
+from nksingh413@gmail.com to All Participants:
+I am also not able to set password
+from abho.sundaresan@gmail.com to All Participants:
+done 
+from Jagadeesh (Faculty) to All Participants:
+nano genesis.json
+from sabu.sumit@gmail.com to All Participants:
+done
+from prashant1611 to All Participants:
+it shows 2 lines 
+from prashant1611 to All Participants:
+password
+from prashant1611 to All Participants:
+repeat password
+from prashantbkhopkar to All Participants:
+GOT it - just cat genesis.json
+from prashant1611 to All Participants:
+however, cursor never go to 1st line
+from mrlingam087 to All Participants:
+how to come out side of file
+from prashantbkhopkar to All Participants:
+We can use vim also.. right?
+from nksingh413@gmail.com to Jagadeesh (Faculty) (privately):
+Not able to type when asking for password
+from Jagadeesh (Faculty) to All Participants:
+{
+"nonce": "0x0000000000000042",
+"timestamp": "0x00",
+"parentHash":"0x0000000000000000000000000000000000000000000000000000000000000000",
+"extraData": "0x00",
+"gasLimit": "0x8000000",
+"difficulty": "0x0400",
+"mixhash":"0x0000000000000000000000000000000000000000000000000000000000000000",
+"coinbase": "0x3333333333333333333333333333333333333333",
+"alloc": {
+},
+"config": {
+"chainId": 786,
+"homesteadBlock": 0,
+"eip150Block": 0,
+"eip155Block": 0,
+"eip158Block": 0
+}
+}
+from mrlingam087 to All Participants:
+how to save the json file
+from meringes_11@hotmail.com to All Participants:
+yes
+from Jagadeesh (Faculty) to All Participants:
+CTRL + X
+from thoratbhakti289 to All Participants:
+done
+from thoratbhakti289 to All Participants:
+after that
+from meringes_11@hotmail.com to All Participants:
+after that?
+from abho.sundaresan@gmail.com to All Participants:
+how do check the block being commited in the datadir ??
+from prashant1611 to All Participants:
+it shows me a screen that says New File
+from prashantbkhopkar to All Participants:
+yes
+from mrlingam087 to All Participants:
+done
+from shruthi.lakshmi@gmail.com to All Participants:
+Yes
+from varnaag1999@gmail.com to All Participants:
+yes
+from prashant1611 to All Participants:
+yes...I did
+from prashant1611 to All Participants:
+yes..
+from thoratbhakti289 to All Participants:
+m-b
+from prashant1611 to All Participants:
+ah no..1 sec..
+from thoratbhakti289 to All Participants:
+done
+from prashant1611 to All Participants:
+1 min pls
+from pkoratakar to Jagadeesh (Faculty) (privately):
+as i electronics and telecomm engineering all the thing are new and difficult for me iwill do practice of it .but  please explain how it useful in real world 
+from prashantbkhopkar to All Participants:
+pls remove chat box 
+from prashant1611 to All Participants:
+created the file
+from bala.rhapsodic@gmail.com to All Participants:
+with the public address?
+from sabu.sumit@gmail.com to All Participants:
+public address?
+from kannan.varadharajan@gmail.com to All Participants:
+what is starting network - you mean local network ?
+from prashantbkhopkar to All Participants:
+How will we override?
+from prashant1611 to All Participants:
+pls show account creation one more time..
+from prashant1611 to All Participants:
+ok, got it
+from abho.sundaresan@gmail.com to All Participants:
+when do we create a key file in data/keystore which contains your public and private addresses
+from Jagadeesh (Faculty) to All Participants:
+geth --datadir=”ethdata” init genesis.json
+from sudhanvatilgul007@gmail.com to All Participants:
+getting issue
+from kannan.varadharajan@gmail.com to All Participants:
+what are these errors ?
+from sudhanvatilgul007@gmail.com to All Participants:
+database contains incompatible genesis error
+from prashantbkhopkar to All Participants:
+Done
+from prashant1611 to All Participants:
+can you pls say that again..
+from prashant1611 to All Participants:
+what have we achieved with this command
+from kannan.varadharajan@gmail.com to All Participants:
+what is meaning of last line ?
+from Jagadeesh (Faculty) to All Participants:
+geth --datadir=”ethdata” init genesis.json
+from vinuvishwa to All Participants:
+Fatal: Failed to write genesis block: unsupported fork ordering:
+from prashantbkhopkar to All Participants:
+Yes
+from Jagadeesh (Faculty) to All Participants:
+{
+"nonce": "0x0000000000000042",
+"timestamp": "0x00",
+"parentHash":"0x0000000000000000000000000000000000000000000000000000000000000000",
+"extraData": "0x00",
+"gasLimit": "0x8000000",
+"difficulty": "0x0400",
+"mixhash":"0x0000000000000000000000000000000000000000000000000000000000000000",
+"coinbase": "0x3333333333333333333333333333333333333333",
+"alloc": {
+},
+"config": {
+"chainId": 786,
+"homesteadBlock": 0,
+"eip150Block": 0,
+"eip155Block": 0,
+"eip158Block": 0
+}
+}
+
+from prashantbkhopkar to All Participants:
+BUT what about errors it gives towards the end of execution?
+from abho.sundaresan@gmail.com to All Participants:
+Successfully wrote genesis state means its correct right 
+from prashant1611 to All Participants:
+Can you explain contents of genesis block ?
+from prashant1611 to All Participants:
+particularly the ones at bottom
+from kannan.varadharajan@gmail.com to All Participants:
+ok first block you mean ?
+from vk033397 to All Participants:
+this one create a genesis file
+from prashantbkhopkar to All Participants:
+nonce: command not found
+from vinuvishwa to All Participants:
+done 
+from pranabnayak21@gmail.com to All Participants:
+Yes
+from sabu.sumit@gmail.com to All Participants:
+done
+from mrlingam087 to All Participants:
+done
+from ronakrrb@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+No command 'timestamp' found, did you mean:
+from Jagadeesh (Faculty) to All Participants:
+geth --datadir=”ethdata” --networkid 15 --nodiscover --rpc --rpcport 8545 --rpccorsdomain “*” --rpcapi “eth,net,web3,miner,debug,personal,rpc” --networkid 1999 console
+from prashantbkhopkar to All Participants:
+IT Just returns - command not found - multiple times..
+from prashantbkhopkar to All Participants:
+So it did not initate the network?
+from prashant1611 to All Participants:
+what's the success msg we should look for after this rpc command ?
+from kannan.varadharajan@gmail.com to All Participants:
+why are we giving networkid twice ?
+from sabu.sumit@gmail.com to All Participants:
+Done
+from prashantbkhopkar to All Participants:
+NEED TO GET THROUGH WITH DOCUMENT and FILE You have supplied - later.. THIS WAS NOT SUCCESSFUL.
+from meringes_11@hotmail.com to All Participants:
+I'm getting an error with the rpc port
+from vinuvishwa to All Participants:
+same here 
+from vinuvishwa to All Participants:
+bind address issue 
+from pranabnayak21@gmail.com to All Participants:
+8546 worked for me
+from sabu.sumit@gmail.com to All Participants:
+8546  try this port no... works for me
+from pranabnayak21@gmail.com to All Participants:
+May be this needs to be unique across?
+from abho.sundaresan@gmail.com to All Participants:
+invalid value "“8000”" for flag -rpcport: parse error
+from abho.sundaresan@gmail.com to All Participants:
+It says parse error
+from abho.sundaresan@gmail.com to All Participants:
+ok 
+from pkoratakar to Jagadeesh (Faculty) (privately):
+why all the thinhgs in linux lab
+from prashantbkhopkar to All Participants:
+IT WORKED NOW... MY COMMAND had NOT got Pasted properly.
+from pkoratakar to Jagadeesh (Faculty) (privately):
+in windows why not
+from prashant1611 to All Participants:
+am getting syntax error
+from prashantbkhopkar to All Participants:
+LINUX or MAC - correct?
+from soujanya.veerubhotla@gmail.com to All Participants:
+can you pls paste the last cmd here
+from Jagadeesh (Faculty) to All Participants:
+geth --datadir=”ethdata” --networkid 15 --nodiscover --rpc --rpcport 8545 --rpccorsdomain “*” --rpcapi “eth,net,web3,miner,debug,personal,rpc” --networkid 1999 console
+from kannan.varadharajan@gmail.com to All Participants:
+I am getting same error
+from abho.sundaresan@gmail.com to All Participants:
+windows you can install middleware to help with right
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+should we change 8545 port address ?
+from mrlingam087 to All Participants:
+ok
+from pranabnayak21@gmail.com to All Participants:
+Yes, please a different one
+from pranabnayak21@gmail.com to All Participants:
+like 8490
+from prashantbkhopkar to All Participants:
+Please confirm.. I have not issued this long command as yet
+from pranabnayak21@gmail.com to All Participants:
+sorry, i meant 8590
+from shruthi.lakshmi@gmail.com to All Participants:
+It's showing a syntax error.. How do I get back to Downloads from here?
+from kannan.varadharajan@gmail.com to All Participants:
+i tried different ports still not working
+from nksingh413@gmail.com to Jagadeesh (Faculty) (privately):
+forgot the password while creating dir stuked...can you please help?
+from sabu.sumit@gmail.com to All Participants:
+break for 20 min or 30 mins ?
+from ronakrrb@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes I am able to up the network
+from pranabnayak21@gmail.com to All Participants:
+Yes
+from abho.sundaresan@gmail.com to All Participants:
+what about connecting to geth javascript console??
+from soujanya.veerubhotla@gmail.com to All Participants:
+geth --datadir=ethdata --networkid 15 --nodiscover --rpc --rpcport 8545 --rpccorsdomain “*” --rpcapi “eth,net,web3,miner,debug,personal,rpc” --networkid 1999 console
+from soujanya.veerubhotla@gmail.com to All Participants:
+ERROR[10-08|05:23:40.600] Failed to enumerate USB devices          hub=trezor vendor=4617  failcount=3 err="failed to initialize libusb: libusb: unknown error [code -99]"
+
+from prashantbkhopkar to All Participants:
+Works
+from soujanya.veerubhotla@gmail.com to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+>>> Successfully wrote genesis state database=light
+from pranabnayak21@gmail.com to All Participants:
+25 pl
+from sabu.sumit@gmail.com to All Participants:
+ok 20 mins
+from santsp@gmail.com to All Participants:
+yes
+from sudhanvatilgul007@gmail.com to All Participants:
+25
+from Jagadeesh (Faculty) to All Participants:
+11:20 
+from abho.sundaresan@gmail.com to All Participants:
+ok 
+from anukeerthi71@gmail.com to All Participants:
+25
+from prashantbkhopkar to All Participants:
+ok
+from pranabnayak21@gmail.com to All Participants:
+clear
+from kannan.varadharajan@gmail.com to All Participants:
+how to restart terminal
+from kannan.varadharajan@gmail.com to All Participants:
+stop instance ?
+from kannan.varadharajan@gmail.com to All Participants:
+ok 
+from pranshumishra73@gmail.com to All Participants:
+ctrl+c stops instance
+from prashant1611 to All Participants:
+Hi
+from prashant1611 to All Participants:
+suppose we close the console
+from prashant1611 to All Participants:
+do I need to redo all steps
+from prashant1611 to All Participants:
+ok
+from bala.rhapsodic@gmail.com to All Participants:
+am done with last step, just killed the running geth process and reran the same initialization command
+from bala.rhapsodic@gmail.com to All Participants:
+it worked
+from davidmdenis to Jagadeesh (Faculty) (privately):
+sir i have not been able to get the course ppt which u have used till date
+from davidmdenis to Jagadeesh (Faculty) (privately):
+kindly guide how can i get the ppt and the notepad file if possible
+from davidmdenis to Jagadeesh (Faculty) (privately):
+also sir we are working with traditional database SQL... how can i shift my data to blockchain and is there any company 
+from davidmdenis to Jagadeesh (Faculty) (privately):
+or programmer whom u can connect me to for exploring this discussion
+from abho.sundaresan@gmail.com to All Participants:
+you can kill the process on the port with 
+from abho.sundaresan@gmail.com to All Participants:
+$ netstat -p || grep 30303
+    $ kill -9 `process id
+from nksingh413@gmail.com to Jagadeesh (Faculty) (privately):
+Done
+from prashant1611 to All Participants:
+Pls help to resolve RPC error..
+from prashantbkhopkar to All Participants:
+Yes
+from sudhanvatilgul007@gmail.com to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+yes
+from prashant1611 to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from lakshay  to All Participants:
+yes
+from shruthi.lakshmi@gmail.com to All Participants:
+Yes
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+I tried killing the port but the error persists 
+from sudhanvatilgul007@gmail.com to All Participants:
+Tried closing and executing,still the same
+from prashantbkhopkar to All Participants:
+IT WORKED FOR ME..
+from Jagadeesh (Faculty) to All Participants:
+geth --datadir=”ethdata” --networkid 15 --nodiscover --rpc --rpcport 8545 --rpccorsdomain “*” --rpcapi “eth,net,web3,miner,debug,personal,rpc” --networkid 1999 console
+from prashantbkhopkar to All Participants:
+Successfully wrote genesis state         database=lightchaindata hash="6650a0…b5c158"
+
+from prashantbkhopkar to All Participants:
+So, this means - we have created the new instance of geth account?
+from prashantbkhopkar to All Participants:
+What does all this relate to?
+from vk033397 to All Participants:
+sir pls explain where are you use this practce
+from vk033397 to All Participants:
+lab
+from mrlingam087 to All Participants:
+same error occur
+from abho.sundaresan@gmail.com to All Participants:
+getting the same error 
+from vk033397 to All Participants:
+ok sir
+from shruthi.lakshmi@gmail.com to All Participants:
+Still showing an error
+from gprabhu96@gmail.com to All Participants:
+getting the same error again
+from Jagadeesh (Faculty) to All Participants:
+geth --datadir=”ethdata” --networkid 15 --nodiscover --rpc --rpcport 8545 --rpccorsdomain “*” --rpcapi “eth,net,web3,miner,debug,personal,rpc” --networkid 1999 console
+from prashant1611 to All Participants:
+geth --datadir=”ethdata” --networkid 15 --nodiscover --rpc --rpcport 8545 --rpccorsdomain “*” --rpcapi “eth,net,web3,miner,debug,personal,rpc” --networkid 1999 console
+
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from shruthi.lakshmi@gmail.com to All Participants:
+Same 
+from prashant1611 to All Participants:
+what's the success message we should look for ?
+from shruthi.lakshmi@gmail.com to All Participants:
+Tried that twice..
+from vinuvishwa to All Participants:
+did not still work 
+from abho.sundaresan@gmail.com to All Participants:
+Nope
+from abho.sundaresan@gmail.com to All Participants:
+30303 is the default port corrcet??
+from abho.sundaresan@gmail.com to All Participants:
+correct*
+from prashantbkhopkar to All Participants:
+Lesson 6.59 - Content can be seen. BUT prior to it 6.58, 6.57 - are not visible.
+from prashantbkhopkar to All Participants:
+LESSON 7 is not there in SELF LEARNING
+from vk033397 to All Participants:
+sir i do not show any link for access in practice lab
+from soujanya.veerubhotla@gmail.com to All Participants:
+after enabling RPC port, it does not stop but terminal keeps running
+from abho.sundaresan@gmail.com to All Participants:
+for those people not able to start the node 
+from abho.sundaresan@gmail.com to All Participants:
+kill -9 $(lsof -t -i:30303)
+from abho.sundaresan@gmail.com to All Participants:
+Use this command to kill the port 
+from abho.sundaresan@gmail.com to All Participants:
+and then run the command it should work 
+from prashantbkhopkar to All Participants:
+missed last 5 mins - as not able to find the live session that is running on the machine - I hear your voice though
+from sabu.sumit@gmail.com to All Participants:
+ok it is kind of import packages in Java
+from abho.sundaresan@gmail.com to All Participants:
+The default port for geth is 30303. It seems like another geth process is running on that port. You can either terminate that geth process and run the command again or you can run the geth command on a different port
+from vk033397 to All Participants:
+what work diffirent diffirent rpccrsdomain
+from sabu.sumit@gmail.com to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+ye
+from pranabnayak21@gmail.com to All Participants:
+yes
+from prashant1611 to All Participants:
+Y
+from abho.sundaresan@gmail.com to All Participants:
+admin.nodeInfo to see details of your node
+from kannan.varadharajan@gmail.com to All Participants:
+The option for port is not --rpcport it seems to be --port
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+kill -9 $(lsof -t -i:30303)
+from mrlingam087 to All Participants:
+it is taking more time
+from sudhanvatilgul007@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+to my understanding you can give any chain id > 4
+from bala.rhapsodic@gmail.com to All Participants:
+why we are giving the networkid twice?
+from abho.sundaresan@gmail.com to All Participants:
+0-4 -> main/test networks
+from vinuvishwa to All Participants:
+does gas indicate the max gas we are willing to pay for the genesis block ? 
+from ronakrrb@gmail.com to All Participants:
+can you please repeat mix hash?
+from prashant1611 to All Participants:
+how do we get address of the geth node ?
+from bala.rhapsodic@gmail.com to All Participants:
+could u pl paste this content in the chat
+from ronakrrb@gmail.com to All Participants:
+Sure. Thanks
+from abho.sundaresan@gmail.com to All Participants:
+Can we connect the geth private Blockchain to remix IDE using localhost??
+from vinuvishwa to All Participants:
+can you also explain how the values in the genesis block is picked by the system and miners 
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+ye
+from mrlingam087 to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+Yes
+from Jagadeesh (Faculty) to All Participants:
+miner.setEtherbase("0x074D10C36aD137Ed5cc7B5CCB051e2f10614ceE9")
+from sabu.sumit@gmail.com to All Participants:
+how can we enter this command... 
+from sabu.sumit@gmail.com to All Participants:
+na na
+from sabu.sumit@gmail.com to All Participants:
+terminal is not allow to write
+from vinuvishwa to All Participants:
+yes\
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from prashant1611 to All Participants:
+Yes
+from sabu.sumit@gmail.com to All Participants:
+yes got it
+from abho.sundaresan@gmail.com to All Participants:
+done 
+from prashantbkhopkar to All Participants:
+javascript console did not start for me.
+from Jagadeesh (Faculty) to All Participants:
+miner.start()
+from bala.rhapsodic@gmail.com to All Participants:
+am getting 3 dots like this ... after giving the setEherbase commant
+from abho.sundaresan@gmail.com to All Participants:
+Can we this connect this geth Private Blockchain to Remix ??
+from Jagadeesh (Faculty) to All Participants:
+miner.setEtherbase("0x074D10C36aD137Ed5cc7B5CCB051e2f10614ceE9")
+from sabu.sumit@gmail.com to All Participants:
+generating DAG in progress
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from pranabnayak21@gmail.com to All Participants:
+What does this error mean
+from pranabnayak21@gmail.com to All Participants:
+0xf4e95A20C47718CDB8f26346471257A1764Bb811
+from meringes_11@hotmail.com to All Participants:
+I don't know how to proceed
+from meringes_11@hotmail.com to All Participants:
+rpc port
+from pranabnayak21@gmail.com to All Participants:
+bash: syntax error near unexpected token `"0xf4e95A20C47718CDB8f26346471257A1764Bb811"'
+
+from abho.sundaresan@gmail.com to All Participants:
+kill -9 $(lsof -t -i:30303)
+from meringes_11@hotmail.com to All Participants:
+Also can you paste the whole genesis code
+from prashant1611 to All Participants:
+@Regina Just directly close the terminal  and give the command again
+from abho.sundaresan@gmail.com to All Participants:
+In remix , is the IP of the private blockchain network.: http://localhost:8545
+from mrlingam087 to All Participants:
+sir which address you pasted
+from Jagadeesh (Faculty) to All Participants:
+geth --datadir=”ethdata” --networkid 15 --nodiscover --rpc --rpcport 8545 --rpccorsdomain “*” --rpcapi “eth,net,web3,miner,debug,personal,rpc” --networkid 1999 console
+from bala.rhapsodic@gmail.com to All Participants:
+what is after setEhter... do i need to give "miner.start()
+from meringes_11@hotmail.com to All Participants:
+My video got disconnected and I can't find the genesis command in chat
+from meringes_11@hotmail.com to All Participants:
+Pls paste
+from Jagadeesh (Faculty) to All Participants:
+web3.eth.getBalance("0x074D10C36aD137Ed5cc7B5CCB051e2f10614ceE9")
+from Jagadeesh (Faculty) to All Participants:
+{
+"nonce": "0x0000000000000042",
+"timestamp": "0x00",
+"parentHash":"0x0000000000000000000000000000000000000000000000000000000000000000",
+"extraData": "0x00",
+"gasLimit": "0x8000000",
+"difficulty": "0x0400",
+"mixhash":"0x0000000000000000000000000000000000000000000000000000000000000000",
+"coinbase": "0x3333333333333333333333333333333333333333",
+"alloc": {
+},
+"config": {
+"chainId": 786,
+"homesteadBlock": 0,
+"eip150Block": 0,
+"eip155Block": 0,
+"eip158Block": 0
+}
+}
+from prashant1611 to All Participants:
+how long will it continue to mine ?
+from ronakrrb@gmail.com to All Participants:
+INFO [10-08|06:26:14.814] Successfully sealed new block            number=252 sealhash="08b443…ffa0d3" hash="b140cd…f653cf" elapsed=45.119ms
+INFO [10-08|06:26:14.814]  block reached canonical chain          number=245 hash="c772e2…9cd3cc"
+INFO [10-08|06:26:14.814]  mined potential block                  number=252 hash="b140cd…f653cf"
+INFO [10-08|06:26:14.814] Commit new mining work                   number=253 sealhash="a6ef20…311bf3" uncles=0 txs=0 gas=0 fees=0 elapsed="144.55µs"
+INFO [10-08|06:26:15.357] Successfully sealed new block            number=253 sealhash="a6ef20…311bf3" hash="c53bcb…2da86d" elapsed=542.290ms
+INFO [10-08|06:26:15.357]  block reached canonical chain          number=246 hash="ef3a11…3eca0d"
+INFO [10-08|06:26:15.357]  mined potential block                  number=253 hash="c53bcb…2da86d"
+INFO [10-08|06:26:15.357] Commit new mining work                   number=254 sealhash="12ebd8…43c8c9" uncles=0 txs=0 gas=0 fees=0 elapsed="150.825µs"
+INFO [10-08|06:26:15
+from ronakrrb@gmail.com to All Participants:
+I am getting this in the screen
+from abho.sundaresan@gmail.com to All Participants:
+wont that consume a lot of data data 
+from ronakrrb@gmail.com to All Participants:
+okay
+from abho.sundaresan@gmail.com to All Participants:
+is it ok to just stop the blockchain without miner.stop()
+from mrlingam087 to All Participants:
+sir i have invalid address error
+from prashantbkhopkar to All Participants:
+i am getting unexpected token
+from prashantbkhopkar to All Participants:
+miner.setEtherbase("xxxxxxxxxxxx")
+from prashantbkhopkar to All Participants:
+where xxxxxxxxxx is my public key
+from kannan.varadharajan@gmail.com to All Participants:
+mine is 0
+from shruthi.lakshmi@gmail.com to All Participants:
+Unexpected token
+from prashantbkhopkar to All Participants:
+I will do that, too.
+from soujanya.veerubhotla@gmail.com to All Participants:
+balance is still zero
+from sabu.sumit@gmail.com to All Participants:
+I got this balance
+from soujanya.veerubhotla@gmail.com to All Participants:
+block also zero
+from sabu.sumit@gmail.com to All Participants:
+130000000000000000000
+from pranabnayak21@gmail.com to All Participants:
+unexpected token for me as well. I copied command from chat here
+from nksingh413@gmail.com to All Participants:
+I got 0 ETH Balance
+from prashantbkhopkar to All Participants:
+
+miner.setEtherbase("0x8205ac7b166e8EF7C0cbc78aae8C6A87997F0faF")
+from soujanya.veerubhotla@gmail.com to All Participants:
+ok
+from sabu.sumit@gmail.com to All Participants:
+i got 130000000000000000000  balance
+from meringes_11@hotmail.com to All Participants:
+I'm stuck at RPC port error
+from prashantbkhopkar to All Participants:
+this was my address
+from meringes_11@hotmail.com to All Participants:
+Kill command not helping
+from prashantbkhopkar to All Participants:
+i think kill did not work - which iNode should be provided in kill.
+from shruthi.lakshmi@gmail.com to All Participants:
+~/Downloads$ web3.eth.getBalance("0x9b3d8e58Ac4e2b9F22d9302d985A767197365314")
+bash: syntax error near unexpected token `"0x9b3d8e58Ac4e2b9F22d9302d985A767197365314"'
+
+from shruthi.lakshmi@gmail.com to All Participants:
+This is the error I'm getting..
+from prashantbkhopkar to All Participants:
+There is a disconnect in understanding which process we are wanting to kill.
+from prashant1611 to All Participants:
+prashant1611yah@ip-172-31-26-72:~$ web3.eth.getBalance("0xce5203f9CE9f846612721f91B532e8c4b3269A5D")
+
+from prashant1611 to All Participants:
+bash: syntax error near unexpected token `"0xce5203f9CE9f846612721f91B532e8c4b3269A5D"'
+
+from prashant1611 to All Participants:
+getting this syntax error
+from soujanya.veerubhotla@gmail.com to All Participants:
+Do i need to put some eths in my dummy account before starting mining???
+from prashantbkhopkar to All Participants:
+NO - I did not get JScript Console Terminal.
+from prashantbkhopkar to All Participants:
+ok
+from shruthi.lakshmi@gmail.com to All Participants:
+Got it.. Trying that now..
+from pranabnayak21@gmail.com to All Participants:
+Got it. works now
+from pranabnayak21@gmail.com to All Participants:
+on miner.start()
+from shruthi.lakshmi@gmail.com to All Participants:
+It worked!
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+kill command - can you explain?
+from meringes_11@hotmail.com to All Participants:
+So...start from the beginning.
+from meringes_11@hotmail.com to All Participants:
+I'll close the terminal and start fresh
+from prashantbkhopkar to All Participants:
+kill -9 $(lsof -t -i:30303)
+from prashantbkhopkar to All Participants:
+NO
+from prashant1611 to All Participants:
+Yes
+from abho.sundaresan@gmail.com to All Participants:
+you want me to explain??
+from prashantbkhopkar to All Participants:
+YES
+from prashant1611 to All Participants:
+what's the getbalance command pls
+from prashantbkhopkar to All Participants:
+Inode has to be from my terminal processes right?
+from prashantbkhopkar to All Participants:
+Please paste exact kill command
+from abho.sundaresan@gmail.com to All Participants:
+The default port for geth is 30303. If it seems like another geth process is running on that port. You can either terminate that geth process or run it on a different port 
+from Jagadeesh (Faculty) to All Participants:
+netstat -tulpn | grep 30303
+from prashantbkhopkar to All Participants:
+netstat -tulpn | grep 30303
+from Jagadeesh (Faculty) to All Participants:
+kill -9 9964
+from meringes_11@hotmail.com to All Participants:
+I'll start now?
+from prashant1611 to All Participants:
+web3.eth.getBalance shows me 
+from prashant1611 to All Participants:
+700000000000000000000
+
+from prashant1611 to All Participants:
+how should I read this balance ?
+from prashant1611 to All Participants:
+it has 20 zeroes
+from prashantbkhopkar to All Participants:
+Kill did not work -
+from prashantbkhopkar to All Participants:
+prashantkhopkar@ip-172-31-16-195:~$ netstat -tulpn | grep 30303
+(Not all processes could be identified, non-owned process info
+ will not be shown, you would have to be root to see it all.)
+
+from pranabnayak21@gmail.com to All Participants:
+web3.eth.getBalance shows me function ()
+from nksingh413@gmail.com to All Participants:
+ethers.utils.FormatEther()..I think
+from prashant1611 to All Participants:
+ok
+from Jagadeesh (Faculty) to All Participants:
+sudo netstat -tulpn | grep 30303
+from kannan.varadharajan@gmail.com to All Participants:
+Balance is always 0. dont see mining happening. Tried to restart couple of times. 
+from abho.sundaresan@gmail.com to All Participants:
+if you dont remember your address
+from abho.sundaresan@gmail.com to All Participants:
+use base = eth.accounts[0]
+from abho.sundaresan@gmail.com to All Participants:
+to give a variable 
+from prashantbkhopkar to All Participants:
+works
+from Jagadeesh (Faculty) to All Participants:
+sudo kill -9 pid
+from meringes_11@hotmail.com to All Participants:
+1 sec
+from prashantbkhopkar to All Participants:
+wich pid?
+from abho.sundaresan@gmail.com to All Participants:
+miner.setEtherbase(base)
+from meringes_11@hotmail.com to All Participants:
+geth --datadir=”ethdata” --networkid 15 --nodiscover --rpc --rpcport “8000” --rpccorsdomain “*” --rpcapi “eth,net,web3,miner,debug,personal,rpc” --networkid 1999 console
+from meringes_11@hotmail.com to All Participants:
+I'm stuck here
+from meringes_11@hotmail.com to All Participants:
+ok
+from Jagadeesh (Faculty) to All Participants:
+sudo netstat -tulpn | grep 30303
+from ronakrrb@gmail.com to All Participants:
+@meringes also remove the quotes around the port number 
+from soujanya.veerubhotla@gmail.com to All Participants:
+got some balance :-)
+from Jagadeesh (Faculty) to All Participants:
+geth --datadir=”ethdata” --networkid 15 --nodiscover --rpc --rpcport 8545 --rpccorsdomain “*” --rpcapi “eth,net,web3,miner,debug,personal,rpc” --networkid 1999 console
+from prashant1611 to All Participants:
+Simplilearn pls form learning groups over whatsapp or wechat.
+from prashantbkhopkar to All Participants:
+no//
+from prashantbkhopkar to All Participants:
+Bcoz how to get the pid?
+from prashantbkhopkar to All Participants:
+sudo netstat -tulpn
+from meringes_11@hotmail.com to All Participants:
+Ok this worked
+from meringes_11@hotmail.com to All Participants:
+After this?
+from abho.sundaresan@gmail.com to All Participants:
+30303 is always the default port 
+from prashantbkhopkar to All Participants:
+can u unmute me?
+from prashantbkhopkar to All Participants:
+it s taking long to figure out from chat.
+from abho.sundaresan@gmail.com to All Participants:
+kill -9 $(lsof -t -i:30303)
+will suffice 
+from meringes_11@hotmail.com to All Participants:
+Failed to enumarate USB devices
+from abho.sundaresan@gmail.com to All Participants:
+then 
+from abho.sundaresan@gmail.com to All Participants:
+base = eth.accounts[0]
+miner.setEtherbase(base)
+miner.start(1)
+from sabu.sumit@gmail.com to All Participants:
+but why .. as it is GUI... will be easy for users?
+from nksingh413@gmail.com to All Participants:
+B
+from soujanya.veerubhotla@gmail.com to All Participants:
+a
+from nksingh413@gmail.com to All Participants:
+A
+from write2arghyasaha@gmail.com  to All Participants:
+A
+from vk033397 to All Participants:
+a
+from shruthi.lakshmi@gmail.com to All Participants:
+ A
+from meringes_11@hotmail.com to All Participants:
+a
+from pranabnayak21@gmail.com to All Participants:
+a
+from soujanya.veerubhotla@gmail.com to All Participants:
+a
+from nksingh413@gmail.com to All Participants:
+A
+from pranabnayak21@gmail.com to All Participants:
+a
+from santsp@gmail.com to All Participants:
+A
+from shruthi.lakshmi@gmail.com to All Participants:
+B
+from write2arghyasaha@gmail.com  to All Participants:
+A
+from vinuvishwa to All Participants:
+b
+from meringes_11@hotmail.com to All Participants:
+a
+from prashantbkhopkar to All Participants:
+a
+from arjunlamba737 to All Participants:
+a
+from KONYALAABHISHEK to All Participants:
+b
+from vk033397 to All Participants:
+a
+from cshrivastav99 to All Participants:
+a
+from vinuvishwa to All Participants:
+b
+from nksingh413@gmail.com to All Participants:
+BD
+from prashant1611 to All Participants:
+B
+from write2arghyasaha@gmail.com  to All Participants:
+B
+from KONYALAABHISHEK to All Participants:
+b
+from vinuvishwa to All Participants:
+bd
+from soujanya.veerubhotla@gmail.com to All Participants:
+b d
+from shruthi.lakshmi@gmail.com to All Participants:
+B
+from meringes_11@hotmail.com to All Participants:
+b
+from pranabnayak21@gmail.com to All Participants:
+B D
+from santsp@gmail.com to All Participants:
+B,D
+from abho.sundaresan@gmail.com to All Participants:
+b
+from anukeerthi71@gmail.com to All Participants:
+b
+from kannan.varadharajan@gmail.com to All Participants:
+bd
+from prashantbkhopkar to All Participants:
+b
+from meringes_11@hotmail.com to All Participants:
+d
+from prashant1611 to All Participants:
+B D
+from cshrivastav99 to All Participants:
+b
+from vk033397 to All Participants:
+ALL
+from arjunlamba737 to All Participants:
+b,d
+from abho.sundaresan@gmail.com to All Participants:
+b, d
+from prashantbkhopkar to All Participants:
+b & d
+from KONYALAABHISHEK to All Participants:
+d
+from prashant1611 to All Participants:
+B, D
+from anukeerthi71@gmail.com to All Participants:
+b and d
+from pranabnayak21@gmail.com to All Participants:
+a b c d
+from abho.sundaresan@gmail.com to All Participants:
+d and b 
+from write2arghyasaha@gmail.com  to All Participants:
+B & D
+from nksingh413@gmail.com to All Participants:
+BA
+from soujanya.veerubhotla@gmail.com to All Participants:
+abc
+from meringes_11@hotmail.com to All Participants:
+a
+from soujanya.veerubhotla@gmail.com to All Participants:
+abd
+from kannan.varadharajan@gmail.com to All Participants:
+abcd
+from santsp@gmail.com to All Participants:
+ABD
+from abho.sundaresan@gmail.com to All Participants:
+ab, d
+from shruthi.lakshmi@gmail.com to All Participants:
+A,B,D
+from vk033397 to All Participants:
+BD
+from prashantbkhopkar to All Participants:
+a b d
+from cshrivastav99 to All Participants:
+ab
+from prashant1611 to All Participants:
+it's not alter ..it's alert
+from prashantbkhopkar to All Participants:
+A & B Only - k
+from prashantbkhopkar to All Participants:
+ok
+from prashant1611 to All Participants:
+B
+from pranabnayak21@gmail.com to All Participants:
+none
+from soujanya.veerubhotla@gmail.com to All Participants:
+b
+from nksingh413@gmail.com to All Participants:
+B
+from KONYALAABHISHEK to All Participants:
+b
+from santsp@gmail.com to All Participants:
+none
+from kannan.varadharajan@gmail.com to All Participants:
+b
+from abho.sundaresan@gmail.com to All Participants:
+b 
+from write2arghyasaha@gmail.com  to All Participants:
+B
+from prashantbkhopkar to All Participants:
+B
+from shruthi.lakshmi@gmail.com to All Participants:
+B
+from cshrivastav99 to All Participants:
+b
+from nksingh413@gmail.com to All Participants:
+Yes
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+YES
+from meringes_11@hotmail.com to All Participants:
+yes
+from santsp@gmail.com to All Participants:
+yes
+from vinuvishwa to All Participants:
+yes 
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+sure
+from sudhanvatilgul007@gmail.com to All Participants:
+Sir can you share that document?
+from abho.sundaresan@gmail.com to All Participants:
+can you send a screenshot 
+from sudhanvatilgul007@gmail.com to All Participants:
+Thanks
+from abho.sundaresan@gmail.com to All Participants:
+sure, gdrive is fine too 
+from bala.rhapsodic@gmail.com to All Participants:
+where we need to try this metamask or geth?
+from KONYALAABHISHEK to All Participants:
+telegram?
+from Jagadeesh (Faculty) to All Participants:
+https://geth.ethereum.org/
+Assignment:
+1. create two accounts in geth
+2. set one of the account as ether base
+3. start mining
+4. stop mining
+5. connect to geth console
+6. verify balance of account1 , lets 100 eth
+7. transfer 10 eth to accont2 from etherbase account(accoount1)
+8. verify the balance for account1 nd account2
+https://medium.com/taipei-ethereum-meetup/beginners-guide-to-ethereum-3-explain-the-genesis-file-and-use-it-to-customize-your-blockchain-552eb6265145
+https://medium.com/singapore-blockchain-dapps/explanation-of-genesis-file-583774a5f523#:~:text=The%20nonce%20is%20the%20cryptographically,(Yellowpager%2C%2011.5.
+https://besu.hyperledger.org/en/stable/public-networks/concepts/network-and-chain-id/
+
+from abho.sundaresan@gmail.com to All Participants:
+is pyethereum used anywhere??
+from pranabnayak21@gmail.com to All Participants:
+Does this look good?
+from pranabnayak21@gmail.com to All Participants:
+> web3.eth.getBalance("0xf4e95A20C47718CDB8f26346471257A1764Bb811")
+1.34e+21
+
+from pranabnayak21@gmail.com to All Participants:
+Ok, thank you
+from Jagadeesh (Faculty) to All Participants:
+web3.utils
+from abho.sundaresan@gmail.com to All Participants:
+web3.fromWei(eth.getBalance(eth.accounts[0]), “ether”)
+from abho.sundaresan@gmail.com to All Participants:
+worked for me 
+from soujanya.veerubhotla@gmail.com to All Participants:
+PLs send the link
+from nksingh413@gmail.com to All Participants:
+we can use ether.js also?
+from Jagadeesh (Faculty) to All Participants:
+https://web3js.readthedocs.io/en/v1.2.11/index.html
+from Jagadeesh (Faculty) to All Participants:
+ether.js
+from Jagadeesh (Faculty) to All Participants:
+https://docs.ethers.io/v5/
+from soujanya.veerubhotla@gmail.com to All Participants:
+would you be covering how to write smart contracts also?
+from prashant1611 to All Participants:
+can you pls elaborate more on localhost8545
+from prashant1611 to All Participants:
+Thanks!
+from bala.rhapsodic@gmail.com to All Participants:
+class done for the day?
+from soujanya.veerubhotla@gmail.com to All Participants:
+thx
+from abho.sundaresan@gmail.com to Jagadeesh (Faculty) (privately):
+web3 provider endpoint : 127.0.01:8545 , 
+from abho.sundaresan@gmail.com to Jagadeesh (Faculty) (privately):
+I was able to connect to remix 
+from meringes_11@hotmail.com to All Participants:
+can you show the geth exercise from start with all the commands pls when you finish with the session
+from prashantbkhopkar to All Participants:
+Yes - Kill did not work for inode 30303
+from bala.rhapsodic@gmail.com to All Participants:
+tnq Jagadeesh!!
+from kannan.varadharajan@gmail.com to All Participants:
+mining worked. the last command was creating a folder with quotes "ethdata" in which account was not setup. 
+from abho.sundaresan@gmail.com to Jagadeesh (Faculty) (privately):
+I'll try the exercise and get back tom, I had no issues per se 
+from muppala.pratap@gmail.com to All Participants:
+even me
+from meringes_11@hotmail.com to All Participants:
+me with lab
+from meringes_11@hotmail.com to All Participants:
+yes same issue
+from meringes_11@hotmail.com to All Participants:
+no
+from ronakrrb@gmail.com to All Participants:
+Can you share the feedback link?
+from abho.sundaresan@gmail.com to Jagadeesh (Faculty) (privately):
+I am good 
+from Learner Success Manager to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from davidmdenis to Jagadeesh (Faculty) (privately):
+sir do i stay back for the query i have sent u
+from muppala.pratap@gmail.com to All Participants:
+rpc done ..mine not working miner.setEtherbase("0xC0bc7D9D241a1612592A531d959C8F310E07BBC8")
+from kannan.varadharajan@gmail.com to All Participants:
+what are we covering tomorrow ?
+from vk033397 to All Participants:
+i am also more issue for creating geth
+from pkoratakar to Jagadeesh (Faculty) (privately):
+can we directly run these command in terminal or need to download some softwares
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+can you please spend couple of minutes to dicuss finance blockchain use case etc
+from ronakrrb@gmail.com to All Participants:
+Thank you :)
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+ok thank you
+from kannan.varadharajan@gmail.com to All Participants:
+Thanks! Good session!
+from sudhanvatilgul007@gmail.com to All Participants:
+Thank You!
+from prashant1611 to All Participants:
+Thank you! It was very insigtful
+from pranabnayak21@gmail.com to All Participants:
+Thank you. It was interesting session today
+from vk033397 to All Participants:
+thank you sir
+from shruthi.lakshmi@gmail.com to All Participants:
+Thank you!
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+i have issue for miner.setEtherbase("0xC0bc7D9D241a1612592A531d959C8F310E07BBC8")
+from anukeerthi71@gmail.com to All Participants:
+thank you
+from meringes_11@hotmail.com to All Participants:
+copy it here pls
+from mrlingam087 to All Panelists:
+right clik and give past
+from Jagadeesh (Faculty) to All Participants:
+miner.setEtherbase(eth.accounts[2])
+from mrlingam087 to All Panelists:
+sir right click and give past its working 
+from mrlingam087 to All Panelists:
+first copy and give past its working sir 
+from Jagadeesh (Faculty) to All Participants:
+web3.eth.getBalance("0x074D10C36aD137Ed5cc7B5CCB051e2f10614ceE9")
+from mrlingam087 to All Panelists:
+sir i have 0 balance
+from meringes_11@hotmail.com to All Participants:
+yes I'm here
+from meringes_11@hotmail.com to All Participants:
+can you hear me?
+from Jagadeesh (Faculty) to All Participants:
+nope
+from meringes_11@hotmail.com to All Participants:
+yes Ican hear u
+from Jagadeesh (Faculty) to All Participants:
+not able to hear u 
+from Jagadeesh (Faculty) to All Participants:
+u may need to unmute ur speakers or so
+from meringes_11@hotmail.com to All Participants:
+unmuted
+from mrlingam087 to All Panelists:
+okay sir
+from prashantbkhopkar to All Participants:
+Mining has started for me.
+from mrlingam087 to All Panelists:
+sir i cant able see the screen
+from prashantbkhopkar to All Participants:
+I should be stopping it after 10 mins and then check acct balance
+from meringes_11@hotmail.com to All Participants:
+I think thr is an audio issue
+from prashantbkhopkar to All Participants:
+I can hear you well
+from mrlingam087 to All Panelists:
+yes
+from meringes_11@hotmail.com to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+Mic issue
+from prashantbkhopkar to All Participants:
+yes - its visible
+from meringes_11@hotmail.com to All Participants:
+initialising command
+from meringes_11@hotmail.com to All Participants:
+?
+from Jagadeesh (Faculty) to All Participants:
+geth --datadir=”ethdata” init genesis.json
+from prashantbkhopkar to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+ethdata
+from meringes_11@hotmail.com to All Participants:
+pls copy and paste all commands here
+from Jagadeesh (Faculty) to All Participants:
+Create new account:
+---------------------------
+geth --datadir ethdata account new
+Create genesis file:
+-----------------------
+nano genesis.json
+then to get exit CTRL + X , then select 'Y'
+initializing genesis file:
+--------------------------
+geth --datadir=”ethdata” init genesis.json
+enable RPC port:
+-----------------
+geth --datadir=”thdata” --networkid 15 --nodiscover --rpc --rpcport 8545 --rpccorsdomain “*” --rpcapi “eth,net,web3,miner,debug,personal,rpc” --networkid 1999 console
+from Jagadeesh (Faculty) to All Participants:
+miner.setEtherbase("0xDd9F9B5140ecA700a9E6e04e1ecFd1D3B4F31CFC")
+from Jagadeesh (Faculty) to All Participants:
+miner.start()
+from Jagadeesh (Faculty) to All Participants:
+miner.stop()
+from meringes_11@hotmail.com to All Participants:
+For set ether base command, just copy and paste right? I don't have to change the thing in brackets?
+from prashantbkhopkar to All Participants:
+it works.. 
+from prashantbkhopkar to All Participants:
+miner.stop() returned "null"
+from meringes_11@hotmail.com to All Participants:
+done 
+from meringes_11@hotmail.com to All Participants:
+Till start
+from Jagadeesh (Faculty) to All Participants:
+miner.stop()
+from meringes_11@hotmail.com to All Participants:
+I can't stop
+from Jagadeesh (Faculty) to All Participants:
+web3.eth.getBalance("0xDd9F9B5140ecA700a9E6e04e1ecFd1D3B4F31CFC")
+from Jagadeesh (Faculty) to All Participants:
+In case if u used exit, try connect with RPC command again
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+for me it worked..thank you so much
+from Jagadeesh (Faculty) to All Participants:
+geth --datadir=”thdata” --networkid 15 --nodiscover --rpc --rpcport 8545 --rpccorsdomain “*” --rpcapi “eth,net,web3,miner,debug,personal,rpc” --networkid 1999 console
+from Jagadeesh (Faculty) to All Participants:
+web3.eth.getBalance("0x074D10C36aD137Ed5cc7B5CCB051e2f10614ceE9")
+from prashantbkhopkar to All Participants:
+my balance is 2.365e+21
+
+from prashantbkhopkar to All Participants:
+ok - good
+from meringes_11@hotmail.com to All Participants:
+get balance command?
+from prashantbkhopkar to All Participants:
+THANK YOU Jagdish
+from Jagadeesh (Faculty) to All Participants:
+web3.eth.getBalance("0x074D10C36aD137Ed5cc7B5CCB051e2f10614ceE9")
+from meringes_11@hotmail.com to All Participants:
+It's saying Generating DAG in progress
+from prashantbkhopkar to All Participants:
+what will we cover tomm?
+from prashantbkhopkar to All Participants:
+OK
+from prashantbkhopkar to All Participants:
+Can I drop off?
+from prashantbkhopkar to All Participants:
+thanks
+from meringes_11@hotmail.com to All Participants:
+Ok
+from meringes_11@hotmail.com to All Participants:
+Ok
+from meringes_11@hotmail.com to All Participants:
+Thanks
+from mrlingam087 to All Panelists:
+ok sir
+from KONYALAABHISHEK to All Participants:
+yes sir
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+ok thanks
+from gprabhu96@gmail.com to All Participants:
+Thanks Jagadeesh
+from meringes_11@hotmail.com to All Participants:
+get balance is 0
+from Jagadeesh (Faculty) to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from meringes_11@hotmail.com to All Participants:
+Ok
+from Jagadeesh (Faculty) to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from meringes_11@hotmail.com to All Participants:
+thanks 

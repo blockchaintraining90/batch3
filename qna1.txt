@@ -1,0 +1,1191 @@
+from prashantbkhopkar to All Participants:
+Good Morning!
+from nksingh413@gmail.com to All Participants:
+Good Morning
+from gyanadc to All Participants:
+hi jagdeesh good morning
+from gyanadc to All Participants:
+can i speak to you
+from Learner Success Manager to Jagadeesh (Faculty) (privately):
+hi jagadeesh, do you want to take up the session now, with q\a
+from ronakrrb@gmail.com to All Participants:
+Good morning. Had a question from yesterday if you may unmute.
+from gyanadc to All Participants:
+good morning all of you
+from prashantbkhopkar to All Participants:
+G'morning!
+from gyanadc to All Participants:
+Had a question from yesterday if you may unmute.
+from prashantbkhopkar to All Participants:
+G'morning!
+from prashantbkhopkar to All Participants:
+No audio
+from ronakrrb@gmail.com to All Participants:
+yes
+from bala.rhapsodic@gmail.com to All Participants:
+S
+from write2arghyasaha@gmail.com  to All Participants:
+Yes
+from prashantbkhopkar to All Participants:
+Yes.. little louder please
+from prashantbkhopkar to All Participants:
+Audible now
+from prashantbkhopkar to All Participants:
+Hi - no sound
+from deebhan.m@gmail.com to All Participants:
+Hi all 
+from deebhan.m@gmail.com to All Participants:
+Good morning
+from gyanadc to Jagadeesh (Faculty) (privately):
+hi jagadeesh
+from bala.rhapsodic@gmail.com to All Participants:
+Hi Team,  Good Morning!!
+from nksingh413@gmail.com to All Participants:
+No sound
+from gyanadc to Jagadeesh (Faculty) (privately):
+This is Gyaneshwar from HYD
+from bala.rhapsodic@gmail.com to All Participants:
+the trainer is yet to start
+from prashantbkhopkar to All Participants:
+Yes - Jagdeesh is not audible to us
+from gyanadc to Jagadeesh (Faculty) (privately):
+if You dnt mine 
+from gyanadc to Jagadeesh (Faculty) (privately):
+plz give your personal mobile no.
+from thoratbhakti289 to All Participants:
+Hello GM everyone
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+Hi = you are not audible. Please make a correction to this if something is wrong.
+from thoratbhakti289 to All Participants:
+NO Sound 
+from gyanadc to All Panelists:
+Hi GM
+from arjunlamba737 to All Participants:
+Good morning every one
+from gyanadc to All Panelists:
+gm
+from write2arghyasaha@gmail.com  to All Participants:
+Good Morning
+from deebhan.m@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from thoratbhakti289 to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+Loud and clear
+from write2arghyasaha@gmail.com  to All Participants:
+Yes
+from gyanadc to All Panelists:
+clear
+from santsp@gmail.com to All Participants:
+Good morning
+from chethan.cs95@gmail.com to All Participants:
+yes
+from gprabhu96@gmail.com to All Participants:
+good morninig
+from kannan.varadharajan@gmail.com to All Participants:
+Yes
+from kannan.varadharajan@gmail.com to All Participants:
+GM
+from karthikp@wharfstreetstrategies.com to All Participants:
+good morning 
+from varnaag1999@gmail.com to All Participants:
+good morning
+from gyanadc to All Panelists:
+gm
+from santsp@gmail.com to All Participants:
+Yes, sound is clear
+from meringes_11@hotmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+ok
+from thoratbhakti289 to All Participants:
+ok
+from sabu.sumit@gmail.com to All Participants:
+yes please
+from nksingh413@gmail.com to All Participants:
+Yes
+from thoratbhakti289 to All Participants:
+yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+good moning 
+from mailtwosatheesh@gmail.com to All Participants:
+Hi jagadesh, do u shared anything on screen ?
+from mailtwosatheesh@gmail.com to All Participants:
+ya 
+from nksingh413@gmail.com to All Participants:
+Yes
+from thoratbhakti289 to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes screen is visible
+from pranabnayak21@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+yes
+from mailtwosatheesh@gmail.com to All Participants:
+now viewing
+from anukeerthi71@gmail.com to All Participants:
+yes
+from santsp@gmail.com to All Participants:
+yes, your screen is visible
+from arjunlamba737 to All Participants:
+yes
+from sripad6 to Host, Presenter & Panelists:
+I'm not able to see the shared screen.. its black
+from soujanya.veerubhotla@gmail.com to All Participants:
+can we use putty and puttygen to generate and use the same in Blockchain
+from soujanya.veerubhotla@gmail.com to All Participants:
+?
+from soujanya.veerubhotla@gmail.com to All Participants:
+thx
+from Jagadeesh (Faculty) to All Participants:
+https://andersbrownworth.com/blockchain/public-private-keys/keys
+from thoratbhakti289 to All Participants:
+any eg for Symmetric 
+from thoratbhakti289 to All Participants:
+ok
+from Jagadeesh (Faculty) to All Participants:
+https://www.kerryveenstra.com/cryptosystem.html
+from nksingh413@gmail.com to All Participants:
+Done
+from santsp@gmail.com to All Participants:
+Done
+from mrlingam087 to All Participants:
+its working 
+from muppala.pratap@gmail.com to All Participants:
+if we cant decode hash key or algorithems..how can we transfer from balock chain toother like eth to btc ..that time how they are knowing amount and the amounts  get transfred sucessfully
+from Jagadeesh (Faculty) to All Participants:
+https://andersbrownworth.com/blockchain/public-private-keys/signatures
+from nksingh413@gmail.com to All Participants:
+Here sender of message is being validated...
+from abho.sundaresan@gmail.com to All Participants:
+Receiver decrypts the digital signature using the public key of sender. This assures authenticity, as only sender has his private key so only sender can encrypt using his private key which can thus be decrypted by sender’s public key.
+from gyanadc to All Participants:
+tell mw again
+from kannan.varadharajan@gmail.com to All Participants:
+In diagram it is shown that public key is used to sign. It should be private key. 
+from nksingh413@gmail.com to All Participants:
+We are verifying the message here only na?..I think we are not decrypting here?
+from abho.sundaresan@gmail.com to All Participants:
+Sorry for joining late, was DIgital certificates covered before this as well??
+from sairakanwar26 to All Participants:
+why do we sign a message?
+from abho.sundaresan@gmail.com to All Participants:
+to validate the authenticity and integrity of a message, software, or digital docu. 
+from Jagadeesh (Faculty) to All Participants:
+https://andersbrownworth.com/blockchain/hash
+from sabu.sumit@gmail.com to All Participants:
+ when we send hash value, how the receipent can understand what we have send to them
+from davidmdenis to Jagadeesh (Faculty) (privately):
+Sir can we attach a file instead of simple text ... 
+from davidmdenis to Jagadeesh (Faculty) (privately):
+ok
+from phnair@gmail.com to All Participants:
+is it possible t get the origianal message , knowing the method that was used " sha-256" 
+from mrlingam087 to All Participants:
+how to add image file here
+from abho.sundaresan@gmail.com to All Participants:
+Are we going to cover RC4, RC5 and SHA algos in detail???
+from soujanya.veerubhotla@gmail.com to All Participants:
+what is the use of hash if we cannot gget back the original value
+from davidmdenis to Jagadeesh (Faculty) (privately):
+thank you
+from pranabnayak21@gmail.com to All Participants:
+I believe it's used for validation purpose only. I may be wrong
+from sairakanwar26 to All Participants:
+why would u transfer something that cant be understood?
+from sabu.sumit@gmail.com to All Participants:
+so hashing is for just confirming the identity of the sender... and original message should be send via encryption so that receiver can decrypt that... right?
+from abho.sundaresan@gmail.com to All Participants:
+Converting Hash Codes to their original value is an impossible task to perform. This is the main difference between Encryption as Hash Function.  
+
+from pranabnayak21@gmail.com to All Participants:
+So, hashing confirms data integrity across nodes. 
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from soujanya.veerubhotla@gmail.com to All Participants:
+thanks
+from sabu.sumit@gmail.com to All Participants:
+got it.. thanks
+from kannan.varadharajan@gmail.com to All Participants:
+Signing verifies authenticity (who as well due to key) and Hash will check only message integrity.
+from davidmdenis to Jagadeesh (Faculty) (privately):
+very good ,,,,
+from mrlingam087 to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+Can you explain hash collision. I see it come up a lot in conversations 
+from abho.sundaresan@gmail.com to All Participants:
+Thank you 
+from sripad6 to All Participants:
+when to use signature and when to use hash
+from mailtwosatheesh@gmail.com to All Participants:
+when we go for encrption and when we go for hash ?
+from prashant1611 to All Participants:
+Header data in block
+from kannan.varadharajan@gmail.com to All Participants:
+hash
+from abho.sundaresan@gmail.com to All Participants:
+so each leaf node is labeled with the hash value of a data block and each non-leaf node is labeled with the hash value of its child nodes labels???
+from ronakrrb@gmail.com to All Participants:
+Grouping is only done with 2 hashes only at a time?
+from ronakrrb@gmail.com to All Participants:
+okay. 
+from thoratbhakti289 to All Participants:
+Merkle is Breaking the Hash for complicity 
+from thoratbhakti289 to All Participants:
+ok
+from kannan.varadharajan@gmail.com to All Participants:
+Isnt this re-calculated for every transaction add to block ?
+from abho.sundaresan@gmail.com to All Participants:
+the computer performing this verification and validation will need a lot of processing power for comparing different versions of ledgers
+from gyanadc to All Participants:
+ok
+from davidmdenis to Jagadeesh (Faculty) (privately):
+the team handling the generating the hash knows all... what happens if they r compromised
+from mailtwosatheesh@gmail.com to All Participants:
+ya got it! jagadeesh
+from abho.sundaresan@gmail.com to All Participants:
+Cam you go through the contents of the block header in sequence just to recap 
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+Yes
+from gyanadc to All Participants:
+ok
+from pranabnayak21@gmail.com to All Participants:
+I think each node in the network will create a hash of the message in the body. If for some reason hash changes then that would raise a red flag
+from pranabnayak21@gmail.com to All Participants:
+Is this correct statement?
+from muppala.pratap@gmail.com to All Participants:
+if we cant decode hash key or algorithems..how can we transfer from balock chain toother like eth to btc ..that time how they are knowing amount and the amounts  get transfred sucessfully
+from sairakanwar26 to All Participants:
+what is the purpose of signing?
+from muppala.pratap@gmail.com to Jagadeesh (Faculty) (privately):
+if we cant decode hash key or algorithems..how can we transfer from balock chain toother like eth to btc ..that time how they are knowing amount and the amounts  get transfred sucessfully
+from pranabnayak21@gmail.com to All Participants:
+Thank you
+from abho.sundaresan@gmail.com to All Participants:
+the CIA triad - Confidentiality
+Integrity and Availability
+from abho.sundaresan@gmail.com to All Participants:
+so Byzantine fault tolerance can be achieved if the correctly working nodes in the network reach an agreement on their values ??
+from bala.rhapsodic@gmail.com to All Participants:
+does it men that in byzantine all node should share same consensus?
+from abho.sundaresan@gmail.com to All Participants:
+so the no attack node is a faulty/malicious node //
+from abho.sundaresan@gmail.com to All Participants:
+??
+from abho.sundaresan@gmail.com to All Participants:
+ok so the faulty nodes can only comprise of 1/3 of the volume. With 1 being the leader
+from nksingh413@gmail.com to All Participants:
+Yes
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+Yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from davidmdenis to Jagadeesh (Faculty) (privately):
+yes
+from thoratbhakti289 to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes
+from sudhanvatilgul007@gmail.com to All Participants:
+yes
+from rameshvelan@gmail.com to All Participants:
+yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from gprabhu96@gmail.com to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+is the leader the same or is it voted using consenses each and every time ??
+from ronakrrb@gmail.com to All Participants:
+@prashantbkhopkar Practical Byzantine Fault Tolerance
+from abho.sundaresan@gmail.com to All Participants:
+ok a secondary can become a primary after ordering sequencially 
+from soujanya.veerubhotla@gmail.com to All Participants:
+what is difference between POW/POS/POET?
+from soujanya.veerubhotla@gmail.com to All Participants:
+OK
+from nksingh413@gmail.com to All Participants:
+then Sybil attack can happne na?
+from abho.sundaresan@gmail.com to All Participants:
+Won't each and every node add a lot of overhead ???? making high traffic communication networks harder to implement 
+from bala.rhapsodic@gmail.com to All Participants:
+one question in Byzantine in case of 2n+1
+from bala.rhapsodic@gmail.com to All Participants:
+2(1)+1 =3 
+from ronakrrb@gmail.com to All Participants:
+In th previous slide, how can then consensus be derived?
+from bala.rhapsodic@gmail.com to All Participants:
+could u pl unmute me once 
+from abho.sundaresan@gmail.com to All Participants:
+Each node will add response time. So it makes sense 
+from kannan.varadharajan@gmail.com to All Participants:
+How is leader election linked to Byzantine ?
+from kannan.varadharajan@gmail.com to All Participants:
+ok got it
+from sabu.sumit@gmail.com to All Participants:
+so leader will only have 100ms to propose a new thing
+from nksingh413@gmail.com to All Participants:
+If identity is annonimus then i can participate in blockchain using multiple identity then my chance for proposing a block will be greater ?
+from abho.sundaresan@gmail.com to All Participants:
+so basically bitcoin 
+from nksingh413@gmail.com to All Participants:
+No sound
+from thoratbhakti289 to All Participants:
+tes
+from ronakrrb@gmail.com to All Participants:
+your voice got stuck
+from gprabhu96@gmail.com to All Participants:
+yes
+from thoratbhakti289 to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from phnair@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from arjunlamba737 to All Participants:
+YES
+from santsp@gmail.com to All Participants:
+yes , now audiable
+from anukeerthi71@gmail.com to All Participants:
+yes
+from rameshvelan@gmail.com to All Participants:
+in between we lost u
+from nksingh413@gmail.com to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+I can hear you fine 
+from abho.sundaresan@gmail.com to All Participants:
+If a miner wins , they are awarded bitcoin. I think its around 6-7. 
+from abho.sundaresan@gmail.com to All Participants:
+Understood. 
+from nksingh413@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes clear
+from soujanya.veerubhotla@gmail.com to All Participants:
+got it
+from pranabnayak21@gmail.com to All Participants:
+yes
+from varnaag1999@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+is it solvable always ?
+from chethan.cs95@gmail.com to All Participants:
+one more time
+from phnair@gmail.com to All Participants:
+hash is supposed to return a specific length isnt it ?
+from mrlingam087 to All Participants:
+very clear your explain
+from soujanya.veerubhotla@gmail.com to All Participants:
+each miner will have different nonce or same
+from phnair@gmail.com to All Participants:
+so how adding / appendig zeroes 
+from phnair@gmail.com to All Participants:
+will get the same lenght
+from abho.sundaresan@gmail.com to All Participants:
+in the header 
+from ronakrrb@gmail.com to All Participants:
+In this example itself, are we hashing in the for loop?
+from sudhanvatilgul007@gmail.com to All Participants:
+Sir can we use the blockchain demo site to demo it?
+from abho.sundaresan@gmail.com to All Participants:
+I think over time the problem becomes mre complex 
+from sabu.sumit@gmail.com to All Participants:
+what did the teacher get in this case... I mean what will be the person get which create these problems?
+from nksingh413@gmail.com to All Participants:
+what if two miners have proposed same block at same time stamp with same hash and nonce?
+from kannan.varadharajan@gmail.com to All Participants:
+who verifies that nonce is right ?
+from soujanya.veerubhotla@gmail.com to All Participants:
+so thatt node becomes the leader and others validate and consensus later slowly and it gets registered in blockchain
+from soujanya.veerubhotla@gmail.com to All Participants:
+at what time txn gets registered after all nodes validate??
+from soujanya.veerubhotla@gmail.com to All Participants:
+what is BTC
+from soujanya.veerubhotla@gmail.com to All Participants:
+OH
+from sabu.sumit@gmail.com to All Participants:
+why not teacher get that award for himself... why they are sending reward to someone
+from abho.sundaresan@gmail.com to All Participants:
+teacher is more like a protocol 
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from gprabhu96@gmail.com to All Participants:
+yes
+from sudhanvatilgul007@gmail.com to All Participants:
+yes
+from chethan.cs95@gmail.com to All Participants:
+yes
+from prashant1611 to All Participants:
+yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+so the miners bundle up a group of transactions into a block and try to mine
+from soujanya.veerubhotla@gmail.com to All Participants:
+all miners get rewards for validating or only leader?
+from soujanya.veerubhotla@gmail.com to All Participants:
+ok
+from Jagadeesh (Faculty) to All Participants:
+https://andersbrownworth.com/blockchain/block
+from mrlingam087 to All Participants:
+sir coul explain miner and leader thoser are same
+from prashant1611 to All Participants:
+leader is a miner who finds nonce first
+from mrlingam087 to All Participants:
+thank you
+from sdevang2 to All Participants:
+So is it true, there could be many miners that dont become a leader  and hence dont get any reward and incur a loss on their mining equiptment investment 
+from sdevang2 to All Participants:
+ok thx
+from abho.sundaresan@gmail.com to All Participants:
+its millionaire or bust 
+from kannan.varadharajan@gmail.com to All Participants:
+is nonce expected to be always a number or alphanumeric as well. 
+from nksingh413@gmail.com to Jagadeesh (Faculty) (privately):
+Please answer...
+what if two miners have proposed same block at same time stamp with same hash and nonce?
+from prashant1611 to All Participants:
+I think reward (BTC) will be halved..
+from prashantbkhopkar to All Participants:
+Can the proof be duplicated for another  block?
+from abho.sundaresan@gmail.com to All Participants:
+There was an estimation that 4% of all the worlds electricity will be needed to effeciently mine in the future. 
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+What is downtime like in BitCoin n/w? Has that happened?
+from prashant1611 to All Participants:
+In yesterday's session, it was mentioned to get the Lab ready. Do we have a session on Lab today?
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+Ok
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+Can you explain about the forks in BitCoin n/w?
+from prashant1611 to All Participants:
+it's asking for 2 consoles..
+from prashant1611 to All Participants:
+which one will we use?
+from soujanya.veerubhotla@gmail.com to All Participants:
+Break for how much time?
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+The version of Blockchain - can you explain that please?
+from prashant1611 to All Participants:
+25 mins
+from mrlingam087 to All Participants:
+what is different b/w malicious node andother node
+from gyanadc to All Participants:
+why so many crypto currency is there
+from abho.sundaresan@gmail.com to All Participants:
+25 
+from varnaag1999@gmail.com to All Participants:
+25
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+25 mins
+from rameshvelan@gmail.com to All Participants:
+25
+from santsp@gmail.com to All Participants:
+yes
+from anukeerthi71@gmail.com to All Participants:
+ok
+from mrlingam087 to All Participants:
+ok
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+thanks
+from abho.sundaresan@gmail.com to All Participants:
+Thank you.  
+from mrlingam087 to All Participants:
+thanks
+from bala.rhapsodic@gmail.com to All Participants:
+
+Actual nodes = 5
+n=number of byzantine nodes/malicious nodes, consider we got 2 byzantine nodes
+With the PBFT, we set 3n+1, and we compute as below.
+3(2)+1 = 6+1 = 7, what should infer out of this 7 now. 
+from shruthi.lakshmi@gmail.com to All Participants:
+1) While creating the nodes, how can we assume that there would only be 'n' malicious nodes. Will that value not change overtime? How does the network manage that? 2) When one of the miners/leader gets to propsoe a 'new block', what does that essentially mean? Is it to commit the validated transactions? 
+from ronakrrb@gmail.com to Jagadeesh (Faculty) (privately):
+I am working in Times Internet which has many digital products like times of india, magic bricks, cricbuzz etc.. If we have to build a rewards system such that there is one user wallet which gets filled with reward points from all of these products and these points can be used to avail benefits across all these products. Should permissioned blockchain be feasible or private blockchain
+from ronakrrb@gmail.com to Jagadeesh (Faculty) (privately):
+All of these products are independent and managed independently
+from ronakrrb@gmail.com to Jagadeesh (Faculty) (privately):
+yes
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+Yes
+from santsp@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+I am back
+from write2arghyasaha@gmail.com  to All Participants:
+back
+from sudhanvatilgul007@gmail.com to All Participants:
+yes
+from karthikp@wharfstreetstrategies.com to All Participants:
+yes
+from shruthi.lakshmi@gmail.com to All Participants:
+Yes
+from pratikshukla378@gmail.com  to All Participants:
+Yes
+from anukeerthi71@gmail.com to All Participants:
+yes
+from bala.rhapsodic@gmail.com to All Participants:
+come again with the last point
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+Yes
+from mrlingam087 to All Participants:
+yes
+from shruthi.lakshmi@gmail.com to All Participants:
+Yes
+from ronakrrb@gmail.com to All Panelists:
+yes
+from santsp@gmail.com to All Participants:
+yes
+from bala.rhapsodic@gmail.com to All Participants:
+S
+from sudhanvatilgul007@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+how do new miners get a chance in POS ?
+from gprabhu96@gmail.com to All Participants:
+yes
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from varnaag1999@gmail.com to All Participants:
+yes
+from gyanadc to All Participants:
+tellme again
+from gyanadc to All Participants:
+malicious activity
+from muppala.pratap@gmail.com to All Participants:
+validator has time limt..how many trsaction can be a block in eth approx
+from kannan.varadharajan@gmail.com to All Participants:
+ok tx.
+from abho.sundaresan@gmail.com to All Participants:
+Only the validator nodes will perform the validation and the validators get a reward proportionate to their bets and their stake 
+from soujanya.veerubhotla@gmail.com to All Participants:
+no, node removed from network and 32 eth gone
+from nksingh413@gmail.com to All Participants:
+In POS also it would take 15-30 sec.
+from nksingh413@gmail.com to All Participants:
+POW
+from soujanya.veerubhotla@gmail.com to All Participants:
+0.1 eth is the reward for registering a correct transaction
+from nksingh413@gmail.com to All Participants:
+Why some token is burnt and where it goes?
+from meringes_11@hotmail.com to All Participants:
+could you repeat the example
+from abho.sundaresan@gmail.com to All Participants:
+is it like a soft ban or permanent one 
+from gyanadc to All Participants:
+how to minning ETH
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+Burned, In circulation, Creation - are these the only states for ETH?
+from gyanadc to All Participants:
+OK
+from abho.sundaresan@gmail.com to All Participants:
+Mostly in permissioned Blockchain networks
+from mailtwosatheesh@gmail.com to All Participants:
+how round 3 coming as 5 ?
+from mailtwosatheesh@gmail.com to All Participants:
+ok
+from sudhanvatilgul007@gmail.com to All Participants:
+since 2 had gone to sleep,can it be selected again before 3 and 4?
+from abho.sundaresan@gmail.com to All Participants:
+The block from the winning validator node gets appended to the Blockchain. and it recirculates wth additional checks in the algorithm to stop nodes from always winning the election
+from sabu.sumit@gmail.com to All Participants:
+in round 3  - can 1 be again choose a leader?
+from mailtwosatheesh@gmail.com to All Participants:
+1is already seklected in roubd right ?
+from bala.rhapsodic@gmail.com to All Participants:
+on each pick a new block will be added to the block chaon here the catch i who creates the 1st block from there the chain continues
+from mailtwosatheesh@gmail.com to All Participants:
+in round 1 randon value is 1 and the 1 is not part of round 2 right ?
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from write2arghyasaha@gmail.com  to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+yes
+from santsp@gmail.com to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from shruthi.lakshmi@gmail.com to All Participants:
+Yes
+from mailtwosatheesh@gmail.com to All Participants:
+but round 3 1 is there ?
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+What's the action on nodes defaultin on  SGX?
+from mailtwosatheesh@gmail.com to All Participants:
+only applicable for next immediate round ?
+from abho.sundaresan@gmail.com to All Participants:
+so miners can go to sleep and the sleeper nodes dont consume resourses for that elapsed time 
+from abho.sundaresan@gmail.com to All Participants:
+SGX — Software Guard Extensions
+from abho.sundaresan@gmail.com to All Participants:
+so RAFT, PBFT or POeT are the most common consensus algorithms??
+from bala.rhapsodic@gmail.com to All Participants:
+could u explain 3n+1 again
+from abho.sundaresan@gmail.com to All Participants:
+ok 
+from mailtwosatheesh@gmail.com to All Participants:
+not getting it. could u pls
+from mailtwosatheesh@gmail.com to All Participants:
+ok 
+from Jagadeesh (Faculty) to All Participants:
+https://andersbrownworth.com/blockchain/distributed
+from mailtwosatheesh@gmail.com to All Participants:
+all transaction maintian in each bank DB for dentralization purpose ?
+from vk033397  to All Participants:
+sir nonce difference but hash value same
+from abho.sundaresan@gmail.com to All Participants:
+got it 
+from nksingh413@gmail.com to All Participants:
+Transaction Hash of any particular transaction will be different from block hash in which it is included ?
+from gyanadc to All Participants:
+OK
+from abho.sundaresan@gmail.com to All Participants:
+yes 
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+Yes
+from ronakrrb@gmail.com to All Panelists:
+yes
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+Public data will be visible - right
+from bala.rhapsodic@gmail.com to All Participants:
+the difficulty is the number zeros and the nonce is the ith number of getting the expected 0, am i ryt?
+from abho.sundaresan@gmail.com to All Participants:
+A nonce is the number of transactions made or sent from a given address. Whenever you send a transaction the nonce is incremented by one. 
+from nksingh413@gmail.com to All Participants:
+b
+from prashant1611 to All Participants:
+B
+from sdevang2 to All Participants:
+B
+from write2arghyasaha@gmail.com  to All Participants:
+B
+from soujanya.veerubhotla@gmail.com to All Participants:
+B
+from shruthi.lakshmi@gmail.com to All Participants:
+B
+from bala.rhapsodic@gmail.com to All Participants:
+B
+from meringes_11@hotmail.com to All Participants:
+b
+from kannan.varadharajan@gmail.com to All Participants:
+B
+from abho.sundaresan@gmail.com to All Participants:
+b
+from joseph.kanish.bernard@gmail.com to All Participants:
+B
+from sabu.sumit@gmail.com to All Participants:
+B
+from pranabnayak21@gmail.com to All Participants:
+b
+from gprabhu96@gmail.com to All Participants:
+b
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+B
+from mrlingam087 to All Participants:
+b
+from mailtwosatheesh@gmail.com to All Participants:
+B
+from arjunlamba737 to All Participants:
+B
+from anukeerthi71@gmail.com to All Participants:
+b
+from prashant1611 to All Participants:
+B
+from bala.rhapsodic@gmail.com to All Participants:
+B
+from sdevang2 to All Participants:
+B
+from write2arghyasaha@gmail.com  to All Participants:
+B
+from kannan.varadharajan@gmail.com to All Participants:
+b
+from sabu.sumit@gmail.com to All Participants:
+B
+from sudhanvatilgul007@gmail.com to All Participants:
+b
+from nksingh413@gmail.com to All Participants:
+b
+from soujanya.veerubhotla@gmail.com to All Participants:
+FALSE
+from shruthi.lakshmi@gmail.com to All Participants:
+B
+from mailtwosatheesh@gmail.com to All Participants:
+no
+from joseph.kanish.bernard@gmail.com to All Participants:
+False
+from mailtwosatheesh@gmail.com to All Participants:
+B
+from pranabnayak21@gmail.com to All Participants:
+b
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+B
+from anukeerthi71@gmail.com to All Participants:
+b
+from varnaag1999@gmail.com to All Participants:
+b
+from mrlingam087 to All Participants:
+b
+from gprabhu96@gmail.com to All Participants:
+b
+from santsp@gmail.com to All Participants:
+b
+from meringes_11@hotmail.com to All Participants:
+b
+from abho.sundaresan@gmail.com to All Participants:
+b
+from nksingh413@gmail.com to All Participants:
+a
+from prashant1611 to All Participants:
+A
+from sudhanvatilgul007@gmail.com to All Participants:
+a
+from shruthi.lakshmi@gmail.com to All Participants:
+A
+from gprabhu96@gmail.com to All Participants:
+a
+from abho.sundaresan@gmail.com to All Participants:
+a
+from kannan.varadharajan@gmail.com to All Participants:
+a
+from pranabnayak21@gmail.com to All Participants:
+a
+from santsp@gmail.com to All Participants:
+a
+from mailtwosatheesh@gmail.com to All Participants:
+A
+from sabu.sumit@gmail.com to All Participants:
+A
+from varnaag1999@gmail.com to All Participants:
+a
+from soujanya.veerubhotla@gmail.com to All Participants:
+A
+from bala.rhapsodic@gmail.com to All Participants:
+A
+from sdevang2 to All Participants:
+A
+from meringes_11@hotmail.com to All Participants:
+a
+from write2arghyasaha@gmail.com  to All Participants:
+A
+from anukeerthi71@gmail.com to All Participants:
+a
+from deebhan.m@gmail.com to All Participants:
+A
+from soujanya.veerubhotla@gmail.com to All Participants:
+A
+from joseph.kanish.bernard@gmail.com to All Participants:
+Nounce
+from mrlingam087 to All Participants:
+a
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+A
+from arjunlamba737 to All Participants:
+A
+from bala.rhapsodic@gmail.com to All Participants:
+difficulty
+from prashant1611 to All Participants:
+Difficulty
+from write2arghyasaha@gmail.com  to All Participants:
+difficulty
+from mrlingam087 to All Participants:
+diffi
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+Difficulty
+from joseph.kanish.bernard@gmail.com to All Participants:
+Difficulty
+from vk033397  to All Participants:
+same data available in block them distribution pears than hash value is same in different pears.
+from prashant1611 to All Participants:
+A
+from bala.rhapsodic@gmail.com to All Participants:
+B
+from pranabnayak21@gmail.com to All Participants:
+a
+from write2arghyasaha@gmail.com  to All Participants:
+B
+from santsp@gmail.com to All Participants:
+b
+from sudhanvatilgul007@gmail.com to All Participants:
+b
+from shruthi.lakshmi@gmail.com to All Participants:
+B
+from soujanya.veerubhotla@gmail.com to All Participants:
+B
+from meringes_11@hotmail.com to All Participants:
+b
+from arjunlamba737 to All Participants:
+B
+from nksingh413@gmail.com to All Participants:
+b
+from prashant1611 to All Participants:
+B
+from gprabhu96@gmail.com to All Participants:
+b
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+B
+from varnaag1999@gmail.com to All Participants:
+b
+from joseph.kanish.bernard@gmail.com to All Participants:
+b
+from mailtwosatheesh@gmail.com to All Participants:
+B
+from kannan.varadharajan@gmail.com to All Participants:
+B
+from mrlingam087 to All Participants:
+b
+from abho.sundaresan@gmail.com to All Participants:
+b
+from vk033397  to All Participants:
+A
+from bala.rhapsodic@gmail.com to All Participants:
+A
+from abho.sundaresan@gmail.com to All Participants:
+a
+from sdevang2 to All Participants:
+A
+from nksingh413@gmail.com to All Participants:
+a
+from prashant1611 to All Participants:
+A
+from sudhanvatilgul007@gmail.com to All Participants:
+a
+from pranabnayak21@gmail.com to All Participants:
+a
+from kannan.varadharajan@gmail.com to All Participants:
+A
+from mailtwosatheesh@gmail.com to All Participants:
+A
+from arjunlamba737 to All Participants:
+A
+from shruthi.lakshmi@gmail.com to All Participants:
+A
+from varnaag1999@gmail.com to All Participants:
+a
+from santsp@gmail.com to All Participants:
+A
+from mrlingam087 to All Participants:
+a
+from anukeerthi71@gmail.com to All Participants:
+a
+from joseph.kanish.bernard@gmail.com to All Participants:
+Proof of Work
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+A
+from soujanya.veerubhotla@gmail.com to All Participants:
+D
+from meringes_11@hotmail.com to All Participants:
+a
+from gprabhu96@gmail.com to All Participants:
+d
+from sabu.sumit@gmail.com to All Participants:
+A
+from muppala.pratap@gmail.com to All Participants:
+a
+from soujanya.veerubhotla@gmail.com to All Participants:
+C
+from write2arghyasaha@gmail.com  to All Participants:
+D
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+D
+from nksingh413@gmail.com to All Participants:
+d
+from gyanadc to All Participants:
+D
+from sdevang2 to All Participants:
+D
+from abho.sundaresan@gmail.com to All Participants:
+d 
+from prashantbkhopkar to Jagadeesh (Faculty) (privately):
+ok - its D
+from mrlingam087 to All Participants:
+d
+from abho.sundaresan@gmail.com to All Participants:
+read the question wrong 
+from meringes_11@hotmail.com to All Participants:
+explain
+from prashant1611 to All Participants:
+Can't we set GAS fee as zero in POS
+from nksingh413@gmail.com to All Participants:
+Block reward + transaction fees
+from nksingh413@gmail.com to All Participants:
+Then how the new coins will be generated in POs?
+from meringes_11@hotmail.com to All Participants:
+ok
+from arjunlamba737 to All Participants:
+THANKS 
+from prashant1611 to All Participants:
+So there will be no transaction fee ..?
+from prashant1611 to All Participants:
+ok, got it
+from prashantbkhopkar to All Participants:
+How then ETH value will increase?
+from nksingh413@gmail.com to All Participants:
+I think 120 million supply is there for ETH?
+from abho.sundaresan@gmail.com to All Participants:
+To my knowledge difficulty is calculated using a formula. which is difficulty(genesis node/starting)/current node 
+from prashant1611 to All Participants:
+in PoW - all successful miners (51%) get transaction fee - True or False ?
+from prashant1611 to All Participants:
+Leader gets BTC reward
+from sdevang2 to All Participants:
+sir, did you check if we can get access to these PPT's without having to go through the whole recording, I may need to reference this to revise some of the concepts, where can we access it from 
+from ronakrrb@gmail.com to All Panelists:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+ebook
+from ronakrrb@gmail.com to All Panelists:
+sure
+from meringes_11@hotmail.com to All Participants:
+I tried but the ppt wasn't available
+from meringes_11@hotmail.com to All Participants:
+Only ebooks availabkle
+from kannan.varadharajan@gmail.com to All Participants:
+ebook in self learning.
+from prashantbkhopkar to All Participants:
+will can see if PPT is accessible by tomm.
+from ronakrrb@gmail.com to All Panelists:
+Under self learning-->the last tab on the left is Course resources-->Ebook. Download that. It has the slides
+from prashantbkhopkar to All Participants:
+ok - will follow you and later can exercise using the links.
+from Jagadeesh (Faculty) to All Participants:
+https://blockchaindemo.io/
+from nksingh413@gmail.com to All Participants:
+yes
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from ronakrrb@gmail.com to All Panelists:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from varnaag1999@gmail.com to All Participants:
+yes
+from deebhan.m@gmail.com to All Participants:
+yes
+from shruthi.lakshmi@gmail.com to All Participants:
+Yes
+from bala.rhapsodic@gmail.com to All Participants:
+S
+from mrlingam087 to All Participants:
+yes
+from santsp@gmail.com to All Participants:
+YEs
+from prashantbkhopkar to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+1 block
+from bala.rhapsodic@gmail.com to All Participants:
+the first block
+from sabu.sumit@gmail.com to All Participants:
+first block
+from abho.sundaresan@gmail.com to All Participants:
+the starting blokc 
+from sudhanvatilgul007@gmail.com to All Participants:
+initisl block
+from santsp@gmail.com to All Participants:
+yes
+from santsp@gmail.com to All Participants:
+1st block
+from prashantbkhopkar to All Participants:
+Block 1 - No Txns
+from kannan.varadharajan@gmail.com to All Participants:
+did the nonce get calculated ?
+from kannan.varadharajan@gmail.com to All Participants:
+ok
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+two way sync ?
+from abho.sundaresan@gmail.com to All Participants:
+Got it 
+from prashantbkhopkar to All Participants:
+Is ths the data transperancy on Blockchain?
+from kannan.varadharajan@gmail.com to All Participants:
+pls share project document.
+from prashantbkhopkar to All Participants:
+Simple terms.
+from mrlingam087 to All Participants:
+it is connenting same n/w how to connec other network
+from vk033397  to All Participants:
+any limit added to block in peers
+from prashantbkhopkar to All Participants:
+oh.. k
+from mrlingam087 to All Participants:
+it is connenting same n/w how to connec other network
+from prashantbkhopkar to All Participants:
+States of ETH - are they - CREATED, BURNED... How many satauses?
+from santsp@gmail.com to All Participants:
+Interoperatibility is possible i cosmos?
+from abho.sundaresan@gmail.com to All Participants:
+so the purpose of the nonce here is to find a proof of work in relation with the difficulty threshold.
+from prashantbkhopkar to All Participants:
+GENERATE, CREATE, TRFR, BURNED - Ok
+from Jagadeesh (Faculty) to All Participants:
+relay chains, para chains , bridges
+from ronakrrb@gmail.com to Jagadeesh (Faculty) (privately):
+I am working in Times Internet which has many digital products like times of india, magic bricks, cricbuzz etc.. If we have to build a rewards system such that there is one user wallet which gets filled with reward points from all of these products and these points can be used to avail benefits across all these products. Should permissioned blockchain be feasible or private blockchain
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from karthikp@wharfstreetstrategies.com to All Participants:
+What is the purpose of burning tokens ?
+from ronakrrb@gmail.com to Jagadeesh (Faculty) (privately):
+All of these products are independent and managed independently
+from kannan.varadharajan@gmail.com to All Participants:
+sorry why is interoperability difficult between implementations ?
+from prashantbkhopkar to All Participants:
+Thanks
+from prashantbkhopkar to All Participants:
+Are you going to explain about forks in BTC?
+from prashantbkhopkar to All Participants:
+OK
+from ronakrrb@gmail.com to Jagadeesh (Faculty) (privately):
+Sure
+from bala.rhapsodic@gmail.com to All Participants:
+could u pl unmute 
+from bala.rhapsodic@gmail.com to All Participants:
+us so we can ask instead of typing
+from prashantbkhopkar to All Participants:
+yes
+from mailtwosatheesh@gmail.com to All Participants:
+Please create whatsapp group it will easy for us communicate among us!
+from nksingh413@gmail.com to Jagadeesh (Faculty) (privately):
+I also raised
+from sdevang2 to All Participants:
+Good idea.. we should
+from abho.sundaresan@gmail.com to All Participants:
+I dont mind 
+from Learner Success Manager to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from Learner Success Manager to All Participants:
+
+We at Simplilearn, do not encourage sharing personal information and the creation of WhatsApp groups. Please exercise caution while sharing your personal information. Simplilearn shall not be responsible for any privacy issues.
+
+from prashantbkhopkar to All Participants:
+Ok
+from abho.sundaresan@gmail.com to All Participants:
+we can use the community tab here 
+from prashantbkhopkar to All Participants:
+sure
+from meringes_11@hotmail.com to All Participants:
+what happens when the malicious threshold is reached?
+from muppala.pratap@gmail.com to All Participants:
+yes
+from muppala.pratap@gmail.com to All Participants:
+can i ask one question
+from abho.sundaresan@gmail.com to All Participants:
+is sawtooth open source 
+from prashantbkhopkar to All Participants:
+SmartContract users - can see data - very important point.
+from prashantbkhopkar to All Participants:
+Only through the application.
+from Jagadeesh (Faculty) to All Participants:
+https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable
+from prashantbkhopkar to All Participants:
+can you unmute me ? 
+from prashantbkhopkar to All Participants:
+I have a small query - which may be interest to all.
+from Jagadeesh (Faculty) to All Participants:
+sure
+from sdevang2 to All Participants:
+This is the 5th questions being asked.. hahaha.. all preceded with one last question 
+from gyanadc to All Participants:
+Can you unmute me ? 
+from prashantbkhopkar to All Participants:
+can i ask question?
+from sabu.sumit@gmail.com to All Participants:
+which media player we need to download in order to listen to recorded session videos
+from Learner Success Manager to All Participants:
+NBR player
+from sabu.sumit@gmail.com to All Participants:
+thank you 
+from prashantbkhopkar to All Participants:
+Concepts will help.
+from abho.sundaresan@gmail.com to All Participants:
+can I ask a question 
+from prashantbkhopkar to All Participants:
+He should read about other use-cases other than the Crypto
+from nksingh413@gmail.com to Jagadeesh (Faculty) (privately):
+yes
+from abho.sundaresan@gmail.com to All Participants:
+if time permits may I ask one 
+from Learner Success Manager to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from Jagadeesh (Faculty) to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from prashantbkhopkar to All Participants:
+Good session today.
+from muppala.pratap@gmail.com to All Participants:
+ihave one question
+from sabu.sumit@gmail.com to All Participants:
+I have one question
+from Jagadeesh (Faculty) to All Participants:
+pls do tell me over chat, if not will unmute
+from abho.sundaresan@gmail.com to All Participants:
+Can you unmute me next, if time permits if I may. 
+from sabu.sumit@gmail.com to Jagadeesh (Faculty) (privately):
+I am QA professional in IT industry working since last 10 years... I have knowledge over JAVA language... do I need to learn new languages ....I understand I need to learn some linux commands 
+from gyanadc to Jagadeesh (Faculty) (privately):
+If you dnt mine plz give me you contact mobile no,
+from gyanadc to Jagadeesh (Faculty) (privately):
+9347476061 this is my mobile no.
+from sabu.sumit@gmail.com to Jagadeesh (Faculty) (privately):
+is Javascript necessary in my case?
+from Learner Success Manager to Jagadeesh (Faculty) (privately):
+hi jagadeesh, we have to winde up the session, we are already 20 minutes overdure.
+from sabu.sumit@gmail.com to Jagadeesh (Faculty) (privately):
+ok
+from davidmdenis to Jagadeesh (Faculty) (privately):
+sir can u pls suggest a book for this 
+from prashantbkhopkar to All Participants:
+Thank you, Jagdeesh.
+from nksingh413@gmail.com to All Participants:
+Thanks
+from arjunlamba737 to All Participants:
+Thanks
+from sudhanvatilgul007@gmail.com to All Participants:
+Thank You
+from mrlingam087 to All Participants:
+thank you
+from prashantbkhopkar to All Participants:
+Thanks, Vivek also.
+from abho.sundaresan@gmail.com to All Participants:
+Ok no worries. Thank you for the wonderful session 

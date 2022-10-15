@@ -1,0 +1,190 @@
+college/insti
+
+{
+ mail id
+ age
+ religion 
+}
+
+====> indy platform ===> DID:SSI:6TI6HJLIU8Y[0U9OU9HHKUJHI ( praveen )- Verifiable credentials
+
+====> medical 
+
+{
+ name
+ mail id
+ mob num
+ med id 
+ health 
+}
+
+====> indy ====> DID:SSI:76597868O7BHBHJBJHBHJBH ====> 
+
+
+client -----> Gateway (auth/identity schemes) -----> servers
+
+
+
+1. Scalability ----> consensus and block formation takes time, cryptography ---> known issue
+2. Interoperability ----> asset on Hyperledger Fabric (medical record)  ---- network of hospitals
+                    ----> asset on ethereum           (medical claims)  ---- network of insurance companies
+
+  1990...
+
+gmail ---> outlook
+outlook ---> gmail
+
+
+ SMTP ---- standards of communication
+
+
+enterpries
+
+public
+
+ protocls, newtoek, 
+
+ Standards have to implmented and finalized --------> ???
+
+ ERC --- Token standards in ethereum
+ 
+ERC20 --- Fungible token (where each and every token is of same value) --- ETHER --- 100 --- 100 (face value is same)
+ERC721 --- Non Fungible token (where each and evry token is diff)      --- property --- 
+ERC1155 --- most widely used for both FT and NFT ---> gas efficient
+
+
+Fabric: (ERC20, ERC721, ERC1155)
+-------
+ 1. Have an erc721 ---> medical/insurance record
+ 2. is with hospital network blockchain
+
+  Create   - erc721 (hospotal networks)
+  transfer - Jagadeesh {name, insurance opted, eligibe amt}
+  burn     - no longer valid (claim id is processed)
+
+
+ bridges impementations ----backedn app written in (javascript, go etc)
+         asset is creatd in eth
+
+
+
+ERC--TOKEN STANDARDS
+
+Ethereum: (ERC20, ERC721, ERC1155)
+
+---------
+ 1. Verifier claim network is on Ethereum
+ 2. How can they verify the data or claim id request ?
+ 3. ERC721 ---> jagadeesh
+ 4. Created successfully
+
+
+User onboarding in Fabric:
+---------------------------
+
+1. Registration - where u specify ur identities like public key
+2. Identity scheme - which takes this public key and create x509 digital certificates
+3. Digital certififxtes have lifecycle - > issues, validate ( 1year) , revoke
+
+
+network - AXIS, ICICI, SBI, HDFC
+
+ Policiy has to be defined --->
+
+ channel1 --- AXIS, ICICI, HDFC (usera ---> 50 ---> userb)
+ channel2 --- ICICI, SBI  (hash(usera ---> 50 ---> userb))
+ channel3 --- SBI, HDFC
+
+
+
+TAT:
+----
+
+
+3 months --- loan disbursement with all 4 banks ---> credit verification ----> crediting agencies(equifax, experian, cibil) --->
+
+ if cust.verification is done last 2 weeks ---> confirmation from blockcahin data
+
+
+ Customer a -- icici --- loan details
+          a -- sbi   --- new loan request ---> initiates new txn in the network {cust id : a, loan id: 123, amt req: 3M}
+          
+          txn blockchain ---- >  {cust id : a, loan id: 123, amt req: 3M}
+
+           sbi ----> icici, hdfc, axis ---> do u have any existing report of this customer in DB
+               ----> loan details ----> { loan details for this customer }
+               ----> channel { public: cust id, private : loan id, amt req: }
+               ----> 
+
+MSP ---->>   identities for each and evry node in the network
+
+ Banks only have access to update the ledger, credit agencies --- read only acceess access control lis
+
+ {
+    org1:
+    name: SBI
+    Role: read, write, execute
+    peer0: endorser
+    peer1: committer
+    peer2: anchor
+  
+
+  org2:
+  name: icici
+  Role: read, write, execute
+peer0: endorser
+    peer1: committer
+    peer2: anchor
+
+ org3:
+ name: experian
+ Role: read
+ peer0: endorser
+    peer1: committer
+    peer2: anchor
+
+}
+
+smart contract:
+
+if MSP = 'org1' or 'org2'
+
+
+ {
+  func write(vvvv)
+{
+ stores data on ledger
+}
+ 
+}         
+
+
+ 
+ 
+
+read only DB: these db will take the data from ledger and show the state info in the db
+-------------
+
+
+ledger ---- 100 tnx, 10users
+
+Level db - 10 txn {key value store}
+
+ { 
+   user1: 10
+   user2: 20
+}
+
+key---- value
+
+updates/delets on these databases
+
+
+Couch db - 10 txn { indexing, complex queries}
+
+ {
+   user1: 10
+   user2: 20
+}
+
+ select all users from couchdb where balance > 20

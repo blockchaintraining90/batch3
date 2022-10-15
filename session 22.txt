@@ -1,0 +1,54 @@
+symmetric - 
+asymmetric -  
+digital sign - 
+
+Hash collision - one to one mapping b/w input and output, 
+
+128 bit - hash ---- 2^64 ====  , there is a chance to create same hash output
+256 - 2^ 128
+512 - 2^256 --- SHA512 -
+
+Forks in Blockchain - 
+
+ Soft Forks - created when multiple miners creates blocks to add to the existing chain
+              BTC - 256
+                    257 - MINER1 - 258 259 260 261 262 263
+                    257 - MINER2 - 258 259 260
+ 7 BLOCK Confirmations have to be obtained for a block to be valid in BTC
+ 
+ Hard Forks - Updating the protocol and new chains
+            BTC -- BCH --- BTG
+            ETH -- ETC (pow) --- ETH(POS) 
+            ico, dapp, nft etc
+
+  ETC - 230 million ethers ----
+  ETH - Unlimited supply   ---- (token burn)
+  
+supply and demand ----> price of a good
+
+3n+1 in PBFT - 7 node ---> BFT 2, proposal and validation
+
+ 7 --- {1}, {1} -----> 5 nodes  (3,2)
+
+Token Burn - Creation, transfer, burn
+
+
+
+
+
+Genesis block:
+--------------
+
+{
+ chain id :1
+ name: bitcoin
+ symbol: btc
+ supply: 21 Million
+}
+
+Miners --- 12 BTC 
+
+1 TO 210,000 ----- 12 BTC
+210,001 TO 420,000 - 6 BTC
+
+2016 blocks - rate of bitcoin is altered --- difficulty - increase significantly

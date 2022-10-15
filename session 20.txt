@@ -1,0 +1,210 @@
+txn1 - TXNID: 324535436365465477987987  - 20 bytes
+     - DATE  2022-09-09-03.56.888888    - 26 bytes
+     - Sender id                        - 20 bytes
+     - receiver id                      - 20 bytes
+     - amout                            - 10 byte  - 
+     100 bytes - 4KB - 400 txn - banking - 400 txn/sec -4kb - 100 byte
+
+     100 byte   - 4kb (100)   ----- 1KB - 50-100 txn ---->
+
+4kb - block
+
+
+block timeout parameter - 500 ms
+
+block size - 4mb -(1mb/2mb)
+
+banking:
+
+
+txn- 10 prmeters 
+
+
+
+pepsi co:
+---------
+
+database: CRUD - create, read, update and delete
+
+order num: 12345
+entity: walmart
+order date:
+order time:
+no of units: 5000
+price per unit: 50
+
+
+
+
+
+
+walmart:
+--------
+
+order num:
+entity: pepsico
+
+
+
+databse:
+jkjjbjb
+
+
+var name string
+var balance int
+
+
+
+
+
+type Block struct
+
+{
+
+  header:
+    {
+
+     txn time (date/time):
+     previous block hash(string):
+  Block:
+    {
+      block num(int):
+      no of txn:
+      current block hash:
+   
+
+} 
+
+
+
+
+
+hash is a cryptographic way of converting - arbitary data to fixed data length format
+
+data:
+-----
+
+{
+  txn1:125
+  txn2:456
+  txn3 :679
+}
+
+
+digest(hash):
+--------------
+
+vg567676bhvkuvkhbhbvkjd980hjhgjhh
+
+
+502c177ee183b45b92aa5f52c6705978 n
+                  502c177ee183b45b92aa5f52c8705978                N 
+
+2539ec1ded0d6868200a9e5be08cce51 
+
+
+hashing ----> prime factirization
+
+
+6 * 6 = 36
+
+
+36:
+---
+
+128 bytes
+256 bytes
+512 bytes
+
+
+6587896798687097098097878798798676687687687987989079878096076786786876786097607609860769876878967860986068768768756897987
+
+
+{
+
+6755675675 * 7868769876
+
+}
+
+
+
+  - this ----->   2539ec1ded0d6868200a9e5be08cce51
+                  9e925e9341b490bfd3b4c4ca3b0c1ef2 
+                  ab6681253d01f43021394052e5b36689
+
+
+Bitcoin - fundamental understanding - smart contracts/chaincodes -
+Ethereum - fundamental understanding - smart contracts - Solidity
+Hyperledger - Fabric (java/java script/golang) , Indy (DID) 
+R3 Corda - java, kotlin - agreements
+
+polkadot, cardano -
+
+
+
+Linux commands - 
+Docker and docker compose - 
+kubernetes - added advantage
+
+
+
+big bazar(Future Retail Group) ------ one of the leading chain of retail stores -- groceries etc
+
+
+credit card points - 10000 - 5000 INR(jul) for big bazar (dec)
+
+
+dec - big bazar - bankrupt - NPA - Reliance industries (operations) - Jan
+
+Feb ---- Reliance retail store --- 10000 INR ---- 5000 INR big bazar --- ddint happen ??
+
+1000 5000 - 5 million 
+
+
+entities: reward platform ------ reliance, xyz, abc  ------------->>>>> common data base ---no competitor will allow for their data access to others
+----------
+
+
+
+I ve purchshaed an itme from reliance worth 10K
+
+1. jagadeesh orderid 456
+
+
+
+add item 1 - 1 gas - 0.1 eth   (petrol - price)
+
+add item 2 - 2 gas - 0.2 eth
+
+add item 3 - 3 gas - 0.3 eth
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

@@ -1,0 +1,269 @@
+import 'sha1'
+
+input string = 'c:users/files/sample.txt'
+
+f(x) = H(input)
+
+
+f(x) = jf458746584thhejrht5y84y
+
+
+1. reducing size for transamiting over the network -----
+
+2. It validates the message authenticity ---
+
+
+   message = "hello world"
+   hash(message) = 'b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f7ace2efcde9'
+   
+   encrypt = (message,hash) ==== 'ABCDEFHJ'
+
+
+    decrypt= 'ABCDEFHJ' ===> "hellO world", "'b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f7ace2efcde9"
+    hash(message) = 'bc18519279ced255e872f67449060dbb7111747640d4a84d71b0e493687c97e6'
+
+
+merkle root:
+------------
+
+1 - h1 
+2 - h2
+3 - h3
+4 - h4
+
+hash(h1,h2,h3,h4) = 
+
+
+hash (h1,h2) = h12
+hash (h3,h4) = h34
+
+hash(h12, h34)
+
+
+
+Byzantine Fault Tolerance:
+--------------------------
+
+No of nodes : 4
+
+node1:
+
+F(x) = {attack, attack, attactk, attack}
+
+ attack = 4
+
+node2:
+
+F(x) = {attack, attack, attack, attack}
+
+ attack = 4
+
+node3:
+
+F(x) = {attack, attack, noattack, attack}
+
+ attack = 3
+ noattack = 1
+
+ attack ---- this is decided
+
+node4:
+
+F(x) = {attack, attack, attack, attack}
+
+ attack = 4
+
+PBFT: 'n' malicious nodes in the network, we shoudl design our system with 3n +1 (7 nodes) , 2n + 1  === 5 node, it can tolerate upto 2 byzantine nodes
+
+PBFT/POW/POS/POET --- always leader/block proposing nodes will vary over time ( 100ms - elect a new leader)
+                      even the leader election process is randomized
+
+leader and follower model ---> 3n + 1 ---
+
+100m - node1 {node2, 3,4}
+200m - node4 {node1,2,3}
+
+
+POW: Puzzle problem
+
+we have to compute a random nonce value which results an output that has some prefixed zeros to the original hash value computed
+
+
+{Node1, Node2, Node3, Node4} === 128gb, 1TB,
+
+{txn1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+
+to create  block - we have to calculate merkle root hash
+
+to add the txns to block once has to validate and create merkle root hash ------>
+
+merkle root = h(12345678910, 45, 57, 89,10}  --- simple root ---> fsdbjvshd76384769834jbdjkbdjkdjge678947
+
+leaders - 1, 2 --- leaders
+ 
+nonce - find this nonce value --- append zeros to the hash calculated  -- 0000000000 + fsdbjvshd76384769834jbdjkbdjkdjge678947
+
+
+
+these things are not fixed, it will change overtime to make the network difficult
+{
+nonce - 998098098
+
+difficulty ----> 1000}
+
+
+{
+
+nonce - 99999999999999999999
+
+difficulty - 100000
+
+}
+
+
+
+for (i=0, i<999999999999999999; i++)
+
+{ 
+
+  i = 866808709709
+
+}
+
+
+10 ppl -  what is the capital city of Karnataka - bglr (8)
+       -  Arunachal pradesh - (4)
+       -  500 m long run
+       -  1
+
+
+node 2 - 10ms - leader , i =8789709809, 1000 - block fee of 3.75 BTC --- million USD
+node 3 - 15ms - i, 1000 - yes
+node 4 - 12ms - i, 1000 - yes
+node 1 - 18ms - i, 1000 - yes
+
+
+
+miners - 100
+
+leader - 1, follower - 99
+
+
+
+POS:  u have to invest/stake (identity is also) some tokens/money to become a validator - ETHEREUM - 32 ETH  ----(79, 200, 2000 validator)
+----
+
+4000 nodes - identities
+
+
+200, 2000 - decreasing the no of nodes, 32 ETH
+
+
+
+21 validator - {1, 2, 3 ......21}
+
+leader election process - { validate the txn and create new blocks }
+
+
+for every 100ms the algorithm defines to elect a new leader - 
+the same leader shoudl not be elected again
+round robin algo 
+probability of all getting elcted - same 
+
+ETH ---> POS ----> Coinbase, ABC --- vlidator
+
+99% - electricy - 
+
+Malicious activity:
+-------------------
+
+32 ETH 
+
+intrude some fraud txn in the network------------ node1 ----(100,1-->101) - blk1
+
+{2, 3, 4..........21)
+
+1 false ncluded in block ---->
+
+node1 is dropped of from the nwtrok - 32 ETH, 
+
+0.01 ETH
+0.1 ETH  -------------<<<< 32 ETH --- 10 times, 1 ETH - blacklist -- ip address/wallet address - 32 ETH ---dormant, eher will be burened out
+
+eth account -- 5454bhjbhbhb - deposit ur funds in the wallet ---->  Smart contract ----> 100users -----{21} --->
+
+
+Bitcoin - POW - 1 hour - to create blocks ----
+
+Ethereum - POW - 15 mins to create new block, 15-30 sec < 60 sec
+
+
+Proof of Elapsed Time: (Permissioned/ethreprise blockchains)
+-------------------------------------------------
+
+bofa, Citi, JPM, ML, DBS ---- trade finance platform
+
+1. Intel corporation
+2. Hyperledger Sawtooth - blockchain platform
+
+{1, 2, 3, 4, 5}
+
+elapsed time---
+
+random selection 
+
+round 1 = {1,2,3,4,5} = 1 - (100ms) - internal clock - drived by cpu --- malicious -- SGX Hardware (software guard extension) - 100ms
+
+round 2 = {2,3,4,5}   = 2 - (100ms)
+
+round 3 = {3,4,5,1}   = 4 - (100ms)
+
+round 4 = {3, 5, 1, 2} = 3 - 
+
+
+round 8 -- 1
+
+
+proof of spcae time:
+
+Consensus algorithms ------ permissioned blockchains --- leader/follower model ---- 
+
+
+POW - Miners calculate the nonce value, create new blocks , for evry new block it creates new coins(mining), txn fee
+
+miner - mining reward (3.75 BTC) and txn fee - pow
+
+POS - MIners/validators  -----> validate the txn --> create blocks, new cpins are not generated(POS)
+
+miners/validator - only txn fee
+
+
+
+
+
+{txnid 2543, 67688, hash(jlklk)}
+
+
+50% ---mining pools - top 5 - 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

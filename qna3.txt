@@ -1,0 +1,1213 @@
+package main
+
+{
+
+ func add(int a, int b)
+  { 
+    var c;
+    c = a + b
+   }
+}
+
+a=5, b=6
+
+c = 11
+
+smart contract (solidity) ----compile ---ABI (application binary interface) ---> exteral applications will connect thru this ABI
+
+ bytecode -- executing on evm
+
+deny lamp involve cactus share forget virus black kick receive east morning
+
+
+Assembly level code: OPCODE instructions
+-------------------
+
+ 1. PUSH 5 TO A
+ 2. PUSH 6 TO B
+ 3. ADD  A,B TO C
+ 4. POP  C
+
+ ==> 11
+
+
+truth coffee guitar car cherry surprise now slam final update slide educate
+
+vulnarabilities can be introduced into the smart contract logic, security aspects into the logic,
+
+smart contract -- hold ethers, they can interact --->hold, 
+
+RTGS (> 2 lakh) , UPI, IMPS, NEFT, NACH -----> money transfers b/w accounts,
+
+5 txn ---upi, imps ---- 0.01--->
+
+
+POS, SEPA, SWIFT ---> most of these are free to use for customers
+
+10 eth, 0.001 eth ----> banking appl
+
+
+permissioned/enterprise blockchains----> free n open source, no crypto, no xn fee, regulated with identity revealing
+
+
+CBDC: HLF
+
+
+china CBDC
+
+bhiguiujkhjkhjnk - mainnet
+
+tnbkjbjbkj - test net
+
+tb1qxxf8e483j0pqqnzm3wa7suu8tcjdgfulvc2yjv
+
+f847e597f3fc9dfee8ac0556500300d0eb1acb6856f982f898d493c536155c2b
+
+
+smart contracts --- 
+
+1) Solidity --- EVM BYTECODE ---90%
+
+2) ASSEMBLY LANGUGAE --- OPCODE to w
+
+rite logics  (reduce the gas fee---transaction fee), increase the byetoce---evm  ---10%
+
+
+
+
+pragma solidity^0.8
+
+{
+
+ func add(int a, int b)
+  { 
+    var c;
+    c = a + b
+   }
+}
+
+a=5, b=6
+
+c = 11
+
+
+bytecode ---- is taken by machine for execution
+
+EVM - Ethereum virtual machine (bytecode)
+
+
+Assembly level code: OPCODE instructions
+-------------------
+
+ 1. Create a function --- 0.1 mem ---10 gas units(cpu units being consumed)
+ 2. PUSH 5 TO A       --- 0.2 mem --- 20 gas units
+ 2. PUSH 6 TO B       --- 0.2 mem --- 20 gas units
+ 3. ADD  A,B TO C     --- 0.3 mem -- 30
+ 4. POP  C                        -- 10 
+
+
+
+contract ---> 90 gas units ---- 1 gas is ---> 0.1 ether 
+         ---> 9 ethers --10$
+         ---> 90 $ USD 
+
+21,000 units
+
+ ==> 11
+
+
+
+
+gas price is cal based on supply n demand 
+
+more congested network --high price
+low network congestion -- low prices
+
+
+1. Merge
+2. Surge
+3. Verge
+4.
+5.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+from soujanya.veerubhotla@gmail.com to All Participants:
+Hello Sir, Missed your class yesterday; ould you please tell the topics whats was covered yesterday
+from soujanya.veerubhotla@gmail.com to All Participants:
+so that I will catch up iin self paed learning
+from soujanya.veerubhotla@gmail.com to All Participants:
+Hello Sir, Missed your class yesterday; ould you please tell the topics whats was covered yesterday
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes clear
+from sudhanvatilgul007@gmail.com to All Participants:
+yes
+from gprabhu96@gmail.com to All Participants:
+Yes
+from pratikshukla378@gmail.com  to All Participants:
+Yes
+from Learner Success Manager to Jagadeesh (Faculty) (privately):
+am i aufdible ?
+from Learner Success Manager to Jagadeesh (Faculty) (privately):
+you can start with the session sir 
+from soujanya.veerubhotla@gmail.com to All Participants:
+can we get yesterdays recording as mp4 instead of arf file
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes clear
+from nksingh413@gmail.com to All Participants:
+yes
+from gprabhu96@gmail.com to All Participants:
+Yes
+from mrlingam087 to All Participants:
+good morning
+from kannan.varadharajan@gmail.com to All Participants:
+GM!
+from sdevang2 to All Participants:
+Good Morning
+from kannan.varadharajan@gmail.com to All Participants:
+why cant smart contract be built for  bitcoin network ?
+from mrlingam087 to All Participants:
+it is like microcontroler program
+from mailtwosatheesh@gmail.com to All Participants:
+could u tell once again this one!
+from mailtwosatheesh@gmail.com to All Participants:
+voice breaked for me
+from kannan.varadharajan@gmail.com to All Participants:
+who owns the transaction validation script ?
+from prashantbkhopkar to All Participants:
+ok - understood
+from davidmdenis to All Participants:
+sir case where the value is false an example pls
+from rameshvelan@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from davidmdenis to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+is the rollback is supported?
+from prashantbkhopkar to All Participants:
+k
+from nksingh413@gmail.com to All Participants:
+Is there any difference between the opcodes for EVM and BTC?
+from soujanya.veerubhotla@gmail.com to All Participants:
+A
+from write2arghyasaha@gmail.com  to All Participants:
+A
+from gyanadc to All Participants:
+a
+from pranabnayak21@gmail.com to All Participants:
+A
+from arjunlamba737 to All Participants:
+A
+from meringes_11@hotmail.com to All Participants:
+a
+from rameshvelan@gmail.com to All Participants:
+A
+from shruthi.lakshmi@gmail.com to All Participants:
+A
+from santsp@gmail.com to All Participants:
+A
+from nksingh413@gmail.com to All Participants:
+A and B
+from vk033397  to All Participants:
+A
+from deebhan.m@gmail.com  to All Participants:
+A
+from thoratbhakti289 to All Participants:
+B and A
+from pratikshukla378@gmail.com  to All Participants:
+A 
+from mrlingam087 to All Participants:
+a
+from gyanadc to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+A, B
+from pranabnayak21@gmail.com to All Participants:
+A
+from kannan.varadharajan@gmail.com to All Participants:
+A
+from write2arghyasaha@gmail.com  to All Participants:
+A
+from rameshvelan@gmail.com to All Participants:
+A
+from nksingh413@gmail.com to All Participants:
+A
+from mrlingam087 to All Participants:
+a
+from prashantbkhopkar to All Participants:
+A
+from mailtwosatheesh@gmail.com to All Participants:
+A
+from soujanya.veerubhotla@gmail.com to All Participants:
+A
+from thoratbhakti289 to All Participants:
+A
+from shruthi.lakshmi@gmail.com to All Participants:
+A
+from prashant1611  to All Participants:
+A
+from gyanadc to All Participants:
+ab
+from meringes_11@hotmail.com to All Participants:
+a
+from chethan.cs95@gmail.com to All Participants:
+a
+from vk033397  to All Participants:
+A
+from nksingh413@gmail.com to All Participants:
+B
+from shruthi.lakshmi@gmail.com to All Participants:
+B
+from kannan.varadharajan@gmail.com to All Participants:
+B
+from pranabnayak21@gmail.com to All Participants:
+V
+from write2arghyasaha@gmail.com  to All Participants:
+B
+from sabu.sumit@gmail.com to All Participants:
+B
+from soujanya.veerubhotla@gmail.com to All Participants:
+B
+from chethan.cs95@gmail.com to All Participants:
+b
+from rameshvelan@gmail.com to All Participants:
+B
+from mrlingam087 to All Participants:
+b
+from meringes_11@hotmail.com to All Participants:
+b
+from prashantbkhopkar to All Participants:
+B
+from pranabnayak21@gmail.com to All Participants:
+B
+from mailtwosatheesh@gmail.com to All Participants:
+B
+from arjunlamba737 to All Participants:
+B
+from santsp@gmail.com to All Participants:
+B
+from nksingh413@gmail.com to All Participants:
+B
+from pranabnayak21@gmail.com to All Participants:
+A B
+from mailtwosatheesh@gmail.com to All Participants:
+B
+from mrlingam087 to All Participants:
+b
+from chethan.cs95@gmail.com to All Participants:
+B
+from kannan.varadharajan@gmail.com to All Participants:
+A, B
+from write2arghyasaha@gmail.com  to All Participants:
+B
+from prashant1611  to All Participants:
+b
+from rameshvelan@gmail.com to All Participants:
+B
+from soujanya.veerubhotla@gmail.com to All Participants:
+B
+from prashantbkhopkar to All Participants:
+B
+from santsp@gmail.com to All Participants:
+b
+from shruthi.lakshmi@gmail.com to All Participants:
+B
+from meringes_11@hotmail.com to All Participants:
+b
+from nksingh413@gmail.com to All Participants:
+A
+from pranabnayak21@gmail.com to All Participants:
+A
+from chethan.cs95@gmail.com to All Participants:
+A
+from rameshvelan@gmail.com to All Participants:
+A
+from meringes_11@hotmail.com to All Participants:
+a
+from mailtwosatheesh@gmail.com to All Participants:
+A
+from write2arghyasaha@gmail.com  to All Participants:
+A
+from soujanya.veerubhotla@gmail.com to All Participants:
+T
+from shruthi.lakshmi@gmail.com to All Participants:
+True
+from vinuvishwa to All Participants:
+yes 
+from santsp@gmail.com to All Participants:
+a
+from arjunlamba737 to All Participants:
+A
+from gyanadc to All Participants:
+a
+from mrlingam087 to All Participants:
+a
+from kannan.varadharajan@gmail.com to All Participants:
+A
+from prashantbkhopkar to All Participants:
+A
+from thoratbhakti289 to All Participants:
+A
+from prashant1611  to All Participants:
+a
+from vk033397  to All Participants:
+Sir mobile pr not open lab session
+from vk033397  to All Participants:
+ok
+from kannan.varadharajan@gmail.com to All Participants:
+why electrum vs exodus? I think we setup exodus yesterday on lab.
+from prashantbkhopkar to All Participants:
+Noted
+from nksingh413@gmail.com to All Participants:
+We can do outside the lab also..because it need not require further for deployment in Lab...
+from sudhanvatilgul007@gmail.com to All Participants:
+electrum to be setup in lab system or our local?
+from prashantbkhopkar to All Participants:
+Electrum should be setup and used.
+from Jagadeesh (Faculty) to All Participants:
+https://electrum.org/
+from nksingh413@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+yes
+from thoratbhakti289 to All Participants:
+yes
+from gprabhu96@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+no
+from prashant1611  to All Participants:
+yes
+from write2arghyasaha@gmail.com  to All Participants:
+yes
+from rameshvelan@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+Downloaded
+from shruthi.lakshmi@gmail.com to All Participants:
+Yes
+from pranshumishra73@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+still loading 
+from KONYALAABHISHEK to All Participants:
+loading
+from prashantbkhopkar to All Participants:
+Appimage to be downloaded?
+from sdevang2 to All Participants:
+Download which one.. 
+from mrlingam087 to All Participants:
+still loding
+from sdevang2 to All Participants:
+Python, Linux, Windows ? 
+from sabu.sumit@gmail.com to All Participants:
+https:
+from sabu.sumit@gmail.com to All Participants:
+colon missing
+from meringes_11@hotmail.com to All Participants:
+I downloaded the electum appimage and ticked the checkbox in properties permissions but when double clicking  now it's not opening
+from mailtwosatheesh@gmail.com to All Participants:
+\
+from kannan.varadharajan@gmail.com to All Participants:
+yeah same here
+from kannan.varadharajan@gmail.com to All Participants:
+execute not working
+from vinuvishwa to All Participants:
+am unable to launch the browser, what is the password for "default Keyring"
+from thoratbhakti289 to All Participants:
+Done
+from kannan.varadharajan@gmail.com to All Participants:
+works
+from nksingh413@gmail.com to All Participants:
+yes
+from write2arghyasaha@gmail.com  to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+ls
+from thoratbhakti289 to All Participants:
+yes
+from gprabhu96@gmail.com to All Participants:
+yes
+from sripad6 to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+yes
+from shruthi.lakshmi@gmail.com to All Participants:
+Yes
+from pranshumishra73@gmail.com to All Participants:
+yes
+from vinuvishwa to All Participants:
+need 2 more mins 
+from sabu.sumit@gmail.com to All Participants:
+my lab still not loaded... but I am seeing your screen
+from mrlingam087 to All Participants:
+working
+from ronakrrb@gmail.com to All Participants:
+Its asking me to open with ?
+from rameshvelan@gmail.com to All Participants:
+i am getting error while launching
+from vinuvishwa to All Participants:
+open with ? 
+from sdevang2 to All Participants:
+What to enter in Confirm Seed box. 
+from prashant1611  to All Participants:
+unable to in stall..it doesn't have i stallation wizard
+from meringes_11@hotmail.com to All Participants:
+Point 3.3 (Get bitcoins) not working. The button "Get bitcoins is diabled even after pasting the address
+from prashant1611  to All Participants:
+right click doesn't work
+from sudhanvatilgul007@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+yes
+from vinuvishwa to All Participants:
+unable to open the image \
+from prashant1611  to All Participants:
+right click isnot an option for touch screen
+from prashant1611  to All Participants:
+hope you get me...we need to go with double click...and open with option doesn't have installation wizard
+from thoratbhakti289 to All Participants:
+double click
+from pranabnayak21@gmail.com to All Participants:
+link in chat please
+from thoratbhakti289 to All Participants:
+link please
+from sdevang2 to All Participants:
+Can you type the URL here. ? 
+from Jagadeesh (Faculty) to All Participants:
+https://coinfaucet.eu/en/btc-testnet/
+from kannan.varadharajan@gmail.com to All Participants:
+same error disabled
+from vinuvishwa to All Participants:
+can you share all the insttructions ? 
+from sdevang2 to All Participants:
+We have have access to the lab instructions files, will need your help to fix it. 
+from sdevang2 to All Participants:
+Dont have i meant
+from vinuvishwa to All Participants:
+i havent been ableto open the image even after setting the permission to be run as an application
+from prashant1611  to All Participants:
+instead of labs, can I try this on mu usual windows browser?
+from vinuvishwa to All Participants:
+i have downloaded 4.3.1
+from Jagadeesh (Faculty) to All Participants:
+https://download.electrum.org/4.1.2/
+from vinuvishwa to All Participants:
+standard wallet ? 
+from nksingh413@gmail.com to All Participants:
+where do i get my wallet address from?
+from kannan.varadharajan@gmail.com to All Participants:
+it says invalid bitcoin address.
+from soujanya.veerubhotla@gmail.com to All Participants:
+where can I get all LEP Documents?
+from ronakrrb@gmail.com to All Participants:
+Sure
+from vinuvishwa to All Participants:
+i need help with that too 
+from davidmdenis to All Participants:
+same here ronak
+from Jagadeesh (Faculty) to All Participants:
+    electrum-4.1.2-x86_64.AppImage
+from ronakrrb@gmail.com to All Participants:
+Self Learning -->  Section 2 --> Lesson 4 --> 4.28 pRactice Project
+from prashantbkhopkar to All Participants:
+nothing to be entered on Elecrum ==> Receive option?
+from pranabnayak21@gmail.com to All Participants:
+Click on address
+from rameshvelan@gmail.com to All Participants:
+i have reproduced the seed address but unable to proceed further
+from ronakrrb@gmail.com to All Participants:
+@soujanya @vinuvishwa @david Self Learning -->  Section 2 --> Lesson 4 --> 4.28 pRactice Project
+from prashantbkhopkar to All Participants:
+Do we not specify the BTC amount?
+from prashantbkhopkar to All Participants:
+Oh Ok
+from soujanya.veerubhotla@gmail.com to All Participants:
+Rounak Thanks
+from rameshvelan@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+no
+from kannan.varadharajan@gmail.com to All Participants:
+no
+from meringes_11@hotmail.com to All Participants:
+no
+from prashantbkhopkar to All Participants:
+What about receiving screen - there do we need to specify the amt?
+from rameshvelan@gmail.com to All Participants:
+i have reproduced the seed i have reproduced the seed address but unable to proceed further
+from gyanadc to All Participants:
+how to gentate hash
+from vk033397  to All Participants:
+where is  copy this link
+from prashantbkhopkar to All Participants:
+WRITE down the seed phrase on paper.
+from prashantbkhopkar to All Participants:
+That way it works properly.
+from pranabnayak21@gmail.com to All Participants:
+Or take a picture
+from thoratbhakti289 to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from meringes_11@hotmail.com to All Participants:
+yes
+from sripad6 to All Participants:
+yes
+from santsp@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+which is docmenyest
+from arjunlamba737 to All Participants:
+yes
+from vinuvishwa to All Participants:
+ronakrrb@gmail.com thank you 
+from mailtwosatheesh@gmail.com to All Participants:
+we have smart contracts in bitcoin also right ? 
+from pranabnayak21@gmail.com to All Participants:
+POS
+from prashantbkhopkar to All Participants:
+pos
+from chethan.cs95@gmail.com to All Participants:
+POS
+from kannan.varadharajan@gmail.com to All Participants:
+POS
+from santsp@gmail.com to All Participants:
+Now it has POS
+from nksingh413@gmail.com to All Participants:
+In POW and POs slightly difference in time
+from nksingh413@gmail.com to All Participants:
+10 sec-15 sec
+from mailtwosatheesh@gmail.com to All Participants:
+SHA 
+from nksingh413@gmail.com to All Participants:
+SHa Ripled
+from KONYALAABHISHEK to All Participants:
+sha256
+from pranabnayak21@gmail.com to All Participants:
+SHA256
+from santsp@gmail.com to All Participants:
+SHa256 
+from nksingh413@gmail.com to All Participants:
+RIPMD
+from arjunlamba737 to All Participants:
+what is difference between token and cryptocurrency ?
+from prashantbkhopkar to All Participants:
+RIPMD160
+from kannan.varadharajan@gmail.com to All Participants:
+any limits ?
+from mailtwosatheesh@gmail.com to All Participants:
+diff between tokens and cryptocurrency ?
+from nksingh413@gmail.com to All Participants:
+Reentrancy is most vulnerable....
+from prashantbkhopkar to All Participants:
+can you exlain again 
+from prashantbkhopkar to All Participants:
+point to be noted?
+from Jagadeesh (Faculty) to All Participants:
+pls give me 2 mins
+from prashantbkhopkar to All Participants:
+what was the point made w.r.t. ETH - banks are facilitating Txns for Free as you said.. but Blockchains are charging fees.
+from prashantbkhopkar to All Participants:
+Then - i misssed that part
+from nksingh413@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+Yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+ok
+from meringes_11@hotmail.com to All Participants:
+difference between tokens and ethers?
+from prashantbkhopkar to All Participants:
+SEPA
+from prashant1611  to All Participants:
+rtgs
+from prashantbkhopkar to All Participants:
+RTGS
+from prashantbkhopkar to All Participants:
+it is charged - in RTGS
+from prashantbkhopkar to All Participants:
+correct > 2L
+from nksingh413@gmail.com to All Participants:
+Australian central bank is using Ethereum for CBDC project
+from soujanya.veerubhotla@gmail.com to All Participants:
+what is CBDC
+from soujanya.veerubhotla@gmail.com to All Participants:
+thx
+from prashantbkhopkar to All Participants:
+just like UPI
+from prashantbkhopkar to All Participants:
+UPI has replaced cash nearly
+from nksingh413@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from soujanya.veerubhotla@gmail.com to All Participants:
+what is censorship resistant
+from ronakrrb@gmail.com to All Participants:
+So if any need node is placed, the syncing of that also is taken care by swarm protocol?
+from prashantbkhopkar to All Participants:
+What is full form of DDoS
+from prashantbkhopkar to All Participants:
+Ok
+from prashantbkhopkar to All Participants:
+Yes
+from sabu.sumit@gmail.com to All Participants:
+just like java... where our Java code is converted by JVM 
+from prashantbkhopkar to All Participants:
+Cost reduction for building the contracts.
+from mailtwosatheesh@gmail.com to All Participants:
+what is gas fee ?
+from mailtwosatheesh@gmail.com to All Participants:
+reduce gas or no gas fee in OPCODE ?
+from ronakrrb@gmail.com to All Participants:
+Does writing in assembly language reduce the speed of execution?
+from ronakrrb@gmail.com to All Participants:
+Also, if any need node is placed, the syncing of that also is taken care by swarm protocol?
+from nksingh413@gmail.com to All Participants:
+Blockchain Native Token
+from pranabnayak21@gmail.com to All Participants:
+yes
+from sudhanvatilgul007@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from ronakrrb@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from pranshumishra73@gmail.com to All Participants:
+yes
+from arjunlamba737 to All Participants:
+can you please tell me where is available these ppt ?
+from prashantbkhopkar to All Participants:
+Yes
+from rameshvelan@gmail.com to All Participants:
+for permissioned blockchain what is the currency used ? 
+from kannan.varadharajan@gmail.com to All Participants:
+who decides the price ?
+from ronakrrb@gmail.com to All Participants:
+@arjunlamba Self Learning --> Course Resources (Below Section 2)
+from arjunlamba737 to All Participants:
+Thanks ronakrrb@gmail.com
+from gprabhu96@gmail.com to All Participants:
+who gets these gas fees?
+from Jagadeesh (Faculty) to All Participants:
+Maker DAO
+from ronakrrb@gmail.com to All Participants:
+Can you please repeat this one more time
+from santsp@gmail.com to All Participants:
+any example for the DAO in the real world?
+from thoratbhakti289 to All Participants:
+any example for Enth which has implementated by any company ?
+from ronakrrb@gmail.com to All Participants:
+okay.
+from thoratbhakti289 to All Participants:
+or organisation 
+from vinuvishwa to All Participants:
+is the a link where some past data / events are tracked 
+from kannan.varadharajan@gmail.com to All Participants:
+any other use cases for enterprise & banks ?
+from ronakrrb@gmail.com to All Participants:
+if any new node is placed, the syncing of that also is taken care by swarm protocol?
+from ronakrrb@gmail.com to All Participants:
+okay 👍 
+from thoratbhakti289 to All Participants:
+ohh thanks :)
+from thoratbhakti289 to All Participants:
+-+
+from thoratbhakti289 to All Participants:
++
+from prashantbkhopkar to All Participants:
+Yes
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from santsp@gmail.com to All Participants:
+Yes
+from mrlingam087 to All Participants:
+ok
+from sabu.sumit@gmail.com to All Participants:
+yes break please
+from prashantbkhopkar to All Participants:
+ok
+from gyanadc to All Participants:
+30
+from prashant1611 to All Participants:
+ok
+from davidmdenis to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+Hi
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+Hi
+from pranabnayak21@gmail.com to All Participants:
+Yes
+from sabu.sumit@gmail.com to All Participants:
+yes back
+from rameshvelan@gmail.com to All Participants:
+yes
+from thoratbhakti289 to All Participants:
+yes back
+from prashantbkhopkar to All Participants:
+ok
+from Jagadeesh (Faculty) to All Participants:
+sudo chmod +x electrum-4.1.2-x86_64.AppImage
+from Jagadeesh (Faculty) to All Participants:
+./electrum-4.1.2-x86_64.AppImage --testnet
+from Jagadeesh (Faculty) to All Participants:
+https://coinfaucet.eu/en/btc-testnet/
+from prashant1611 to All Participants:
+how do I see my wallet address
+from pranabnayak21@gmail.com to All Participants:
+Why two addresses?
+from pranabnayak21@gmail.com to All Participants:
+ok
+from prashant1611 to All Participants:
+bc1qpvj9pyj9d9e3xjzs7c9e9uazn8xedad9zstpsl
+from prashant1611 to All Participants:
+can you pls transfer some BTC to this address..
+from meringes_11@hotmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+yes
+from prashant1611 to All Participants:
+want to see the journey
+from nksingh413@gmail.com to All Participants:
+Sent a transaction
+from gyanadc to All Participants:
+once again terimal part
+from mrlingam087 to All Participants:
+could you explain again
+from soujanya.veerubhotla@gmail.com to All Participants:
+where can we see the $10 transaction
+from prashant1611 to All Participants:
+bc1qpvj9pyj9d9e3xjzs7c9e9uazn8xedad9zstpsl
+from prashant1611 to All Participants:
+no no..
+from prashant1611 to All Participants:
+l is missing..
+from prashant1611 to All Participants:
+at the end
+from prashant1611 to All Participants:
+'l' at the end
+from sripad6 to All Participants:
+tb1qdegks7hx8ntzxtwc9ur68q3jzsluwz46k4r7z4
+from mrlingam087 to All Participants:
+could you explain again 
+from gyanadc to All Participants:
+termina part could you explain again 
+from sripad6 to All Participants:
+yes received
+from prashant1611 to All Participants:
+pls show how to switch to testnet
+from prashantbkhopkar to All Participants:
+Yes
+from sripad6 to All Participants:
+yes its still Unconfirmed 
+from nksingh413@gmail.com to All Participants:
+yes
+from gyanadc to All Participants:
+yesa
+from Jagadeesh (Faculty) to All Participants:
+https://coinfaucet.eu/en/btc-testnet/
+from pranabnayak21@gmail.com to All Participants:
+The test faucet is validator here?
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+what is channelsn tab?
+from vinuvishwa to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+ok
+from nksingh413@gmail.com to All Participants:
+etherscan.io
+from Jagadeesh (Faculty) to All Participants:
+https://etherscan.io/
+from sudhanvatilgul007@gmail.com to All Participants:
+But after the merge they told the transaction rate has increased?
+from nksingh413@gmail.com to All Participants:
+Decentralize, security, scalability..out of 3 only 2 can be adopted at once..
+from sudhanvatilgul007@gmail.com to All Participants:
+Okay got it
+from prashantbkhopkar to All Participants:
+Will thesse 5 stages completed and then ETH will be able to facilitate in better way?
+from nksingh413@gmail.com to All Participants:
+Block reward is like creating new ETH?
+from prashantbkhopkar to All Participants:
+yes - denominations
+from prashantbkhopkar to All Participants:
+details are available to all - but to know what its content are - one must know their context - right?
+from phnair@gmail.com to All Participants:
+how is the trasanction recorded, when owner of an ether is selling it in excahnge of a fiat currency 
+from prashant1611 to All Participants:
+what are the different type of ERC tokens. Ex - ERC 20 ERC 721
+from nksingh413@gmail.com to All Participants:
+verified
+from prashant1611 to All Participants:
+what is the meaning of Contract ABI ?
+from prashantbkhopkar to All Participants:
+just show how to view contract again?
+from nksingh413@gmail.com to All Participants:
+During compilation we get ABI and bytecodes
+from nksingh413@gmail.com to All Participants:
+this is like API to talk with another smart contract
+from prashant1611 to All Participants:
+is ABI equivalent to executable (.exe) ?
+from prashant1611 to All Participants:
+Is ABI equivalent to APIs ?
+from pranabnayak21@gmail.com to All Participants:
+Was that solidity language in the contract?
+from sudhanvatilgul007@gmail.com to All Participants:
+Are all smart contracts publically available to everyone?
+from mailtwosatheesh@gmail.com to All Participants:
+diff btwn token and crptocurrency pls ?
+from soujanya.veerubhotla@gmail.com to All Participants:
+can u remove chat window from slide
+from pranabnayak21@gmail.com to All Participants:
+I beleve token is a layer above cryptocurrency?
+from vk033397  to All Participants:
+sir please clear screen someone show dark mark on screen
+from soujanya.veerubhotla@gmail.com to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+yes
+from soujanya.veerubhotla@gmail.com to All Participants:
+What is Geth ?
+from nksingh413@gmail.com to All Participants:
+Rinkeyby working?...Rinkeby test ETh are not available on faucet..
+from meringes_11@hotmail.com to All Participants:
+What is Proof of Authority?
+from sabu.sumit@gmail.com to All Participants:
+openEtherum clients vs Geth clients ?
+from sabu.sumit@gmail.com to All Participants:
+ok thanks
+from meringes_11@hotmail.com to All Participants:
+So for proof of authority also you need to have stake to be part of the network right?
+from meringes_11@hotmail.com to All Participants:
+Ok
+from vcibirajan22@gmail.com  to All Participants:
+sir..is there any possible to hack blockchain by using quantum computing....
+from kannan.varadharajan@gmail.com to All Participants:
+how to create a private network ?
+from nksingh413@gmail.com to All Participants:
+yes
+from write2arghyasaha@gmail.com  to All Participants:
+yes
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from rameshvelan@gmail.com to All Participants:
+yes
+from santsp@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+yes
+from arjunlamba737 to All Participants:
+yes
+from kannan.varadharajan@gmail.com to All Participants:
+yes
+from mrlingam087 to All Participants:
+yes
+from vinuvishwa to All Participants:
+yes
+from davidmdenis to All Participants:
+yes
+from prashant1611 to All Participants:
+RPC stands for ?
+from prashant1611 to All Participants:
+noted, thanks!
+from prashantbkhopkar to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+Network ID and RPC Server are important params
+from pranabnayak21@gmail.com to All Participants:
+Is RPC address used to connect the ABIs?
+from nksingh413@gmail.com to All Participants:
+I think Json RPC Provider is used to make connection with blockchain..to our node..
+from abho.sundaresan@gmail.com to All Participants:
+Got it
+from prashantbkhopkar to All Participants:
+I could start Ganach but from 1st page how to start navigating.. scrolling is required?
+from vinuvishwa to All Participants:
+not seeing this . some text is displayed 
+from prashantbkhopkar to All Participants:
+Ok. will do 
+from meringes_11@hotmail.com to All Participants:
+I am not able to do it
+from vinuvishwa to All Participants:
+dont see the scroll bar 
+from abho.sundaresan@gmail.com to All Participants:
+The application icon will be on the toggle bar up top. Click on it to go to the default landing page 
+from meringes_11@hotmail.com to All Participants:
+TRied maximing still not happening
+from prashantbkhopkar to All Participants:
+Ok
+from abho.sundaresan@gmail.com to All Participants:
+You can configure layout of your workspace 
+from prashantbkhopkar to All Participants:
+Ok - from Ganach landing page we should press tab twice to see quick start button
+from prashantbkhopkar to All Participants:
+I got it working
+from prashantbkhopkar to All Participants:
+inside the lab
+from nksingh413@gmail.com to All Participants:
+Metamask is also a Dapp ?
+from vinuvishwa to All Participants:
+@prashantbkhopkar thank you , it worked 
+from mailtwosatheesh@gmail.com to All Participants:
+what is multi word phrases in etherium ?
+from mailtwosatheesh@gmail.com to All Participants:
+ok
+from abho.sundaresan@gmail.com to All Participants:
+can contracts only be deployed on contracts accounts in ethereum , or also on externally owned accounts ??
+from abho.sundaresan@gmail.com to All Participants:
+Done 
+from nksingh413@gmail.com to All Participants:
+done
+from write2arghyasaha@gmail.com  to All Participants:
+Done
+from sabu.sumit@gmail.com to All Participants:
+Done
+from prashant1611 to All Participants:
+done
+from davidmdenis to All Participants:
+ok
+from pranabnayak21@gmail.com to All Participants:
+Is there an option to become a validator in wallets? Just asking, I know it costs a frtune
+from pranabnayak21@gmail.com to All Participants:
+Thank you
+from abho.sundaresan@gmail.com to All Participants:
+so EOAs can only create contracts and trigger them. Thanks 
+from kannan.varadharajan@gmail.com to All Participants:
+show test networks ?
+from abho.sundaresan@gmail.com to All Participants:
+show test networks toggle?
+from mailtwosatheesh@gmail.com to All Participants:
+'
+from abho.sundaresan@gmail.com to All Participants:
+the RPC url or the port
+from nksingh413@gmail.com to All Participants:
+We can do from add network  
+from nksingh413@gmail.com to All Participants:
+5777 is working for me
+from nksingh413@gmail.com to All Participants:
+Got 100 ETH
+from prashantbkhopkar to All Participants:
+ok
+from nksingh413@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+Done till this step
+from chethan.cs95@gmail.com to All Participants:
+done
+from rameshvelan@gmail.com to All Participants:
+can u pls. repeat the process from advanced i have enabled other network
+from pkoratakar to All Participants:
+sir la
+from rameshvelan@gmail.com to All Participants:
+after that what to do
+from abho.sundaresan@gmail.com to All Participants:
+done
+from vk033397  to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+Besides of changing local host network...add freshly from add network..that will be easy..
+from prashantbkhopkar to All Participants:
+I have to get ETH in my wallet before doing this.. is that correct?
+from prashantbkhopkar to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+from test txns we get the Ethers 
+from meringes_11@hotmail.com to All Participants:
+I'm not able to use Ganache only
+from prashant1611 to All Participants:
+yes, we can get ETC from testnet rinkeby etc.
+from nksingh413@gmail.com to All Participants:
+Transaction failed
+from soujanya.veerubhotla@gmail.com to All Participants:
+why only txn fee minus??
+from soujanya.veerubhotla@gmail.com to All Participants:
+what about the 5 eth minus??
+from nksingh413@gmail.com to All Participants:
+Do again it happens sometime..
+from nksingh413@gmail.com to All Participants:
+Done
+from gprabhu96@gmail.com to All Participants:
+there was an option to modify gas price. How does modifying it impact the transfer?
+from nksingh413@gmail.com to All Participants:
+I think gorel is working for test ETH
+from kannan.varadharajan@gmail.com to All Participants:
+dont see activity
+from prashant1611 to All Participants:
+both accounts should be on same testnet
+from prashant1611 to All Participants:
+yes
+from nksingh413@gmail.com to All Participants:
+Yeah Done
+from sabu.sumit@gmail.com to All Participants:
+Done
+from kannan.varadharajan@gmail.com to All Participants:
+good
+from mrlingam087 to All Participants:
+done
+from davidmdenis to All Participants:
+how complex is it to create a private network?
+from prashantbkhopkar to All Participants:
+can an application be built to operate on 2 or more diff blockchains?
+from abho.sundaresan@gmail.com to All Participants:
+done 
+from meringes_11@hotmail.com to All Participants:
+I couldn't try anything on Ganache
+from rameshvelan@gmail.com to All Participants:
+how to lead the wallet from Ropsten
+from prashant1611 to All Participants:
+just want to keep you posted that Lab has disconnect many times today...not sure if others faced this issue
+from prashant1611 to All Participants:
+*disconnected
+from meringes_11@hotmail.com to All Participants:
+I'm not getting a scroll bar for the first page 
+from meringes_11@hotmail.com to All Participants:
+I tried open a new instance
+from prashantbkhopkar to All Participants:
+ok
+from meringes_11@hotmail.com to All Participants:
+2 tabs as in?
+from prashantbkhopkar to All Participants:
+click tab button twice 
+from prashantbkhopkar to All Participants:
+You will see the button
+from prashantbkhopkar to All Participants:
+then you will be able to click on the button then
+from meringes_11@hotmail.com to All Participants:
+Not working still
+from thoratbhakti289 to All Participants:
+ can we access lap later
+from santsp@gmail.com to All Participants:
+Can I get the PPTs Which you have uses in the tutorials?
+from meringes_11@hotmail.com to All Participants:
+I managed to do it now
+from nksingh413@gmail.com to All Participants:
+ABC
+from prashant1611 to All Participants:
+By when we will get today's session recording ?
+from prashantbkhopkar to All Participants:
+will lab be reset and we lose our tabs on browser?
+from abho.sundaresan@gmail.com to All Participants:
+I missed the first part of this session due to a power outage. I'll check back with you once I go through the recording 
+from soujanya.veerubhotla@gmail.com to All Participants:
+ok Thank you Jagadeesh Sir
+from ronakrrb@gmail.com to All Participants:
+yes
+from santsp@gmail.com to All Participants:
+But it may be different E books from ur PPTs
+from abho.sundaresan@gmail.com to All Participants:
+Thank you 
+from kannan.varadharajan@gmail.com to All Participants:
+Thanks!
+from Learner Success Manager to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from sudhanvatilgul007@gmail.com to All Participants:
+Thank You for the class!
+from KONYALAABHISHEK to All Participants:
+thanks
+from ronakrrb@gmail.com to All Participants:
+@santsp they are not different
+from Jagadeesh (Faculty) to All Participants:
+https://lms.simplilearn.com/nps/session/6308b661d6a6103d5bb1a53c
+from prashantbkhopkar to All Participants:
+Thank you.. we need to practice these things - will take during the week.
+from prashant1611 to All Participants:
+Today's class was very insightful. Thank you!
+from abho.sundaresan@gmail.com to All Participants:
+No, I'll get back to you next week after I go through the recording. Thank you sir
+from santsp@gmail.com to All Participants:
+ok thanks @ronakrrb
+from pkoratakar to All Participants:
+installing such wallet and using them how it can behelpful in indutrial or bussiness purpose
+from abho.sundaresan@gmail.com to All Participants:
+yes
+from pranabnayak21@gmail.com to All Participants:
+I have a question on electrum demo we did today. What is the purpose of testFaucet in the flow? Was it just for validation of the address?
+from prashantbkhopkar to All Participants:
+Denominations in Ether are as follows --> Wei, Kilo-Wei, Mega-Wei, Giga-Wei, Szabo, Finney, Ether, Kilo-Ether, Mega-Ether, Giga-Ether 
+from abho.sundaresan@gmail.com to All Participants:
+I think testfaucet is simply used to get test ether from faucets. Each of the testnets has their own faucets to get free ETH into your wallet. 
+from prashantbkhopkar to All Participants:
+uncall block
+from prashantbkhopkar to All Participants:
+or uncall reward? are these the right terms?
+from meringes_11@hotmail.com to All Participants:
+Pls repeat abt uncall blocks
+from abho.sundaresan@gmail.com to All Participants:
+sure
+from santsp@gmail.com to All Participants:
+sure
+
+
