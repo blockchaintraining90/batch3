@@ -1,0 +1,73 @@
+Loyalty reward schemes:
+-----------------------
+
+ Problem statement:
+ -----------------
+   As a end user, there is no way to exchange loyalty rewards earned from other platforms/schems from differnet organizations
+   
+  Jet aiwrays      ---- 10000 + 10000, need 20000 extra points to book a ticket withut paying money
+  Singapore airles ---- 40000 - 10000   - expiration time of 1 year
+  US airles        ---- 50000
+
+  Department of Airlines: DGCA
+  ----------------------------
+
+  network - DGCA, 5 airlines, customer
+  
+ET money/TATA NUE: aggregators ----(mutual funds, policy, stocks) --- user
+---------
+
+myself will provide user loyalty points..... NFT 100, 100, 100
+ 
+service --- 300 points for purchainsg IPO
+
+NFT loyalty reward schmes
+
+
+Aero: certf
+----
+
+Depart of airlines if US,collins aerospcae, 3rd audit firms --- parts manufcatuer in US
+
+ aircfart --- has to refubrished in secondary markets....
+ 10 yrs ----- 
+ certificying these air parts on dlt......
+
+ regulatoruy for dept f US airlines
+
+  
+  
+ 
+Issuance of digital certificates(Bachelors degree, record for work experience, BGV):
+-------------------------------------------------------------------- ---------------
+
+ universities, it companies, audit firm
+
+ user record: 
+
+  { 
+     user name, subject enroll , year of passing, degree of ---- univerties
+     employment, from, to , years, worked for --- legitimate
+     back ground verifications   ----- { provide confirmation mail form my univeristy professor, feedback from previous supervisors } --- depend on third party intermediatiries
+
+  }
+
+
+Binance exchange: comprised
+----------------
+
+
+
+ BSC ---- crypto --- smart contracts
+
+
+ reentrcy attack
+ decimal
+ fallback functions
+ infinite loop ----- exhasut all ether
+
+
+
+
+
+

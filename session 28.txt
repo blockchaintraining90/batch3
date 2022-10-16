@@ -1,0 +1,56 @@
+Start a network:
+----------------
+
+1. Run network script to start the network
+    ./network.sh 
+  a. Generate crypto material for peers, orderers
+  b. Pick up the binaries from where we have downloaded the entire fabric binaries and docker images
+  c. Genretae a sample config file with 2 Orgs (1 peer/org), 1 orderer, 1 CLI --- Default
+  
+2. We also have options to pass few parameters while starting the network
+   
+  a. create a channel
+  b. create CA
+  c. Create CouchDB
+
+yaml ---> specifying config details in a format (yet another markup language)
+
+
+
+15 orgs, 5 orderes----->
+ 
+ 1. I need approval from org1 and org2
+    policy('ORG1' and 'ORG2')
+ 2. I need either from org3/org4
+    policy('org3' or 'org4')
+ 3. any of the orgs will validate the txn 
+    'any readers'
+ 4. majority --- 8 approvals
+
+
+
+
+Fabric: golang (java,javascript,pythin,go/anythoer langs using chaincode as a service)
+Corda : Kotlin (kotlin/java)
+
+
+Ordering service: Read, write set {vlue read from DB, value updated in DB}
+
+Notary service (axis, icici, sbi) : will have visibility of all the data in a corda network (ordere/validator) {a,b,c}----> single node with entire ledger
+ uniquness consensus that avoids doube spending
+
+corda --- free version ---- supp features --- 500 - 5000 tps -- free tier
+      --- entreprise version ---- more features --- 15000 tps -- paid account basis
+
+fabric --- 3000 - 20000 tps
+
+~ 4000 tps
+
+ fabric --- community supp........ NFT, FT----
+ corda -- token
+
+
+
+
+
+

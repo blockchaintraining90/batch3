@@ -1,0 +1,444 @@
+Insurance claim process with Blockchain:
+----------------------------------------
+
+ Problem Statement:
+ ------------------
+   Current process is lacking in terms of turn around time and too many process issues at most of the business entities.
+   Claimer, Insurer, Regulatory (IRDAI)/, third parties for evaluations, Hospital/travel
+    
+   As a customer I have visibility only on the Insurer portal end 
+   Claim id , current status
+
+Blockchain based sol:
+---------------------
+ network -  {Claimer, Insurer, Regulatory (IRDAI)/, third parties for evaluations, Hospital/travel}. 90 days (30- insurer, 30 - audting firms, 30- hospital/tarvel)
+ smart contract - { } on all the peer
+ application - submit txn to this network
+  1. cust sub txn , it creates a unique claim id on DLT
+  2. claim id is then sent to insurer ----- {cust id, claim id, third party}
+  3. clam id is forward to auditor.....{cust id, claim id, third party, ateested}---
+  4. 
+
+
+if claimid.status == 'approved from auditor'
+ go to forwardclaimtoHospital
+
+
+
+no of claims  > 4, max claim amt = 3000000
+
+1 - 100000
+2 - 150000
+3 - 150000
+
+   100000 ----
+
+if claimid.status == 'approved'
+   {
+     claimid = 123
+     custname = jag
+     refund amt= 100000
+     quoted = 200000
+     eligibe amt = 500000
+   }
+
+if end date of claim = current date and lapse days = 190
+  {  
+  
+   call autoapproval()
+   call initiateRefund()
+   events raiseAlert(func payload changed) (mails, events to devices, send sms, notificaion on ur apps) ---- all parties in the network --- financial implications
+ } 
+
+
+Reinsurance ----> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+from Jagadeesh (Faculty) to All Participants:
+Those facing issue with installing GIT, refer the link below to install from ZIP file
+from Jagadeesh (Faculty) to All Participants:
+https://help.dreamhost.com/hc/en-us/articles/360043102852-Installing-a-custom-version-of-curl-command-line-tool-
+from Jagadeesh (Faculty) to All Participants:
+Those facing issue with docker, reinstall it from below link
+from Jagadeesh (Faculty) to All Participants:
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
+from rameshvelan@gmail.com to All Participants:
+yes
+from sabu.sumit@gmail.com to All Participants:
+yes clear 
+from arjunlamba737 to All Participants:
+Good morning all
+from sabu.sumit@gmail.com to All Participants:
+good morning sir
+from mrlingam087 to All Participants:
+good moning sir
+from nksingh413@gmail.com to All Participants:
+GM
+from sabu.sumit@gmail.com to All Participants:
+yes start and stop network with different combination done
+from ronakrrb@gmail.com to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+brb
+from rameshvelan@gmail.com to All Participants:
+when i started the network it says no such files 
+from prashantbkhopkar to All Participants:
+one more level down
+from prashantbkhopkar to All Participants:
+we used test-application yesterday
+from prashantbkhopkar to All Participants:
+right ok
+from prashantbkhopkar to All Participants:
+based on exit codeds 2>&1
+from prashantbkhopkar to All Participants:
+yes
+from prashantbkhopkar to All Participants:
+will have to go for a short break sir - will be back in a while
+from priyabratajena12 to All Participants:
+why couchdb sir?
+from thoratbhakti289 to All Participants:
+where is this document ?
+from priyabratajena12 to All Participants:
+got it
+from thoratbhakti289 to All Participants:
+when live session in on we cant see the document
+from nksingh413@gmail.com to All Participants:
+6.38,6.39,6.45
+from thoratbhakti289 to All Participants:
+ok
+from thoratbhakti289 to All Participants:
+may be later will check
+from prashantbkhopkar to All Participants:
+back now
+from prashantbkhopkar to All Participants:
+Sir what did I miss 
+from Jagadeesh (Faculty) to All Participants:
+http://127.0.0.1:5984/_utils
+from kannan.varadharajan@gmail.com to All Participants:
+what is pwd ?
+from prashant1611 to All Participants:
+adminpw
+from Jagadeesh (Faculty) to All Participants:
+adminpw
+from kannan.varadharajan@gmail.com to All Participants:
+difference between #4 and #7 step ?
+from mrlingam087 to All Participants:
+sir could you explain yaml
+from mrlingam087 to All Participants:
+okay sir
+from ronakrrb@gmail.com to All Participants:
+So if we have 30 peers, will there be 30 entries of couchdb config?
+from ronakrrb@gmail.com to All Participants:
+okay
+from prashantbkhopkar to All Participants:
+what are the roles of these many diff certificates?
+from prashantbkhopkar to All Participants:
+Authonticity
+from prashantbkhopkar to All Participants:
+Entitlements..
+from prashantbkhopkar to All Participants:
+ok
+from muppala.pratap@gmail.com to All Participants:
+if we want add client..do we need todwon network or only we can do
+from prashantbkhopkar to All Participants:
+All of this is covered in the document that you have shared in y'days session. Correct?
+from sabu.sumit@gmail.com to All Participants:
+majority means more then half.. right?
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from prashantbkhopkar to All Participants:
+Ok 
+from kannan.varadharajan@gmail.com to All Participants:
+what are profiles ?
+from prashantbkhopkar to All Participants:
+And the yaml files are self explanatory as well.
+from prashantbkhopkar to All Participants:
+pleaase ping the link
+from Jagadeesh (Faculty) to All Participants:
+https://github.com/blockchaintraining90/batch3
+from abho.sundaresan@gmail.com to All Participants:
+Thank you so much. 
+from prashantbkhopkar to All Participants:
+Thanks
+from kannan.varadharajan@gmail.com to All Participants:
+cool. tx.
+from Jagadeesh (Faculty) to All Participants:
+https://help.dreamhost.com/hc/en-us/articles/360043102852-Installing-a-custom-version-of-curl-command-line-tool-
+from vinuvishwa to All Participants:
+Even with docker link shared today, installation is not working 
+from mrlingam087 to All Participants:
+Local fabric binaries and docker images are out of  sync. This may cause problems.
+Pulling orderer.example.com (hyperledger/fabric-orderer:latest)...
+ERROR: manifest for hyperledger/fabric-orderer:latest not found
+
+from prashantbkhopkar to All Participants:
+Are we starting with R3 Corda now?
+from abho.sundaresan@gmail.com to All Participants:
+nope
+from sabu.sumit@gmail.com to All Participants:
+No sir
+from prashantbkhopkar to All Participants:
+No
+from kannan.varadharajan@gmail.com to All Participants:
+No
+from anukeerthi71@gmail.com to All Participants:
+no
+from thoratbhakti289 to All Participants:
+no
+from vk033397  to All Participants:
+no
+from pkoratakar to All Participants:
+is it facing security issue
+from abho.sundaresan@gmail.com to All Participants:
+so its a distributed ledger built for enterprises
+from kannan.varadharajan@gmail.com to All Participants:
+state ?
+from meringes_11@hotmail.com to All Participants:
+could you repeat this slide
+from thoratbhakti289 to All Participants:
+what about validation 
+from thoratbhakti289 to All Participants:
+how it is validate 
+from sabu.sumit@gmail.com to All Participants:
+so it should be used in place of permissioned blockchain... as it got scalability feature?
+from prashantbkhopkar to All Participants:
+python
+from prashantbkhopkar to All Participants:
+julia 
+from prashantbkhopkar to All Participants:
+in fabric
+from prashantbkhopkar to All Participants:
+Ok
+from meringes_11@hotmail.com to All Participants:
+But if it's a distributed ledger how it has its own transaction?
+from abho.sundaresan@gmail.com to All Participants:
+so the orgs jointly maintain a shared ledger ??? like 1,7
+from rameshvelan@gmail.com to All Panelists:
+are they part of same organisation?
+from kannan.varadharajan@gmail.com to All Participants:
+is the data only transactions ?
+from thoratbhakti289 to All Participants:
+data can be any thing ? filr, transaction ,image etc
+from thoratbhakti289 to All Participants:
+ok
+from mailtwosatheesh@gmail.com to All Participants:
+what is much consensus and so bilateral ?
+from sabu.sumit@gmail.com to All Participants:
+@satheesh... just some dummy texts
+from prashantbkhopkar to All Participants:
+how corda compares with fabric for performance and scalability?
+from kannan.varadharajan@gmail.com to All Participants:
+no endorsing or intermediary in this case ?
+from abho.sundaresan@gmail.com to All Participants:
+how is a corda contract different from a traditional smart contract 
+from meringes_11@hotmail.com to All Participants:
+So notary service is like a centralized netword?
+from meringes_11@hotmail.com to All Participants:
+Is it a node?
+from vinuvishwa to All Participants:
+is this typcally an entity to mans this ? 
+from prashantbkhopkar to All Participants:
+Is it a node with higher storage / processing?
+from abho.sundaresan@gmail.com to All Participants:
+so the notary checks whether the transaction has been double spent?? by keeping the information of transactions from different nodes to confirm the uniqueness of the transaction
+from ronakrrb@gmail.com to All Panelists:
+does this notary service nodes be replicated just like transaction in blocks
+from rameshvelan@gmail.com to All Panelists:
+are they common entity? between the organisations?
+from mailtwosatheesh@gmail.com to All Participants:
+because of no central we call corda is not part of block chain. after this notary i bit confused. could u pls explain
+from vinuvishwa to All Participants:
+is there an effort to standadise the nomenclature ?
+from kannan.varadharajan@gmail.com to All Participants:
+validity can only be done by the nodes in transaction unlike notary ?
+from nksingh413@gmail.com to All Participants:
+Why do we need corda if we have better option like Fabric that is semi decentralized..but this is purely centralized with same services like Fabric ?....
+from thoratbhakti289 to All Participants:
+My name is Bhakti Thorat 
+from abho.sundaresan@gmail.com to All Participants:
+ok so the validity of the transaction is ensured by the parties involved in the transaction; the uniqueness of the transaction is verified by the notary, and neither of them actually needs to use the blockchain
+from vinuvishwa to All Participants:
+in the financial world DLT is more popular than blockchain 
+from ronakrrb@gmail.com to All Panelists:
+Is Corda cost efficient than fabric?
+from thoratbhakti289 to All Participants:
+thank you Abho
+from prashant1611 to All Participants:
+Sir, can you pls explain that bit more - diff b/w Fabric & Corda
+from vinuvishwa to All Participants:
+what is the tps supporteed by fabric ? 
+from ronakrrb@gmail.com to All Panelists:
+Is Corda cost efficient than fabric in terms of network cost?
+from ronakrrb@gmail.com to All Panelists:
+But there is no replication of data in Corda right?
+from kannan.varadharajan@gmail.com to All Participants:
+what is user base / count between fabric and corda ?
+from meringes_11@hotmail.com to All Participants:
+What's the advantage of using corda over fabric?
+from Jagadeesh (Faculty) to All Participants:
+https://www.r3.com/
+from davidmdenis to All Participants:
+depends on what our use is
+from kannan.varadharajan@gmail.com to All Participants:
+I think hyperledger is open source and Corda is not ?
+from Jagadeesh (Faculty) to All Participants:
+https://www.youtube.com/watch?v=K_2QhtTBN8U
+from Jagadeesh (Faculty) to All Participants:
+https://www.youtube.com/channel/UC7_X0WkMtkWzaVUKF-PRBNQ
+from mrlingam087 to All Participants:
+could you solidity link sir
+from abho.sundaresan@gmail.com to All Participants:
+ok
+from nksingh413@gmail.com to Jagadeesh (Faculty) (privately):
+c
+from abho.sundaresan@gmail.com to All Participants:
+any labs today??
+from pranabnayak21@gmail.com to All Participants:
+C
+from KONYALAABHISHEK to All Participants:
+indy
+from meringes_11@hotmail.com to All Participants:
+c
+from rameshvelan@gmail.com to All Panelists:
+indy
+from santsp@gmail.com to All Participants:
+c
+from prashant1611 to All Participants:
+C
+from nksingh413@gmail.com to All Participants:
+c
+from thoratbhakti289 to All Participants:
+C
+from write2arghyasaha@gmail.com  to All Participants:
+C
+from mrlingam087 to All Participants:
+c
+from prashantbkhopkar to All Participants:
+C
+from prashant1611 to All Participants:
+D
+from abho.sundaresan@gmail.com to All Participants:
+d
+from nksingh413@gmail.com to All Participants:
+b
+from pranabnayak21@gmail.com to All Participants:
+B
+from ronakrrb@gmail.com to All Panelists:
+b
+from prashant1611 to All Participants:
+A
+from meringes_11@hotmail.com to All Participants:
+b
+from prashantbkhopkar to All Participants:
+B
+from thoratbhakti289 to All Participants:
+a
+from write2arghyasaha@gmail.com  to All Participants:
+B
+from rameshvelan@gmail.com to All Panelists:
+b
+from abho.sundaresan@gmail.com to All Participants:
+b
+from prashant1611 to All Participants:
+A
+from prashantbkhopkar to All Participants:
+A
+from meringes_11@hotmail.com to All Participants:
+a
+from ronakrrb@gmail.com to All Panelists:
+a
+from nksingh413@gmail.com to All Participants:
+a
+from santsp@gmail.com to All Participants:
+A
+from write2arghyasaha@gmail.com  to All Participants:
+A
+from abho.sundaresan@gmail.com to All Participants:
+a
+from pranabnayak21@gmail.com to All Participants:
+a
+from rameshvelan@gmail.com to All Panelists:
+c
+from mrlingam087 to All Participants:
+a
+from abho.sundaresan@gmail.com to All Participants:
+a
+from nksingh413@gmail.com to All Participants:
+a
+from ronakrrb@gmail.com to All Panelists:
+a
+from mrlingam087 to All Participants:
+a
+from pranabnayak21@gmail.com to All Participants:
+a
+from prashantbkhopkar to All Participants:
+A
+from thoratbhakti289 to All Participants:
+a
+from write2arghyasaha@gmail.com  to All Participants:
+A
+from rameshvelan@gmail.com to All Panelists:
+a
+from prashant1611 to All Participants:
+A
+from nksingh413@gmail.com to All Participants:
+b
+from pranabnayak21@gmail.com to All Participants:
+b
+from ronakrrb@gmail.com to All Panelists:
+b
+from write2arghyasaha@gmail.com  to All Participants:
+B
+from anukeerthi71@gmail.com to All Participants:
+A
+from abho.sundaresan@gmail.com to All Participants:
+b
+from vinuvishwa to All Participants:
+b
+from prashant1611 to All Participants:
+B
+from mrlingam087 to All Participants:
+b
+from mailtwosatheesh@gmail.com to All Participants:
+b
+from prashantbkhopkar to All Participants:
+B
+from rameshvelan@gmail.com to All Panelists:
+b
+from thoratbhakti289 to All Participants:
+b
+from santsp@gmail.com to All Participants:
+b
+from prashantbkhopkar to All Participants:
+We can still do it.. for practice..?
+from meringes_11@hotmail.com to All Participants:
+b
+from meringes_11@hotmail.com to All Participants:
+a
+from prashantbkhopkar to All Participants:
+Sir please upload today's updated Notepad in GIT as well. 
+from prashantbkhopkar to All Participants:
+Break now?
+from abho.sundaresan@gmail.com to All Participants:
+30 mins 
+from kannan.varadharajan@gmail.com to All Panelists:
+I have step out to drop my kid for a class so will be late to join our next session post break.
